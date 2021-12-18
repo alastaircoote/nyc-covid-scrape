@@ -18,6 +18,8 @@ import { parseTime } from './parse-times.js';
  * @property {Record<string,number[]>} hours
  * @property {ParseError[]} errors
  * @property {string | undefined} pre_register_link
+ * @property {{lat:number, lng:number} | undefined} location
+ * @property {string} wait_time
  */
 
 /**
@@ -48,7 +50,9 @@ export function parseSite(pTag, window, borough, siteType) {
 		ages: [],
 		phone: undefined,
 		offers: [],
-		pre_register_link: undefined
+		pre_register_link: undefined,
+		location: undefined,
+		wait_time: 'unknown'
 	};
 
 	const firstElement = elements.shift();

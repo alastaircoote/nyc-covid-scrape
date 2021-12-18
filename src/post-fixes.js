@@ -43,3 +43,85 @@ export function bellevue_walkin(sites, doc) {
 	});
 	return found;
 }
+
+/** @type PostFixer */
+export function add_rapid_pcr_to_mobile(sites, doc) {
+	const boroughs = ['bronx', 'brooklyn', 'manhattan', 'queens', 'staten-island'];
+
+	let found = false;
+	for (const borough of boroughs) {
+		const h3 = doc.querySelector(`#${borough}-mobile`);
+		if (!h3) {
+			continue;
+		}
+		if (h3.innerHTML.indexOf('Rapid and PCR available') === -1) {
+			continue;
+		}
+		found = true;
+		sites
+			.filter((site) => {
+				return site.borough === borough && site.site_type === 'mobile';
+			})
+			.forEach((site) => {
+				site.offers.push('rapid', 'pcr');
+			});
+	}
+	return found;
+}
+
+/** @type PostFixer */
+export function add_saliva_pcr_to_micro(sites, doc) {
+	const boroughs = ['bronx', 'brooklyn', 'manhattan', 'queens', 'staten-island'];
+
+	let found = false;
+	for (const borough of boroughs) {
+		const h3 = doc.querySelector(`#${borough}-micro`);
+		if (!h3) {
+			continue;
+		}
+		if (h3.innerHTML.indexOf('Saliva-based PCR') === -1) {
+			continue;
+		}
+		found = true;
+		sites
+			.filter((site) => {
+				return site.borough === borough && site.site_type === 'micro';
+			})
+			.forEach((site) => {
+				site.offers.push('saliva-pcr');
+			});
+	}
+	return found;
+}
+
+/** @type PostFixer */
+export function add_pcr_to_mortar(sites, doc) {
+	const boroughs = ['bronx', 'brooklyn', 'manhattan', 'queens', 'staten-island'];
+
+	let found = false;
+	for (const borough of boroughs) {
+		sites
+			.filter((site) => {
+				return (
+					site.borough === borough &&
+					site.site_type === 'mortar' &&
+					site.offers.indexOf('pcr') === -1
+				);
+			})
+			.forEach((site) => {
+				site.offers.push('pcr');
+				found = true;
+			});
+	}
+	return found;
+}
+
+/** @type PostFixer */
+export function fix_woodside_name(sites) {
+	const woodside = sites.find((s) => s.name === 'NYCHA Woodside Streetside Parking at');
+	if (!woodside) {
+		return false;
+	}
+	woodside.name = 'NYCHA Woodside Streetside Parking';
+	return true;
+}

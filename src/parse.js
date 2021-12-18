@@ -4,6 +4,9 @@ import * as fixes from './fixes.js';
 import * as postFixes from './post-fixes.js';
 import chalk from 'chalk';
 import { parseSite } from './parse-site.js';
+import { geocode } from './geocode.js';
+import fs from 'fs/promises';
+import { addWaitTimes } from './add_wait_times.js';
 
 /**
  *
@@ -109,15 +112,37 @@ async function runScraper() {
 
 		const parsed = parseSite(element, window, currentBorough, currentTestSiteType);
 
-		sites.push(parsed);
-		const result = parsed.errors.length > 0 ? '❌' : '✅';
+		const geo = await geocode(parsed.address);
 
-		console.log(`${result} ${parsed.name}`);
+		const geoResult = geo.results[0];
+
+		const acceptableGeocodeTypes = ['GEOMETRIC_CENTER', 'RANGE_INTERPOLATED', 'ROOFTOP'];
+
+		if (acceptableGeocodeTypes.indexOf(geoResult.geometry.location_type) === -1) {
+			parsed.errors.push({
+				type: 'bad-geocode',
+				value: parsed.address
+			});
+		} else {
+			// @ts-ignore
+			parsed.location = geoResult.geometry.location;
+		}
+
+		sites.push(parsed);
 	}
 
 	runPostFixes(sites, document);
 
+	await addWaitTimes(sites);
+
 	for (const site of sites) {
+		if (site.offers.length === 0) {
+			site.errors.push({
+				type: 'no-offers',
+				value: 'site has no offers'
+			});
+		}
+
 		if (site.errors.length > 0) {
 			console.log(chalk.bold('\nErrors encountered at ' + site.name));
 
@@ -126,6 +151,9 @@ async function runScraper() {
 			}
 		}
 	}
+
+	const output = new URL('../output/sites.json', import.meta.url).pathname;
+	await fs.writeFile(output, JSON.stringify(sites, null, 2));
 }
 
 const CHECK_URL = `https://www.nychealthandhospitals.org/covid-19-testing-sites/`;

@@ -31,7 +31,8 @@ export function remove_top_button(doc) {
 
 /** @type Fixer */
 export function bronx_micro_header(doc) {
-	const element = doc.querySelector('h3#bronx-micro + p');
+	const h3 = doc.querySelector('h3#bronx-micro');
+	const element = h3?.nextElementSibling;
 	if (!element || !element.parentNode) {
 		return false;
 	}
@@ -44,6 +45,7 @@ export function bronx_micro_header(doc) {
 		return false;
 	}
 	element.parentNode.removeChild(element);
+	h3.innerHTML = 'Micro-Sites: Saliva-based PCR';
 	return true;
 }
 
@@ -76,6 +78,23 @@ export function co_op_city_date_typo(doc) {
 	while (check) {
 		if (check.innerHTML.indexOf('Wedenesday') > -1) {
 			check.innerHTML = check.innerHTML.replace('Wedenesday', 'Wednesday');
+			return true;
+		}
+		check = check.nextElementSibling;
+	}
+	return false;
+}
+
+/** @type Fixer */
+export function queens_museum_repeat_address(doc) {
+	const queensHeader = doc.querySelector('#queens-micro');
+	if (!queensHeader) {
+		return false;
+	}
+	let check = queensHeader.nextElementSibling;
+	while (check) {
+		if (check.innerHTML.indexOf('Queens Museum New York City Building') > -1) {
+			check.innerHTML = 'Queens Museum New York City Building<br>' + check.innerHTML;
 			return true;
 		}
 		check = check.nextElementSibling;
