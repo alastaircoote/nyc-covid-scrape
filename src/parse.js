@@ -7,6 +7,7 @@ import { parseSite } from './parse-site.js';
 import { geocode } from './geocode.js';
 import fs from 'fs/promises';
 import { addWaitTimes } from './add_wait_times.js';
+import path from 'path';
 
 /**
  *
@@ -48,6 +49,27 @@ function runPostFixes(sites, document) {
 async function runScraper() {
 	const res = await fetch(CHECK_URL);
 	const html = await res.text();
+
+	const scrapeDir = new URL(`../scrapes/`, import.meta.url);
+
+	const allScrapes = await fs.readdir(scrapeDir.pathname);
+	const mostRecentScrape = allScrapes.sort(
+		(a, b) => parseInt(path.parse(b).name, 10) - parseInt(path.parse(a).name, 10)
+	)[0];
+
+	const contentsOfLastScrape = await fs.readFile(
+		new URL(mostRecentScrape, scrapeDir).pathname,
+		'utf-8'
+	);
+
+	if (contentsOfLastScrape === html) {
+		console.log('No file change!');
+		return;
+	}
+
+	const writeTo = new URL(`./${Date.now()}.html`, scrapeDir).pathname;
+
+	await fs.writeFile(writeTo, html);
 
 	const dom = new JSDOM(html, {
 		url: CHECK_URL

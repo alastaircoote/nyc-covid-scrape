@@ -529,7 +529,7 @@
       "lat": 40.8471414,
       "lng": -73.89734539999999
     },
-    "wait_time": "NR",
+    "wait_time": "unknown",
     "open": [
       "2021-12-18"
     ]
@@ -866,7 +866,7 @@
       "lat": 40.8104385,
       "lng": -73.9159236
     },
-    "wait_time": "0-30"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Jacobi",
@@ -912,7 +912,7 @@
       "lat": 40.8550347,
       "lng": -73.8442026
     },
-    "wait_time": "0-30"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Lincoln",
@@ -954,7 +954,7 @@
       "lat": 40.8160855,
       "lng": -73.9247762
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Morrisania",
@@ -1004,7 +1004,7 @@
       "lat": 40.8362867,
       "lng": -73.9202294
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/North Central Bronx",
@@ -1050,7 +1050,7 @@
       "lat": 40.8804138,
       "lng": -73.8810488
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "Riverdale Neighborhood House",
@@ -1946,7 +1946,7 @@
       "lat": 40.5850562,
       "lng": -73.96546049999999
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
@@ -1996,7 +1996,7 @@
       "lat": 40.695099,
       "lng": -73.9764879
     },
-    "wait_time": "60-90"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, East New York",
@@ -2092,7 +2092,7 @@
       "lat": 40.6559963,
       "lng": -73.947222
     },
-    "wait_time": "60-90"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Woodhull",
@@ -2138,7 +2138,7 @@
       "lat": 40.7000538,
       "lng": -73.9417768
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "4002 Fort Hamilton",
@@ -2186,7 +2186,7 @@
       "lat": 40.6427149,
       "lng": -73.9922313
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Bay Ridge",
@@ -2234,7 +2234,7 @@
       "lat": 40.6217205,
       "lng": -74.0258617
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Bensonhurst",
@@ -2282,7 +2282,7 @@
       "lat": 40.625407,
       "lng": -73.9979369
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Midwood Pre-K",
@@ -2331,7 +2331,7 @@
       "lat": 40.627831,
       "lng": -73.9654302
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Starrett City",
@@ -2379,7 +2379,7 @@
       "lat": 40.6495776,
       "lng": -73.8831087
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Brooklyn Navy Yard",
@@ -2932,7 +2932,7 @@
       "lat": 40.75930169999999,
       "lng": -73.98426119999999
     },
-    "wait_time": "30-60",
+    "wait_time": "unknown",
     "open": [
       "2021-12-13",
       "2021-12-14",
@@ -3141,7 +3141,7 @@
       "lat": 40.8052028,
       "lng": -73.9536622
     },
-    "wait_time": "NR",
+    "wait_time": "unknown",
     "open": [
       "2021-12-13",
       "2021-12-14",
@@ -3744,7 +3744,7 @@
       "lat": 40.7396865,
       "lng": -73.9762044
     },
-    "wait_time": "60-90"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
@@ -3794,7 +3794,7 @@
       "lat": 40.7131148,
       "lng": -73.9877376
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Harlem",
@@ -3840,7 +3840,7 @@
       "lat": 40.8142287,
       "lng": -73.9396101
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Metropolitan",
@@ -3886,7 +3886,7 @@
       "lat": 40.7852328,
       "lng": -73.94502899999999
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "Harlem Congregations for Community Improvement, Inc. (Petioni)",
@@ -4443,7 +4443,7 @@
       "lat": 40.7534226,
       "lng": -73.9104811
     },
-    "wait_time": "NR",
+    "wait_time": "unknown",
     "open": [
       "2021-12-13",
       "2021-12-14",
@@ -5115,7 +5115,7 @@
       "lat": 40.74553179999999,
       "lng": -73.8882282
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "NYC Health + Hospitals/Queens",
@@ -5161,7 +5161,7 @@
       "lat": 40.7186426,
       "lng": -73.8041807
     },
-    "wait_time": "NR"
+    "wait_time": "unknown"
   },
   {
     "name": "Sorrentino Rec Center",
@@ -5209,7 +5209,7 @@
       "lat": 40.60248929999999,
       "lng": -73.7513252
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Greater Allen Cathedral of NY",
@@ -5876,7 +5876,7 @@
       "lat": 40.5918312,
       "lng": -74.1391991
     },
-    "wait_time": "30-60",
+    "wait_time": "unknown",
     "open": [
       "2021-12-14",
       "2021-12-15",
@@ -5962,7 +5962,7 @@
       "lat": 40.6203745,
       "lng": -74.0768895
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "Former St John Villa HS",
@@ -6009,7 +6009,7 @@
       "lat": 40.6012163,
       "lng": -74.0687077
     },
-    "wait_time": "0-30"
+    "wait_time": "unknown"
   },
   {
     "name": "Greenbelt Recreation Center",
@@ -6105,7 +6105,7 @@
       "lat": 40.6440515,
       "lng": -74.0725126
     },
-    "wait_time": "30-60"
+    "wait_time": "unknown"
   },
   {
     "name": "MetroPlus Community Office (Staten Island)",
