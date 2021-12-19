@@ -1,0 +1,30 @@
+name: Scrape latest
+
+on:
+  schedule:
+    - cron:  '0 8,10,12,14,16,18,20 * * *'
+  push:
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Scrape latest data
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+      env:
+        GEOCODE_KEY: ${{ secrets.GEOCODE_KEY }}
+    - run: npm install
+    - run: npm start
+    - name: Commit and push changes
+      run: |-
+        git config user.name "Scraper"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
