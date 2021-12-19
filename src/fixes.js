@@ -101,3 +101,30 @@ export function queens_museum_repeat_address(doc) {
 	}
 	return false;
 }
+
+/** @type Fixer */
+export function remove_rotating_metadata(doc) {
+	// There's a banner that changes every hour and a comment at the end of the page about
+	// the last time the page was created. We want to ignore those otherwise we're going to
+	// reparse every time we scrape.
+
+	const icon = doc.querySelector('link[rel=icon]');
+
+	if (!icon) {
+		return false;
+	}
+	const style = icon.nextElementSibling;
+	const script = style?.nextElementSibling;
+	if (!style || style.tagName !== 'STYLE' || !script || script.tagName !== 'SCRIPT') {
+		return false;
+	}
+	style.parentElement?.removeChild(style);
+	script.parentElement?.removeChild(script);
+
+	const html = doc.querySelector('html');
+	while (html?.nextSibling) {
+		html?.nextSibling.parentNode?.removeChild(html?.nextSibling);
+	}
+
+	return true;
+}
