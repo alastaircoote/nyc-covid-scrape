@@ -133,7 +133,7 @@ async function runScraper() {
 
 	runPostFixes(sites, document);
 
-	await addWaitTimes(sites);
+	// await addWaitTimes(sites);
 
 	for (const site of sites) {
 		if (site.offers.length === 0) {
