@@ -157,6 +157,8 @@ async function runScraper() {
 
 	// await addWaitTimes(sites);
 
+	let hasErrors = false;
+
 	for (const site of sites) {
 		if (site.offers.length === 0) {
 			site.errors.push({
@@ -166,6 +168,7 @@ async function runScraper() {
 		}
 
 		if (site.errors.length > 0) {
+			hasErrors = true;
 			console.log(chalk.bold('\nErrors encountered at ' + site.name));
 
 			for (const error of site.errors) {
@@ -173,9 +176,13 @@ async function runScraper() {
 			}
 		}
 	}
-
-	const output = new URL('../output/sites.json', import.meta.url).pathname;
-	await fs.writeFile(output, JSON.stringify(sites, null, 2));
+	if (hasErrors) {
+		console.log('Found errors, exiting without save');
+		process.exitCode = 1;
+	} else {
+		const output = new URL('../output/sites.json', import.meta.url).pathname;
+		await fs.writeFile(output, JSON.stringify(sites, null, 2));
+	}
 }
 
 const CHECK_URL = `https://www.nychealthandhospitals.org/covid-19-testing-sites/`;
