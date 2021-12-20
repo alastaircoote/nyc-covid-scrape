@@ -139,9 +139,6 @@ export function fix_brooklyn_navy_yard(doc) {
 	if (!p) {
 		return false;
 	}
-	if (p.innerHTML.indexOf('Navy Yard') === -1) {
-		return false;
-	}
 	if (
 		p.innerHTML.indexOf('Monday – Sunday, 8:30 a.m. – 4:30 p.m.') === -1 ||
 		p.innerHTML.indexOf('Friday, 8:30 a.m. – 1:30 p.m.') === -1

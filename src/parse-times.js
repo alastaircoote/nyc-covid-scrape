@@ -43,9 +43,7 @@ export function parseTime(timeString, data) {
 	const multilineRegexResult = MULTILINE_SPLIT.exec(timeString);
 	if (multilineRegexResult) {
 		const [_, left, right] = multilineRegexResult;
-		parseTime(left, data);
-		parseTime(right, data);
-		return times;
+		return parseTime(left, data) && parseTime(right, data);
 	}
 
 	const days = [];
