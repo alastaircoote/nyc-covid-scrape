@@ -3653,6 +3653,34 @@
     ]
   },
   {
+    "name": "Abyssinian Baptist Church – Pediatric",
+    "address": "132 W 138th St,\nNew York, NY 10030",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "sunday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8166821,
+      "lng": -73.9415561
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-19"
+    ]
+  },
+  {
     "name": "Times Square Testing Site",
     "address": "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square\nNew York, NY 10036",
     "borough": "manhattan",
@@ -5040,34 +5068,6 @@
       "2021-12-16",
       "2021-12-17",
       "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Helen Marshall Playground",
-    "address": "100 St & 24th Ave,\nEast Elmhurst, NY 11369",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7666574,
-      "lng": -73.8701809
-    },
-    "wait_time": "unknown",
-    "open": [
       "2021-12-19"
     ]
   },

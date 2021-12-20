@@ -8,6 +8,7 @@ import { geocode } from './geocode.js';
 import fs from 'fs/promises';
 import { addWaitTimes } from './add_wait_times.js';
 import path from 'path';
+import { doUpload } from './upload-s3.js';
 
 /**
  *
@@ -79,10 +80,6 @@ async function runScraper() {
 		}
 	}
 
-	const writeTo = new URL(`./${Date.now()}.html`, scrapeDir).pathname;
-
-	await fs.writeFile(writeTo, modifiedHTML);
-
 	const container = document.querySelector('#navbar.right-testing-side');
 
 	if (!container) {
@@ -139,7 +136,6 @@ async function runScraper() {
 		const parsed = parseSite(element, window, currentBorough, currentTestSiteType);
 
 		const geo = await geocode(parsed.address);
-
 		const geoResult = geo.results[0];
 
 		const acceptableGeocodeTypes = ['GEOMETRIC_CENTER', 'RANGE_INTERPOLATED', 'ROOFTOP'];
@@ -186,6 +182,11 @@ async function runScraper() {
 	} else {
 		const output = new URL('../output/sites.json', import.meta.url).pathname;
 		await fs.writeFile(output, JSON.stringify(sites, null, 2));
+
+		await doUpload(JSON.stringify(sites, null, 2));
+
+		const writeTo = new URL(`./${Date.now()}.html`, scrapeDir).pathname;
+		await fs.writeFile(writeTo, modifiedHTML);
 	}
 }
 

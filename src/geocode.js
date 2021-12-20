@@ -22,15 +22,22 @@ export async function geocode(address) {
 	if (cache[address]) {
 		return cache[address];
 	}
+
+	const { GEOCODE_KEY } = process.env;
+	if (!GEOCODE_KEY) {
+		throw new Error('No geocode key');
+	}
+
 	console.log('Sending geocode request for ' + address.split('\n')[0]);
 	const url = new URL('https://maps.googleapis.com/maps/api/geocode/json');
-	url.searchParams.append('key', process.env.GEOCODE_KEY || '');
+	url.searchParams.append('key', GEOCODE_KEY);
 	url.searchParams.append('address', address);
 
 	const res = await fetch(url.href);
-
+	if (!res.ok) {
+		throw new Error('Geocode request failed');
+	}
 	const json = await /** @type Promise<{results: GeocoderResult[]}> */ (res.json());
-
 	const cached = await fs.readFile(STORED_GEOCODE_PATH, 'utf-8');
 	/** @type Record<string,{results: GeocoderResult[]}> */
 	const cachedJSON = JSON.parse(cached);

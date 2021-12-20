@@ -16166,5 +16166,102 @@
       }
     ],
     "status": "OK"
+  },
+  "132 W 138th St,\nNew York, NY 10030": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "132",
+            "short_name": "132",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "West 138th Street",
+            "short_name": "W 138th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10030",
+            "short_name": "10030",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "132 W 138th St, New York, NY 10030, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8166821,
+            "lng": -73.9415561
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8180310802915,
+              "lng": -73.94020711970849
+            },
+            "southwest": {
+              "lat": 40.8153331197085,
+              "lng": -73.94290508029151
+            }
+          }
+        },
+        "place_id": "ChIJM3PEM3f2wokRhS7SxTpEzis",
+        "plus_code": {
+          "compound_code": "R385+M9 New York, NY, USA",
+          "global_code": "87G8R385+M9"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }
