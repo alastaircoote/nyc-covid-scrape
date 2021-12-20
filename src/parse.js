@@ -183,7 +183,7 @@ async function runScraper() {
 		const output = new URL('../output/sites.json', import.meta.url).pathname;
 		await fs.writeFile(output, JSON.stringify(sites, null, 2));
 
-		await doUpload(JSON.stringify(sites, null, 2));
+		// await doUpload(JSON.stringify(sites, null, 2));
 
 		const writeTo = new URL(`./${Date.now()}.html`, scrapeDir).pathname;
 		await fs.writeFile(writeTo, modifiedHTML);

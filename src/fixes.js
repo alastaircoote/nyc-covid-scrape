@@ -152,6 +152,5 @@ export function fix_brooklyn_navy_yard(doc) {
 		'Monday – Sunday, 8:30 a.m. – 4:30 p.m.',
 		'Monday – Thursday: 8:30 a.m. – 4:30 p.m.<br/>Saturday – Sunday: 8:30 a.m. – 4:30 p.m.'
 	);
-	console.log(p.innerHTML);
 	return true;
 }
