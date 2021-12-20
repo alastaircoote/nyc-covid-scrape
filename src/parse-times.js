@@ -33,7 +33,7 @@ function timeSegmentsToNumber(time, amOrPm) {
  *
  * @param {string} timeString
  * @param {import("./parse-site").ParsedSite} data
- * @returns
+ * @returns {boolean}
  */
 export function parseTime(timeString, data) {
 	let times = {};
@@ -85,12 +85,16 @@ export function parseTime(timeString, data) {
 	}
 	for (const day of days) {
 		if (data.hours[day.toLowerCase()]) {
-			throw new Error('Hours already exist for ' + day);
+			data.errors.push({
+				type: 'hours-already-exist',
+				value: 'Hours already exist for ' + day
+			});
+		} else {
+			data.hours[day.toLowerCase()] = [
+				timeSegmentsToNumber(time[1], time[2]),
+				timeSegmentsToNumber(time[3], time[4])
+			];
 		}
-		data.hours[day.toLowerCase()] = [
-			timeSegmentsToNumber(time[1], time[2]),
-			timeSegmentsToNumber(time[3], time[4])
-		];
 	}
 
 	return true;

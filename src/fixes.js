@@ -128,3 +128,30 @@ export function remove_rotating_metadata(doc) {
 
 	return true;
 }
+
+/** @type Fixer */
+export function fix_brooklyn_navy_yard(doc) {
+	const h3 = doc.querySelector('#brooklyn-micro');
+	let p = h3?.nextElementSibling;
+	while (p && p.tagName === 'P' && p.innerHTML.indexOf('Navy Yard') === -1) {
+		p = p.nextElementSibling;
+	}
+	if (!p) {
+		return false;
+	}
+	if (p.innerHTML.indexOf('Navy Yard') === -1) {
+		return false;
+	}
+	if (
+		p.innerHTML.indexOf('Monday – Sunday, 8:30 a.m. – 4:30 p.m.') === -1 ||
+		p.innerHTML.indexOf('Friday, 8:30 a.m. – 1:30 p.m.') === -1
+	) {
+		return false;
+	}
+	p.innerHTML = p.innerHTML.replace(
+		'Monday – Sunday, 8:30 a.m. – 4:30 p.m.',
+		'Monday – Thursday: 8:30 a.m. – 4:30 p.m.<br/>Saturday – Sunday: 8:30 a.m. – 4:30 p.m.'
+	);
+	console.log(p.innerHTML);
+	return true;
+}

@@ -20,6 +20,9 @@ import { parseTime } from './parse-times.js';
  * @property {string | undefined} pre_register_link
  * @property {{lat:number, lng:number} | undefined} location
  * @property {string} wait_time
+ * @property {string[]} open
+ * @property {string[]} closed
+ *
  */
 
 /**
@@ -52,7 +55,9 @@ export function parseSite(pTag, window, borough, siteType) {
 		offers: [],
 		pre_register_link: undefined,
 		location: undefined,
-		wait_time: 'unknown'
+		wait_time: 'unknown',
+		open: [],
+		closed: []
 	};
 
 	const firstElement = elements.shift();
@@ -154,7 +159,7 @@ function parseLink(link, data) {
  *
  * @param {string} text
  * @param {ParsedSite} data
- * @returns
+ * @returns {boolean}
  */
 function parseMetadata(text, data) {
 	if (/^[0-9]{3}-[0-9]{3}-[0-9]{4}$/.test(text) || text === '844-NYC-4NYC') {
@@ -187,6 +192,8 @@ function parseMetadata(text, data) {
 	if (junkText.indexOf(text) > -1) {
 		return true;
 	}
+
+	return false;
 }
 
 /**

@@ -3,7 +3,9 @@ import { addDays } from 'date-fns';
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 const MONTHS_MATCH = MONTHS.join('|');
 
-const MULTILINE_SPLIT = new RegExp(`((?:.+)[0-9]{1,2}) *, *((?:${MONTHS_MATCH})(?:.+))`);
+const MULTILINE_SPLIT = new RegExp(
+	`(${MONTHS_MATCH})((?:.+)[0-9]{1,2}) *, *(${MONTHS_MATCH})?(.+)`
+);
 
 const EXTRACT_DATE_TEXT = new RegExp('Dates: *(.+)');
 
@@ -13,10 +15,23 @@ const EXTRACT_DATE_VALUES = new RegExp(
 
 const EXTRACT_COMMA_SEPARATED_DATES = new RegExp(`^(${MONTHS_MATCH}) ((?:(?:[0-9]{1,2}),? *)+)$`);
 
+/**
+ *
+ * @param {string} dateText
+ * @param {import('./parse-site').ParsedSite} data
+ * @returns {boolean}
+ */
 function parseDatesInner(dateText, data) {
 	const isMultiLine = MULTILINE_SPLIT.exec(dateText);
 	if (isMultiLine) {
-		return parseDatesInner(isMultiLine[1], data) && parseDatesInner(isMultiLine[2], data);
+		const firstSection = parseDatesInner(isMultiLine[1] + ' ' + isMultiLine[2], data);
+
+		if (!isMultiLine[3]) {
+			// there's no month specified in the second half so we need to borrow it
+			return firstSection && parseDatesInner(isMultiLine[1] + ' ' + isMultiLine[4], data);
+		} else {
+			return firstSection && parseDatesInner(isMultiLine[3] + ' ' + isMultiLine[4], data);
+		}
 	}
 
 	const dateValuesMatch = EXTRACT_DATE_VALUES.exec(dateText);
@@ -67,11 +82,20 @@ function parseDatesInner(dateText, data) {
 		return true;
 	}
 
-	throw new Error('Could not parse date: ' + dateText);
+	data.errors.push({
+		type: 'could-not-parse-date',
+		value: dateText
+	});
 
 	return false;
 }
 
+/**
+ *
+ * @param {string} text
+ * @param {import('./parse-site').ParsedSite} data
+ * @returns {boolean}
+ */
 export function parseDates(text, data) {
 	const dateExtract = EXTRACT_DATE_TEXT.exec(text);
 	if (!dateExtract) {
@@ -81,6 +105,12 @@ export function parseDates(text, data) {
 	return parseDatesInner(dateText, data);
 }
 
+/**
+ *
+ * @param {string} month
+ * @param {string} dayOfMonth
+ * @returns
+ */
 function convertTextToDate(month, dayOfMonth) {
 	const monthIndex = MONTHS.indexOf(month);
 	const dayNumber = parseInt(dayOfMonth, 10);

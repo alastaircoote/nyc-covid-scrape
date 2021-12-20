@@ -125,3 +125,26 @@ export function fix_woodside_name(sites) {
 	woodside.name = 'NYCHA Woodside Streetside Parking';
 	return true;
 }
+
+/** @type PostFixer */
+export function bellevue_christmas_message(sites) {
+	const bellevue = sites.find((s) => s.name === 'NYC Health + Hospitals/Bellevue');
+	if (!bellevue) {
+		return false;
+	}
+
+	let found = false;
+	bellevue.errors = bellevue.errors.filter((err) => {
+		if (
+			err.type === 'could-not-parse' &&
+			err.value ===
+				'Bellevue Testing will be closing at noon on Friday 12/24 and we will be CLOSED on Christmas Day 12/25'
+		) {
+			found = true;
+			bellevue.closed = ['2021-12-25'];
+			return false;
+		}
+		return true;
+	});
+	return found;
+}

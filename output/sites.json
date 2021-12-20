@@ -48,14 +48,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -106,14 +107,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Soundview Park",
@@ -164,14 +166,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "St. James Park",
@@ -222,125 +225,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Nelson Playground",
-    "address": "Nelson Ave & W 166th St,\nBronx, NY 10452",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8353466,
-      "lng": -73.9269937
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "NYPL – Wakefield Library",
-    "address": "4100 Lowerre Pl,\nBronx, NY 10466",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8910364,
-      "lng": -73.8596099
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18"
-    ]
+    "closed": []
   },
   {
     "name": "CO-OP City",
@@ -371,9 +264,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14"
-    ]
+      "2021-12-20",
+      "2021-12-21"
+    ],
+    "closed": []
   },
   {
     "name": "CO-OP City",
@@ -404,8 +298,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15"
-    ]
+      "2021-12-22",
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "CO-OP City",
@@ -440,194 +336,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "King Of Glory Tabernacle",
-    "address": "2019 Grand Ave,\nBronx, NY 10453",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8536484,
-      "lng": -73.9100102
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15"
-    ]
-  },
-  {
-    "name": "United Sikhs Food Distribution",
-    "address": "911 Longwood Avenue\nBronx, NY 10459",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "thursday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8186775,
-      "lng": -73.8995837
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "Christ Apostolic Church – Pediatric",
-    "address": "483 East Tremont Ave\nBronx, NY 10457",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8471414,
-      "lng": -73.89734539999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "NYPL Castle Hill",
-    "address": "947 Castle Hill\nBronx, NY 10473",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ],
-      "saturday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8265806,
-      "lng": -73.8501557
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "NYCHA Parkside",
-    "address": "2963 White Plains Rd\nBronx, NY 10473",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.869017,
-      "lng": -73.8678857
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "Baldoor Foods",
-    "address": "155 Food Center Dr.\nBronx, NY 10473",
+    "name": "CEC FOOD DISTRO",
+    "address": "Seward Ave and Pugsley Ave (On Football Field)\nBronx NY 10473",
     "borough": "bronx",
     "site_type": "mobile",
     "hours": {
@@ -645,132 +362,24 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.80904820000001,
-      "lng": -73.8733312
+      "lat": 40.82031080000001,
+      "lng": -73.8546464
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15"
-    ]
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
-    "name": "Office of Assemblyman Michael Benedetto",
-    "address": "3602 E Tremont Ave\nBronx, NY 10465",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "thursday": [
-        900,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8286253,
-      "lng": -73.8247905
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "Bridgefield Civic League/NYS Speaker Carl Hastie Christmas Celebration",
-    "address": "3551 Laconia Ave.\nBronx, NY 10469",
+    "name": "New Covenant Dominion Cathedral",
+    "address": "1175 Boston Road\nBronx NY 10456",
     "borough": "bronx",
     "site_type": "mobile",
     "hours": {
       "wednesday": [
-        900,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8754535,
-      "lng": -73.8551967
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "Children’s Aid Bronx Health Center",
-    "address": "910 E 172nd St\nBronx, NY 10460",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ],
-      "saturday": [
-        800,
-        1800
-      ],
-      "sunday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.83388009999999,
-      "lng": -73.89014420000001
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "New Covenant Christian Ministries (Morrisania)",
-    "address": "1175 Boston Rd,\nBronx, NY 10456",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        1030,
-        1730
+        1200,
+        2000
       ]
     },
     "errors": [],
@@ -787,15 +396,68 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
-    "name": "Rienzi Park",
-    "address": "746 East 226th Street,\nBronx NY 10466",
+    "name": "NYPL Wakefield Library",
+    "address": "4100 Lowerre Pl\nBronx NY 10466",
     "borough": "bronx",
     "site_type": "mobile",
     "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8910364,
+      "lng": -73.8596099
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Reinzi Park",
+    "address": "746 East 226th Street\nBronx NY 10466",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "friday": [
+        800,
+        1900
+      ],
+      "saturday": [
+        800,
+        1900
+      ],
       "sunday": [
         800,
         1900
@@ -815,8 +477,163 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-19"
-    ]
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Children’s Aid College Prep Charter School – Pediatric",
+    "address": "1232 Southern Boulevard\nBronx NY 10459",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
+        1800
+      ],
+      "friday": [
+        800,
+        1800
+      ],
+      "saturday": [
+        800,
+        1800
+      ],
+      "sunday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8297164,
+      "lng": -73.8914763
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Children’s Aid College Prep Charter School – Whitney Young Jr. Campus",
+    "address": "1919 Prospect Boulevard\nBronx NY 10457",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
+        1800
+      ],
+      "friday": [
+        800,
+        1800
+      ],
+      "saturday": [
+        800,
+        1800
+      ],
+      "sunday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8437691,
+      "lng": -73.8903279
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Chefs Warehouse",
+    "address": "240 Food Center Drive (parking lot)\nBronx NY 10474",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        900,
+        1900
+      ],
+      "tuesday": [
+        900,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8113172,
+      "lng": -73.8725893
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21"
+    ],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Belvis",
@@ -866,7 +683,9 @@
       "lat": 40.8104385,
       "lng": -73.9159236
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Jacobi",
@@ -912,7 +731,9 @@
       "lat": 40.8550347,
       "lng": -73.8442026
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Lincoln",
@@ -954,7 +775,9 @@
       "lat": 40.8160855,
       "lng": -73.9247762
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Morrisania",
@@ -1004,7 +827,9 @@
       "lat": 40.8362867,
       "lng": -73.9202294
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/North Central Bronx",
@@ -1050,7 +875,52 @@
       "lat": 40.8804138,
       "lng": -73.8810488
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
+  },
+  {
+    "name": "NYC Health + Hospitals/Gotham Health, Tremont",
+    "link": "https://www.nychealthandhospitals.org/northcentralbronx",
+    "address": "1920 Webster Avenue,\nBronx, New York 10457",
+    "borough": "bronx",
+    "site_type": "mortar",
+    "hours": {
+      "monday": [
+        900,
+        1600
+      ],
+      "tuesday": [
+        900,
+        1600
+      ],
+      "wednesday": [
+        900,
+        1600
+      ],
+      "thursday": [
+        900,
+        1600
+      ],
+      "friday": [
+        900,
+        1600
+      ]
+    },
+    "errors": [],
+    "ages": [],
+    "offers": [
+      "pcr",
+      "antibody"
+    ],
+    "pre_register_link": "https://epicscheduling.nychhc.org/MyChart/SignupAndSchedule/EmbeddedSchedule?id=RES,11703906&dept=1021009938&vt=11790637",
+    "location": {
+      "lat": 40.8477768,
+      "lng": -73.9005135
+    },
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Riverdale Neighborhood House",
@@ -1058,13 +928,9 @@
     "borough": "bronx",
     "site_type": "micro",
     "hours": {
-      "wednesday": [
-        900,
-        1400
-      ],
       "thursday": [
-        900,
-        1400
+        930,
+        1630
       ]
     },
     "errors": [],
@@ -1080,9 +946,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15",
-      "2021-12-16"
-    ]
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "Clay Avenue Tenant Association",
@@ -1090,7 +956,7 @@
     "borough": "bronx",
     "site_type": "micro",
     "hours": {
-      "saturday": [
+      "thursday": [
         930,
         1630
       ]
@@ -1108,18 +974,19 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-18"
-    ]
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
-    "name": "Mt. Gilead Baptist Church",
-    "address": "489 East 169th Street,\nBronx, NY 10456",
+    "name": "New Covenant Christian Ministries (Morrisania)",
+    "address": "1175 Boston Rd,\nBronx, NY 10456",
     "borough": "bronx",
     "site_type": "micro",
     "hours": {
-      "sunday": [
-        1100,
-        1700
+      "tuesday": [
+        1030,
+        1730
       ]
     },
     "errors": [],
@@ -1130,13 +997,15 @@
       "saliva-pcr"
     ],
     "location": {
-      "lat": 40.8331678,
-      "lng": -73.9054642
+      "lat": 40.8290875,
+      "lng": -73.9033961
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-19"
-    ]
+      "2021-12-21",
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "Red Hook Park",
@@ -1171,13 +1040,14 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Red Hook Initiative",
@@ -1204,51 +1074,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "Red Hook Initiative",
-    "address": "44 W 9th St (Parking in front of blue “Red Hook Initiative” Sign)\nBrooklyn, NY 11231",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-23"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6767619,
-      "lng": -74.0045296
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
+    "closed": []
   },
   {
     "name": "St John’s Park",
@@ -1299,14 +1127,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "100% Playground",
@@ -1357,14 +1186,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Marcy Plaza",
@@ -1415,72 +1245,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "New Hope Family Worship Center",
-    "address": "817 Livonia Avenue,\nBrooklyn, NY 11207",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6661463,
-      "lng": -73.8863315
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+    "closed": []
   },
   {
     "name": "Marion Hopkinson Playground",
@@ -1531,14 +1304,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Sunset Park",
@@ -1589,106 +1363,23 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "Flatlands Reformed Church Community Center",
-    "address": "3931 Kings Hwy,\nBrooklyn NY 11210",
+    "name": "City Point Vaccine Hub",
+    "address": "444 Albee Square W,\nBrooklyn, NY 11201",
     "borough": "brooklyn",
     "site_type": "mobile",
     "hours": {
       "saturday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.62375220000001,
-      "lng": -73.9361888
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Cornerstone Baptist Church",
-    "address": "574 Madison St,\nBrooklyn, NY 11221",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6861853,
-      "lng": -73.9350766
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Christian Tabernacle",
-    "address": "98 5th Avenue\nBrooklyn, NY 11217",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "friday": [
-        1000,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6799549,
-      "lng": -73.9785723
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "Beit El Maqdis Islamic Center",
-    "address": "6206 6th Ave\nBrooklyn, NY 11220",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "wednesday": [
         800,
         1800
       ]
@@ -1702,23 +1393,30 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.6366461,
-      "lng": -74.0157339
+      "lat": 40.6903836,
+      "lng": -73.98362159999999
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "Mt. Pisgah Baptist Church",
-    "address": "212 Tompkins Ave\nBrooklyn, NY 11216",
+    "name": "Diana Jones Innovative Senior Center",
+    "address": "444 Albee Square W,\nBrooklyn, NY 11201",
     "borough": "brooklyn",
     "site_type": "mobile",
     "hours": {
-      "wednesday": [
+      "saturday": [
         800,
-        1900
+        1800
       ]
     },
     "errors": [],
@@ -1730,23 +1428,30 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.6915657,
-      "lng": -73.94594740000001
+      "lat": 40.6903836,
+      "lng": -73.98362159999999
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "NYC Grow Farmstand",
-    "address": "Nostrand Ave at Empire Blvd (b/t Empire and Montgomery St)\nBrooklyn, NY 11225",
+    "name": "Diana Jones Innovative Senior Center",
+    "address": "9 Noll St,\nBrooklyn, NY 11206",
     "borough": "brooklyn",
     "site_type": "mobile",
     "hours": {
-      "friday": [
-        900,
-        1500
+      "monday": [
+        800,
+        1800
       ]
     },
     "errors": [],
@@ -1758,51 +1463,83 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.663719,
-      "lng": -73.9509695
+      "lat": 40.7004321,
+      "lng": -73.936026
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-17"
-    ]
+      "2021-12-20"
+    ],
+    "closed": []
   },
   {
-    "name": "Mixteca Annual Health Conference",
-    "address": "Corner of 4th Ave & 46th St. (Park on 4th Ave)\nBrooklyn, NY 11220",
+    "name": "Marine Park",
+    "address": "3000 Fillmore Avenue\nBrooklyn, NY 11234",
     "borough": "brooklyn",
     "site_type": "mobile",
     "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6078538,
+      "lng": -73.9374058
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-23"
+    ],
+    "closed": []
+  },
+  {
+    "name": "El Gran Mar de Plata",
+    "address": "3175 Fulton St\nBrooklyn, NY 11208",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        1200,
+        2000
+      ],
+      "tuesday": [
+        1200,
+        2000
+      ],
+      "wednesday": [
+        1200,
+        2000
+      ],
+      "thursday": [
+        1200,
+        2000
+      ],
       "friday": [
         1200,
-        2100
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7546471,
-      "lng": -73.9756847
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "Hope City Church – Pediatric",
-    "address": "369 Lots Ave\nBrooklyn, NY 11207",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
+        2000
+      ],
       "saturday": [
-        1100,
-        1600
+        1200,
+        2000
+      ],
+      "sunday": [
+        1200,
+        2000
       ]
     },
     "errors": [],
@@ -1814,22 +1551,153 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.66185979999999,
-      "lng": -73.8936794
+      "lat": 40.6822343,
+      "lng": -73.8776595
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-18"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "Neighbors Together",
-    "address": "2094 Fulton St.\nBrooklyn, NY 11233",
+    "name": "2nd Annual NBK Food Relief Coalition Holiday Giveback",
+    "address": "215 Moore St\nBrooklyn, NY 11206",
     "borough": "brooklyn",
     "site_type": "mobile",
     "hours": {
+      "thursday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7046454,
+      "lng": -73.93607399999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-23"
+    ],
+    "closed": []
+  },
+  {
+    "name": "New Hope Family Worship Center",
+    "address": "817 Livonia Avenue\nBrooklyn, NY 11207",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        800,
+        1900
+      ],
       "friday": [
-        1000,
+        800,
+        1900
+      ],
+      "saturday": [
+        800,
+        1900
+      ],
+      "sunday": [
+        800,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6661463,
+      "lng": -73.8863315
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Brooklyn Neighborhood Health Action Center",
+    "address": "485 Throop Ave\nBrooklyn, NY 11207",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        830,
+        1830
+      ],
+      "wednesday": [
+        830,
+        1830
+      ],
+      "thursday": [
+        830,
+        1830
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6855549,
+      "lng": -73.9411715
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Vandalia Neighborhood Senior Center (closed  12/24-25)",
+    "address": "47 Vandalia Avenue\nBrooklyn, NY 11207",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
         1800
       ]
     },
@@ -1842,23 +1710,27 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.6782875,
-      "lng": -73.91384120000001
+      "lat": 40.6502518,
+      "lng": -73.8870665
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-17"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
-    "name": "Coney Island Toy Giveaway",
-    "address": "W 30th St b/t Mermaid Ave and Surf Ave\nBrooklyn, NY 11224",
+    "name": "Jewish Community House of Bensonhurst",
+    "address": "7802 Bay Parkway – park as close to the corner of 78th St as possible!\nBrooklyn, NY 11207",
     "borough": "brooklyn",
     "site_type": "mobile",
     "hours": {
-      "saturday": [
-        1000,
-        1700
+      "tuesday": [
+        800,
+        1800
       ]
     },
     "errors": [],
@@ -1870,41 +1742,14 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.574539,
-      "lng": -73.9962832
+      "lat": 40.6063449,
+      "lng": -73.98970609999999
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Red Hook Winter Wonderland",
-    "address": "27 Huntington Street\nBrooklyn, NY 11231",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        900,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-21"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6779117,
-      "lng": -74.0049023
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Coney Island",
@@ -1946,7 +1791,9 @@
       "lat": 40.5850562,
       "lng": -73.96546049999999
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
@@ -1996,7 +1843,9 @@
       "lat": 40.695099,
       "lng": -73.9764879
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, East New York",
@@ -2046,7 +1895,9 @@
       "lat": 40.671746,
       "lng": -73.8952429
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Kings County",
@@ -2092,7 +1943,9 @@
       "lat": 40.6559963,
       "lng": -73.947222
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Woodhull",
@@ -2138,7 +1991,9 @@
       "lat": 40.7000538,
       "lng": -73.9417768
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "4002 Fort Hamilton",
@@ -2186,7 +2041,9 @@
       "lat": 40.6427149,
       "lng": -73.9922313
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Bay Ridge",
@@ -2234,7 +2091,9 @@
       "lat": 40.6217205,
       "lng": -74.0258617
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Bensonhurst",
@@ -2282,7 +2141,9 @@
       "lat": 40.625407,
       "lng": -73.9979369
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Midwood Pre-K",
@@ -2331,7 +2192,9 @@
       "lat": 40.627831,
       "lng": -73.9654302
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Starrett City",
@@ -2379,7 +2242,9 @@
       "lat": 40.6495776,
       "lng": -73.8831087
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Brooklyn Navy Yard",
@@ -2403,10 +2268,6 @@
         830,
         1630
       ],
-      "friday": [
-        830,
-        1630
-      ],
       "saturday": [
         830,
         1630
@@ -2414,6 +2275,10 @@
       "sunday": [
         830,
         1630
+      ],
+      "friday": [
+        830,
+        1330
       ]
     },
     "errors": [],
@@ -2429,8 +2294,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Ida G. Israel Health Center",
@@ -2453,10 +2325,6 @@
       "thursday": [
         800,
         1600
-      ],
-      "friday": [
-        800,
-        1600
       ]
     },
     "errors": [],
@@ -2472,12 +2340,12 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "Diaspora Community Center",
@@ -2503,8 +2371,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
     "name": "Family Services Network of New York (Harm Reduction Program – Broadway)",
@@ -2530,9 +2399,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-15",
-      "2021-12-17"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
     "name": "Family Services Network of New York Access Center",
@@ -2557,12 +2426,8 @@
         1930
       ],
       "friday": [
-        1100,
-        1900
-      ],
-      "saturday": [
-        1100,
-        1900
+        800,
+        1330
       ],
       "sunday": [
         800,
@@ -2582,14 +2447,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Amalgamated Warbasse Houses",
@@ -2619,36 +2485,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Fort Greene SNAP Office",
-    "address": "324 Myrtle Ave,\nBrooklyn, NY 11205",
-    "borough": "brooklyn",
-    "site_type": "micro",
-    "hours": {
-      "friday": [
-        1000,
-        1730
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20",
+      "2021-12-26"
     ],
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6931114,
-      "lng": -73.973506
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-17"
-    ]
+    "closed": []
   },
   {
     "name": "BCA Sunset Park Senior Center",
@@ -2656,11 +2496,7 @@
     "borough": "brooklyn",
     "site_type": "micro",
     "hours": {
-      "thursday": [
-        900,
-        1700
-      ],
-      "friday": [
+      "wednesday": [
         900,
         1700
       ]
@@ -2678,44 +2514,17 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-16",
-      "2021-12-17"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
-    "name": "St Jacobi Lutheran Church",
-    "address": "5406 4th Ave,\nBrooklyn, NY 11220",
+    "name": "RiseBoro Community Office (Williamsburg)",
+    "address": "518 Bushwick Ave,\nBrooklyn, NY 11206",
     "borough": "brooklyn",
     "site_type": "micro",
     "hours": {
-      "friday": [
-        1400,
-        2100
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.644137,
-      "lng": -74.01536899999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "God’s Battalion of Prayer Church",
-    "address": "661 Linden Blvd,\nBrooklyn, NY 11203",
-    "borough": "brooklyn",
-    "site_type": "micro",
-    "hours": {
-      "saturday": [
+      "monday": [
         930,
         1630
       ]
@@ -2728,13 +2537,154 @@
       "saliva-pcr"
     ],
     "location": {
-      "lat": 40.6539157,
-      "lng": -73.9339155
+      "lat": 40.7001735,
+      "lng": -73.9364535
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-18"
-    ]
+      "2021-12-20"
+    ],
+    "closed": []
+  },
+  {
+    "name": "RiseBoro Community Office (Brownsville)",
+    "address": "1875 Broadway,\nBrooklyn, NY 11207",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "monday": [
+        930,
+        1630
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6808272,
+      "lng": -73.90635859999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20"
+    ],
+    "closed": []
+  },
+  {
+    "name": "RiseBoro Youth Center",
+    "address": "1474 Gates Ave,\nBrooklyn, NY 11237",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "monday": [
+        930,
+        1630
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.69755019999999,
+      "lng": -73.9135417
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20"
+    ],
+    "closed": []
+  },
+  {
+    "name": "BCA Bensonhurst Senior Center",
+    "address": "6809 20th Ave,\nBrooklyn, NY 11204",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "tuesday": [
+        900,
+        1600
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6145031,
+      "lng": -73.9877355
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21"
+    ],
+    "closed": []
+  },
+  {
+    "name": "HAUP Brooklyn (Haitian Americans United For Progress)",
+    "address": "1760 Nostrand Avenue,\nBrooklyn, NY 11226",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "wednesday": [
+        1030,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.642871,
+      "lng": -73.94901
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Mt. Pisgah Baptist Church",
+    "address": "212 Tompkins Ave.,\nBrooklyn, NY 11216",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "thursday": [
+        900,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6915657,
+      "lng": -73.94594740000001
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "Quisqueya Playground",
@@ -2785,14 +2735,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Masaryk Towers",
@@ -2819,13 +2770,13 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "NYCHA Manhattanville",
@@ -2876,14 +2827,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Times Square Testing Site",
@@ -2933,165 +2885,8 @@
       "lng": -73.98426119999999
     },
     "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19",
-      "2021-12-20",
-      "2021-12-21",
-      "2021-12-22",
-      "2021-12-23",
-      "2021-12-24",
-      "2021-12-25",
-      "2021-12-26",
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
-    ]
-  },
-  {
-    "name": "East End HRA Center",
-    "address": "2322 Third Ave,\nNew York NY 10035",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8046767,
-      "lng": -73.9353448
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "First Spanish UMC",
-    "address": "Corner of 111th street & Lexington Ave,\nNew York NY 10029",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.79544440000001,
-      "lng": -73.9439562
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "NYCHA Drew Hamilton",
-    "address": "201 W 141 St\nNew York NY 10030 (by the Garage doors)",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.81937990000001,
-      "lng": -73.9412395
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+    "open": [],
+    "closed": []
   },
   {
     "name": "Gotham Health – Sydenham",
@@ -3143,522 +2938,27 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "Il Sole Restaurant",
-    "address": "233 Dyckman St.\nNew York NY 10034",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        800,
-        1800
-      ],
-      "sunday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8661547,
-      "lng": -73.9276251
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Oasis",
-    "address": "330 7th Avenue\nNew York NY 10001",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        1000,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7477463,
-      "lng": -73.9933782
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14"
-    ]
-  },
-  {
-    "name": "Williams Institutional CME Church",
-    "address": "2239 Adam Clayton Powell Jr.\nNew York NY 10027",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        1000,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.81313249999999,
-      "lng": -73.9449174
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14"
-    ]
-  },
-  {
-    "name": "Senegalese Association",
-    "address": "209 West 116th Street\nNew York NY 10026",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        1000,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.803679,
-      "lng": -73.9531963
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14"
-    ]
-  },
-  {
-    "name": "Black Health",
-    "address": "215 W 125th St.\nNew York NY 10027",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "friday": [
-        1000,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8096896,
-      "lng": -73.94888639999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "Black Health – Pediatric",
-    "address": "215 W 125th St.\nNew York NY 10027",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        1000,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8096896,
-      "lng": -73.94888639999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Mount Zion AME Church",
-    "address": "1765 Madison Avenue\nNew York NY 10029",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "friday": [
-        1000,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.799702,
-      "lng": -73.9447607
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "32BJ – W 86th St",
-    "address": "241 Central Park West\nNew York NY 10024",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7842899,
-      "lng": -73.9705371
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "Word Up Book Store – Pediatric",
-    "address": "165th Street & Amsterdam Ave\nNew York NY 10032",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8379811,
-      "lng": -73.93834489999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "CUNY Graduate Center",
-    "address": "365 5th Avenue, between 34th and 35th Streets\nNew York NY 10016",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.74809,
-      "lng": -73.9830981
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "NYCHA Dyckman – Pediatric",
-    "address": "175 Nagle Ave\nNew York NY 10034",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.86140109999999,
-      "lng": -73.9242916
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Borough of Manhattan Community College",
-    "address": "245 Greenwich Street (at Park Place)\nNew York NY 10007",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.71390780000001,
-      "lng": -74.0113173
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "John Jay College",
-    "address": "524 W 59th St​\nNew York NY 10019",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7711041,
-      "lng": -73.9897134
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15"
-    ]
-  },
-  {
-    "name": "32BJ – E 68th St",
-    "address": "215 East 68th Street\nNew York NY 10065",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7670779,
-      "lng": -73.9606534
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "J. Hood Wright Park",
-    "address": "Fort Washington Avenue between 174th and 175th Street,\nNew York NY 10033",
+    "name": "The New School",
+    "address": "Approx. 1 E 13th St (park on 13th St, just east of 5th Ave)\nNew York, NY 10003",
     "borough": "manhattan",
     "site_type": "mobile",
     "hours": {
       "monday": [
         800,
-        1900
+        1800
       ],
       "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.8472638,
-      "lng": -73.9462939
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Abyssinian Baptist Church – Pediatric",
-    "address": "132 W 138th St,\nNew York, NY 10030",
-    "borough": "manhattan",
-    "site_type": "mobile",
-    "hours": {
-      "sunday": [
         800,
         1800
       ]
@@ -3672,13 +2972,64 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.8166821,
-      "lng": -73.9415561
+      "lat": 40.7351679,
+      "lng": -73.9935095
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21"
+    ],
+    "closed": []
+  },
+  {
+    "name": "RIOC",
+    "address": "543 Main St.\nRoosevelt Island, NY 10044",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
+        1800
+      ],
+      "friday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7618524,
+      "lng": -73.9502953
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24"
+    ],
+    "closed": []
   },
   {
     "name": "Times Square Testing Site",
@@ -3726,7 +3077,9 @@
       "lat": 40.75930169999999,
       "lng": -73.98426119999999
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Bellevue",
@@ -3751,13 +3104,9 @@
         730,
         1530
       ],
-      "friday": [
-        730,
-        1530
-      ],
-      "saturday": [
-        730,
-        1530
+      "sunday": [
+        900,
+        1300
       ]
     },
     "errors": [],
@@ -3772,7 +3121,11 @@
       "lat": 40.7396865,
       "lng": -73.9762044
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": [
+      "2021-12-25"
+    ]
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
@@ -3822,7 +3175,9 @@
       "lat": 40.7131148,
       "lng": -73.9877376
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Harlem",
@@ -3868,7 +3223,9 @@
       "lat": 40.8142287,
       "lng": -73.9396101
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Metropolitan",
@@ -3914,7 +3271,9 @@
       "lat": 40.7852328,
       "lng": -73.94502899999999
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Harlem Congregations for Community Improvement, Inc. (Petioni)",
@@ -3940,9 +3299,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-17"
-    ]
+      "2021-12-20",
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "Harlem Congregations for Community Improvement, Inc. (Dinkins)",
@@ -3968,8 +3328,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-16"
-    ]
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "AM De La Rosa’s District Office",
@@ -3988,14 +3349,6 @@
       "wednesday": [
         930,
         1630
-      ],
-      "thursday": [
-        930,
-        1630
-      ],
-      "friday": [
-        930,
-        1630
       ]
     },
     "errors": [],
@@ -4011,46 +3364,21 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
-    "name": "Queens Valley Playground",
-    "address": "Corner of 137 Street & 77 Avenue,\nFlushing NY 11367,",
-    "borough": "queens",
-    "site_type": "mobile",
+    "name": "Compton Eye Associates",
+    "address": "4738 Broadway,\nNew York, NY 10040",
+    "borough": "manhattan",
+    "site_type": "micro",
     "hours": {
-      "monday": [
-        800,
-        1900
-      ],
       "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
+        1030,
+        1730
       ]
     },
     "errors": [],
@@ -4058,23 +3386,45 @@
       "4+"
     ],
     "offers": [
-      "rapid",
-      "pcr"
+      "saliva-pcr"
     ],
     "location": {
-      "lat": 40.7208253,
-      "lng": -73.8238439
+      "lat": 40.86482950000001,
+      "lng": -73.9282252
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-21"
+    ],
+    "closed": []
+  },
+  {
+    "name": "MetroPlus Community Office (Manhattan)",
+    "address": "2104 Adam Clayton Powell Blvd,\nManhattan, NY 10027",
+    "borough": "manhattan",
+    "site_type": "micro",
+    "hours": {
+      "wednesday": [
+        1000,
+        1730
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.8093494,
+      "lng": -73.9486247
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
     "name": "Telephone Playground",
@@ -4125,14 +3475,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Our Lady of Sorrows Church",
@@ -4183,14 +3534,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Phil “Scooter” Rizzuto Park",
@@ -4241,14 +3593,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Life Camp INC",
@@ -4299,14 +3652,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Park of the Americas",
@@ -4357,14 +3711,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "The Episcopal Church of St. Alban the Martyr",
@@ -4415,14 +3770,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "NYCHA Woodside Streetside Parking",
@@ -4473,125 +3829,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Hart Playground",
-    "address": "Corner of 65th Street & Broadway,\nQueens NY 11377",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7493007,
-      "lng": -73.8975726
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Queens Public Library at East Elmhurst",
-    "address": "95-06 Astoria Blvd,\nEast Elmhurst, NY 11369",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.762548,
-      "lng": -73.873869
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18"
-    ]
+    "closed": []
   },
   {
     "name": "LaGuardia Airport",
@@ -4640,7 +3886,9 @@
       "lat": 40.7769271,
       "lng": -73.8739659
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "John F. Kennedy Airport",
@@ -4689,7 +3937,273 @@
       "lat": 40.6474925,
       "lng": -73.7799744
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
+  },
+  {
+    "name": "Beach 39th Vaccine Hub",
+    "address": "42-12 Rockaway Beach Blvd,\nQueens, NY 11691",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
+        1800
+      ],
+      "friday": [
+        800,
+        1800
+      ],
+      "saturday": [
+        800,
+        1800
+      ],
+      "sunday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.5940502,
+      "lng": -73.77423859999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "ELMCOR",
+    "address": "98-19 Astoria Blvd,\nQueens, NY 11369",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        900,
+        1900
+      ],
+      "tuesday": [
+        900,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7624824,
+      "lng": -73.8705978
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-23"
+    ],
+    "closed": []
+  },
+  {
+    "name": "El Dorado",
+    "address": "54-55 Myrtle Ave\nQueens, NY 11385",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        800,
+        1800
+      ],
+      "tuesday": [
+        800,
+        1800
+      ],
+      "wednesday": [
+        800,
+        1800
+      ],
+      "thursday": [
+        800,
+        1800
+      ],
+      "friday": [
+        800,
+        1800
+      ],
+      "saturday": [
+        800,
+        1800
+      ],
+      "sunday": [
+        800,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.69993590000001,
+      "lng": -73.9091435
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Growing Up Green Charter I Elementary School",
+    "address": "39-27 28th Street\nQueens, NY 11101",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        700,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7530549,
+      "lng": -73.93576019999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Growing Up Green Charter II Elementary School",
+    "address": "89-25 161st Street\nQueens, NY 11432",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        700,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7057881,
+      "lng": -73.7994125
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Growing Up Green Charter I Middle School",
+    "address": "36-49 11th Street\nQueens, NY 11101",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        700,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7598607,
+      "lng": -73.9404461
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20"
+    ],
+    "closed": []
+  },
+  {
+    "name": "Growing Up Green Charter II Middle School",
+    "address": "84-35 152nd Street\nQueens, NY 11432",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        700,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7131285,
+      "lng": -73.80744349999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20"
+    ],
+    "closed": []
   },
   {
     "name": "Hollis Ave Congregational Church",
@@ -4716,74 +4230,18 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-14"
-    ]
+      "2021-12-21"
+    ],
+    "closed": []
   },
   {
-    "name": "Astoria Food Pantry & 31st Avenue Open Street Holiday Market",
-    "address": "Corner of 31st Ave & 35th St\nQueens, NY 11106",
+    "name": "Sts. Joachim & Anne Parish",
+    "address": "Robard Ln & Hollis Ave\nQueens Village, NY 11429",
     "borough": "queens",
     "site_type": "mobile",
     "hours": {
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7628298,
-      "lng": -73.9202901
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Rochdale Village Shopping Mall",
-    "address": "165-02 Baisley Blvd.\nJamaica NY 11434  (Located in front of mall between Rite Aid & Post Office)",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
       "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
+        900,
         1900
       ]
     },
@@ -4792,192 +4250,6 @@
       "4+"
     ],
     "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.678258,
-      "lng": -73.777427
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Greater Allen A.M.E. Cathedral",
-    "address": "110-31 Merrick Blvd\nJamaica NY, 11433",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        1000,
-        1700
-      ],
-      "tuesday": [
-        1000,
-        1700
-      ],
-      "thursday": [
-        1300,
-        2000
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6948239,
-      "lng": -73.7814381
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
-  },
-  {
-    "name": "GLITS event @ Nowadays",
-    "address": "56-06 Cooper Ave\nGlendale NY, 11385",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "thursday": [
-        1900,
-        2300
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6924619,
-      "lng": -73.90153579999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "Voces Latinas",
-    "address": "107-06 Corona Ave\nGlendale NY, 11385",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "thursday": [
-        1100,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.743415,
-      "lng": -73.855908
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-16"
-    ]
-  },
-  {
-    "name": "Hammel Houses – Pediatric",
-    "address": "85-10 Rockaway Beach Blvd\nBroad Channel NY, 11693",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        1900,
-        2300
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.5879333,
-      "lng": -73.8109715
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Ocean Bay Houses – Pediatric",
-    "address": "57-10 Beach Channel Drive\nEdgemere NY, 11692",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        1000,
-        1700
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.5950484,
-      "lng": -73.7875215
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18"
-    ]
-  },
-  {
-    "name": "Saints Joachim & Anne Parish",
-    "address": "Robard Lane & Hollis Ave\nQueens Village NY, 11429",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "sunday": [
-        800,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid-antigen",
       "rapid",
       "pcr"
     ],
@@ -4987,18 +4259,19 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-19"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
-    "name": "Chinese Christian Herald Crusades – Main St",
-    "address": "42-35 Main Street\nFlushing NY, 11355",
+    "name": "Sts. Joachim & Anne Parish",
+    "address": "Robard Ln & Hollis Ave\nQueens Village, NY 11429",
     "borough": "queens",
     "site_type": "mobile",
     "hours": {
-      "thursday": [
-        800,
-        1800
+      "wednesday": [
+        900,
+        1900
       ]
     },
     "errors": [],
@@ -5010,41 +4283,61 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.7546535,
-      "lng": -73.82755829999999
+      "lat": 40.710928,
+      "lng": -73.73995099999999
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-16"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
-    "name": "First Faith Baptist Church",
-    "address": "Corner of 208th Street & Murdock Ave\nCambria Heights NY, 11411",
+    "name": "100 Suits",
+    "address": "227-12A Merrick Blvd\nQueens Village, NY 11413",
     "borough": "queens",
     "site_type": "mobile",
     "hours": {
-      "tuesday": [
-        800,
-        1800
-      ],
-      "wednesday": [
-        800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
       "friday": [
         800,
-        1800
+        1900
       ],
       "saturday": [
         800,
-        1800
+        1900
       ],
       "sunday": [
+        800,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6766857,
+      "lng": -73.74267069999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
+    ],
+    "closed": []
+  },
+  {
+    "name": "First Church of God in Christ",
+    "address": "187-10 Baisley Blvd,\nQueens, NY 11412",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
         800,
         1800
       ]
@@ -5058,18 +4351,14 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.702058,
-      "lng": -73.74679499999999
+      "lat": 40.6901644,
+      "lng": -73.7629087
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Elmhurst",
@@ -5115,7 +4404,9 @@
       "lat": 40.74553179999999,
       "lng": -73.8882282
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Queens",
@@ -5161,7 +4452,9 @@
       "lat": 40.7186426,
       "lng": -73.8041807
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Sorrentino Rec Center",
@@ -5209,7 +4502,55 @@
       "lat": 40.60248929999999,
       "lng": -73.7513252
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
+  },
+  {
+    "name": "455 Jefferson Street",
+    "address": "Corner of Flushing and Cypress\nQueens, NY 11237",
+    "borough": "queens",
+    "site_type": "mortar",
+    "hours": {
+      "monday": [
+        1200,
+        2000
+      ],
+      "tuesday": [
+        1200,
+        2000
+      ],
+      "wednesday": [
+        1200,
+        2000
+      ],
+      "thursday": [
+        1200,
+        2000
+      ]
+    },
+    "errors": [],
+    "ages": [],
+    "offers": [
+      "rapid-antigen",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7094051,
+      "lng": -73.9219044
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30"
+    ],
+    "closed": []
   },
   {
     "name": "Greater Allen Cathedral of NY",
@@ -5251,13 +4592,13 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-19"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Queens Museum New York City Building",
@@ -5283,36 +4624,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-16",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "HAUP Jamaica (Haitian Americans United For Progress)",
-    "address": "209-05 Jamaica Avenue,\nQueens, NY 11428",
-    "borough": "queens",
-    "site_type": "micro",
-    "hours": {
-      "tuesday": [
-        1030,
-        1800
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-22",
+      "2021-12-26"
     ],
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.7148632,
-      "lng": -73.7511482
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-14"
-    ]
+    "closed": []
   },
   {
     "name": "Community Church of Christ Events",
@@ -5327,6 +4642,10 @@
       "wednesday": [
         930,
         1630
+      ],
+      "friday": [
+        930,
+        1330
       ]
     },
     "errors": [],
@@ -5342,11 +4661,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-17",
-      "2021-12-18"
-    ]
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-24"
+    ],
+    "closed": []
   },
   {
     "name": "Promise Church",
@@ -5354,10 +4673,6 @@
     "borough": "queens",
     "site_type": "micro",
     "hours": {
-      "friday": [
-        930,
-        1630
-      ],
       "sunday": [
         930,
         1730
@@ -5376,9 +4691,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-17",
-      "2021-12-19"
-    ]
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
     "name": "Youth Referral & Placement Unit (YRPU)",
@@ -5404,65 +4719,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13"
-    ]
-  },
-  {
-    "name": "Gurdwara Sikh Cultural Society",
-    "address": "95-30 118th St,\nQueens, NY 11419",
-    "borough": "queens",
-    "site_type": "micro",
-    "hours": {
-      "monday": [
-        930,
-        1630
-      ],
-      "tuesday": [
-        930,
-        1630
-      ],
-      "wednesday": [
-        930,
-        1630
-      ],
-      "thursday": [
-        930,
-        1630
-      ],
-      "friday": [
-        930,
-        1630
-      ],
-      "saturday": [
-        930,
-        1630
-      ],
-      "sunday": [
-        930,
-        1630
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20"
     ],
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6910728,
-      "lng": -73.8280304
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
+    "closed": []
   },
   {
     "name": "New Life United Methodist Church",
@@ -5488,7 +4747,7 @@
       ],
       "friday": [
         1030,
-        1730
+        1330
       ]
     },
     "errors": [],
@@ -5504,12 +4763,13 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24"
+    ],
+    "closed": []
   },
   {
     "name": "Mt. Moriah AME Church (Linden Blvd Buisness Corridor)",
@@ -5535,18 +4795,23 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-19"
-    ]
+      "2021-12-26"
+    ],
+    "closed": []
   },
   {
-    "name": "St Paul Chong Hasang R.C. Church",
-    "address": "32-15 Parsons Blvd,\nFlushing, NY 11354",
+    "name": "Queens College Student Union",
+    "address": "65-30 Kissena Blvd.,\nQueens, NY 11367",
     "borough": "queens",
     "site_type": "micro",
     "hours": {
-      "sunday": [
-        830,
-        1530
+      "tuesday": [
+        930,
+        1730
+      ],
+      "friday": [
+        930,
+        1400
       ]
     },
     "errors": [],
@@ -5557,175 +4822,16 @@
       "saliva-pcr"
     ],
     "location": {
-      "lat": 40.7687059,
-      "lng": -73.82409609999999
+      "lat": 40.7369717,
+      "lng": -73.8151735
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "NYCHA Mariners Harbor",
-    "address": "Corner of Grandview Ave &, Continental Pl,\nStaten Island, NY 10303",
-    "borough": "staten-island",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ],
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-21",
+      "2021-12-23",
+      "2021-12-24"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6302938,
-      "lng": -74.16532
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "NYCHA Southbeach",
-    "address": "Parking Lot near corner of Norway Ave & Kramer St,\nStaten Island, NY 10305",
-    "borough": "staten-island",
-    "site_type": "mobile",
-    "hours": {
-      "saturday": [
-        800,
-        1900
-      ],
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.5867294,
-      "lng": -74.0850423
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "NYPL – Richmondtown Library",
-    "address": "200 Clarke Ave,\nStaten Island, NY 10306",
-    "borough": "staten-island",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.5665074,
-      "lng": -74.1384473
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15"
-    ]
-  },
-  {
-    "name": "NYPL – New Dorp Library",
-    "address": "309 New Dorp Ln,\nStaten Island, NY 10306",
-    "borough": "staten-island",
-    "site_type": "mobile",
-    "hours": {
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.5718907,
-      "lng": -74.111975
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-16",
-      "2021-12-17"
-    ]
+    "closed": []
   },
   {
     "name": "Wolfe’s Pond Park (Parking Lot)",
@@ -5776,62 +4882,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Richmond HRA Center",
-    "address": "201 Bay Street,\nStaten Island NY 10301",
-    "borough": "staten-island",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        1900
-      ],
-      "tuesday": [
-        800,
-        1900
-      ],
-      "wednesday": [
-        800,
-        1900
-      ],
-      "thursday": [
-        800,
-        1900
-      ],
-      "friday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.6373185,
-      "lng": -74.07572929999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17"
-    ]
+    "closed": []
   },
   {
     "name": "Greenbelt Recreation Center",
@@ -5839,6 +4898,10 @@
     "borough": "staten-island",
     "site_type": "mobile",
     "hours": {
+      "monday": [
+        800,
+        1800
+      ],
       "tuesday": [
         800,
         1800
@@ -5878,41 +4941,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-14",
-      "2021-12-15",
-      "2021-12-16",
-      "2021-12-17",
-      "2021-12-18",
-      "2021-12-19"
-    ]
-  },
-  {
-    "name": "Our Lady Queen of Peace",
-    "address": "61 New Dorp Ln,\nStaten Island, NY 10306",
-    "borough": "staten-island",
-    "site_type": "mobile",
-    "hours": {
-      "sunday": [
-        800,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26"
     ],
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.5749561,
-      "lng": -74.1179111
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-19"
-    ]
+    "closed": []
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
@@ -5962,7 +4999,9 @@
       "lat": 40.6203745,
       "lng": -74.0768895
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Former St John Villa HS",
@@ -6009,7 +5048,9 @@
       "lat": 40.6012163,
       "lng": -74.0687077
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Greenbelt Recreation Center",
@@ -6057,7 +5098,9 @@
       "lat": 40.5918312,
       "lng": -74.1391991
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
   },
   {
     "name": "Staten Island Ferry",
@@ -6105,7 +5148,55 @@
       "lat": 40.6440515,
       "lng": -74.0725126
     },
-    "wait_time": "unknown"
+    "wait_time": "unknown",
+    "open": [],
+    "closed": []
+  },
+  {
+    "name": "NYC Health + Hospitals/SeaView",
+    "address": "460 Brielle Ave,\nStaten Island, NY 10314",
+    "borough": "staten-island",
+    "site_type": "mortar",
+    "hours": {
+      "monday": [
+        2030,
+        1630
+      ],
+      "tuesday": [
+        2030,
+        1630
+      ],
+      "wednesday": [
+        2030,
+        1630
+      ],
+      "thursday": [
+        2030,
+        1630
+      ]
+    },
+    "errors": [],
+    "ages": [],
+    "offers": [
+      "rapid-antigen",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.5912064,
+      "lng": -74.1324714
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30"
+    ],
+    "closed": []
   },
   {
     "name": "MetroPlus Community Office (Staten Island)",
@@ -6135,9 +5226,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-14",
-      "2021-12-15"
-    ]
+      "2021-12-21",
+      "2021-12-22"
+    ],
+    "closed": []
   },
   {
     "name": "Community Health Action of Staten Island (CHASI) Harm Reduction Center",
@@ -6167,10 +5259,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-13",
-      "2021-12-14",
-      "2021-12-16"
-    ]
+      "2021-12-20",
+      "2021-12-21",
+      "2021-12-23"
+    ],
+    "closed": []
   },
   {
     "name": "Next Step Resources and Recovery Center",
@@ -6196,8 +5289,37 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-14",
-      "2021-12-16"
-    ]
+      "2021-12-21",
+      "2021-12-23"
+    ],
+    "closed": []
+  },
+  {
+    "name": "CHASI Food Pantry",
+    "address": "2134 Richmond Terrace,\nStaten Island, NY 10302",
+    "borough": "staten-island",
+    "site_type": "micro",
+    "hours": {
+      "wednesday": [
+        930,
+        1630
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6401964,
+      "lng": -74.13431539999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22"
+    ],
+    "closed": []
   }
 ]
