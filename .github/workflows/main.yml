@@ -6,6 +6,9 @@ on:
   push:
   workflow_dispatch:
 
+env:
+  GEOCODE_KEY: ${{ secrets.GEOCODE_KEY }}
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -16,8 +19,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '14.x'
-      env:
-        GEOCODE_KEY: ${{ secrets.GEOCODE_KEY }}
     - run: npm install
     - run: npm start
     - name: Commit and push changes
