@@ -21203,5 +21203,211 @@
       }
     ],
     "status": "OK"
+  },
+  "4006 3rd Ave,\nBronx, NY 10457": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "4006",
+            "short_name": "4006",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "3rd Avenue",
+            "short_name": "3rd Ave.",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Morrisania",
+            "short_name": "Morrisania",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10457",
+            "short_name": "10457",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "4006 3rd Ave., Bronx, NY 10457, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8422395,
+              "lng": -73.8979447
+            },
+            "southwest": {
+              "lat": 40.8418062,
+              "lng": -73.8984596
+            }
+          },
+          "location": {
+            "lat": 40.8420144,
+            "lng": -73.8982913
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8433718302915,
+              "lng": -73.89685316970849
+            },
+            "southwest": {
+              "lat": 40.8406738697085,
+              "lng": -73.8995511302915
+            }
+          }
+        },
+        "place_id": "ChIJv0K5g2f0wokRYaTNI2ar6go",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "140 58th Street,\nBrooklyn, NY 11220": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "140",
+            "short_name": "140",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "58th Street",
+            "short_name": "58th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Sunset Park",
+            "short_name": "Sunset Park",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11220",
+            "short_name": "11220",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "140 58th St, Brooklyn, NY 11220, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.645633,
+              "lng": -74.0237387
+            },
+            "southwest": {
+              "lat": 40.6453807,
+              "lng": -74.0240525
+            }
+          },
+          "location": {
+            "lat": 40.6455001,
+            "lng": -74.0239072
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6468558302915,
+              "lng": -74.02254661970849
+            },
+            "southwest": {
+              "lat": 40.6441578697085,
+              "lng": -74.0252445802915
+            }
+          }
+        },
+        "place_id": "ChIJP5_ldqxawokRmmOy9KzKmA4",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }

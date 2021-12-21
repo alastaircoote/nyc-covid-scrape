@@ -1075,6 +1075,35 @@
     "notes": []
   },
   {
+    "name": "Bathgate",
+    "address": "4006 3rd Ave,\nBronx, NY 10457",
+    "borough": "bronx",
+    "site_type": "micro",
+    "hours": {
+      "sunday": [
+        1000,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.8420144,
+      "lng": -73.8982913
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-26"
+    ],
+    "closed": [],
+    "notes": []
+  },
+  {
     "name": "Red Hook Park",
     "address": "Corner of Bay St & Clinton St,\nBrooklyn, NY 11231",
     "borough": "brooklyn",
@@ -2856,6 +2885,69 @@
     "notes": []
   },
   {
+    "name": "HAUP Brooklyn (Haitian Americans United For Progress)",
+    "address": "1760 Nostrand Avenue,\nBrooklyn, NY 11226",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "wednesday": [
+        1030,
+        1800
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.642871,
+      "lng": -73.94901
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22"
+    ],
+    "closed": [],
+    "notes": []
+  },
+  {
+    "name": "Brooklyn Army Terminal (BAT)",
+    "address": "140 58th Street,\nBrooklyn, NY 11220",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "friday": [
+        830,
+        1330
+      ],
+      "sunday": [
+        1000,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6455001,
+      "lng": -74.0239072
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-24",
+      "2021-12-26"
+    ],
+    "closed": [],
+    "notes": []
+  },
+  {
     "name": "Quisqueya Playground",
     "address": "2405 Amsterdam Ave,\nNew York, NY 10033",
     "borough": "manhattan",
@@ -3619,35 +3711,6 @@
     "wait_time": "unknown",
     "open": [
       "2021-12-21"
-    ],
-    "closed": [],
-    "notes": []
-  },
-  {
-    "name": "MetroPlus Community Office (Manhattan)",
-    "address": "2104 Adam Clayton Powell Blvd,\nManhattan, NY 10027",
-    "borough": "manhattan",
-    "site_type": "micro",
-    "hours": {
-      "wednesday": [
-        1000,
-        1730
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.8093494,
-      "lng": -73.9486247
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-22"
     ],
     "closed": [],
     "notes": []
