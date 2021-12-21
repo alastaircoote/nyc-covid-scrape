@@ -241,4 +241,7 @@ function parseTestSiteHeader(h3Node, boroughName) {
 	return siteType;
 }
 
-runScraper();
+runScraper().catch((err) => {
+	process.exitCode = 1;
+	console.error(err);
+});
