@@ -20569,5 +20569,639 @@
       }
     ],
     "status": "OK"
+  },
+  "2780 Reservoir Ave (Testing Site on 196th and Jerome Ave)\nBronx, NY 10468": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "2780",
+            "short_name": "2780",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Reservoir Avenue",
+            "short_name": "Reservoir Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "West Bronx",
+            "short_name": "West Bronx",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10468",
+            "short_name": "10468",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "2780 Reservoir Ave, Bronx, NY 10468, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8709375,
+              "lng": -73.8961657
+            },
+            "southwest": {
+              "lat": 40.8696072,
+              "lng": -73.8979334
+            }
+          },
+          "location": {
+            "lat": 40.8704171,
+            "lng": -73.8969711
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8716213302915,
+              "lng": -73.8957005697085
+            },
+            "southwest": {
+              "lat": 40.8689233697085,
+              "lng": -73.8983985302915
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJE5Yo14TzwokRVy23sEL2YTI",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "400 Irving Avenue,\nBrooklyn NY 11237": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "400",
+            "short_name": "400",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Irving Avenue",
+            "short_name": "Irving Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Bushwick",
+            "short_name": "Bushwick",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11237",
+            "short_name": "11237",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "5938",
+            "short_name": "5938",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "400 Irving Ave, Brooklyn, NY 11237, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.6973433,
+              "lng": -73.91079359999999
+            },
+            "southwest": {
+              "lat": 40.6962816,
+              "lng": -73.91265250000001
+            }
+          },
+          "location": {
+            "lat": 40.6967365,
+            "lng": -73.9120081
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.69816143029151,
+              "lng": -73.9103740697085
+            },
+            "southwest": {
+              "lat": 40.69546346970851,
+              "lng": -73.9130720302915
+            }
+          }
+        },
+        "place_id": "ChIJOzIRlCJcwokRv-XGOAHGycg",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "620 Atlantic Avenue\nBrooklyn NY 11217": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "620",
+            "short_name": "620",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Atlantic Avenue",
+            "short_name": "Atlantic Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Prospect Heights",
+            "short_name": "Prospect Heights",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11217",
+            "short_name": "11217",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "2004",
+            "short_name": "2004",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "620 Atlantic Ave, Brooklyn, NY 11217, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.68336679999999,
+              "lng": -73.9741999
+            },
+            "southwest": {
+              "lat": 40.6817841,
+              "lng": -73.9764987
+            }
+          },
+          "location": {
+            "lat": 40.682658,
+            "lng": -73.9752846
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6839244302915,
+              "lng": -73.9740003197085
+            },
+            "southwest": {
+              "lat": 40.6812264697085,
+              "lng": -73.97669828029152
+            }
+          }
+        },
+        "place_id": "ChIJ1dedWa5bwokR8JFC2X8DsHI",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "2301 Amsterdam Avenue,\nNew York, NY 10033": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "2301",
+            "short_name": "2301",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Amsterdam Avenue",
+            "short_name": "Amsterdam Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10033",
+            "short_name": "10033",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "7348",
+            "short_name": "7348",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "2301 Amsterdam Ave, New York, NY 10033, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8432298,
+              "lng": -73.9337927
+            },
+            "southwest": {
+              "lat": 40.8423473,
+              "lng": -73.9346005
+            }
+          },
+          "location": {
+            "lat": 40.842804,
+            "lng": -73.93419
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8441375302915,
+              "lng": -73.9328476197085
+            },
+            "southwest": {
+              "lat": 40.8414395697085,
+              "lng": -73.9355455802915
+            }
+          }
+        },
+        "place_id": "ChIJqeNcyCD0wokRIg8-Jvvh9vY",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "48-01 90th Street,\nQueens, NY 11373": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "48-01",
+            "short_name": "48-01",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "90th Street",
+            "short_name": "90th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Elmhurst",
+            "short_name": "Elmhurst",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11373",
+            "short_name": "11373",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "48-01 90th St, Queens, NY 11373, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.7408398,
+            "lng": -73.8740093
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.74218878029149,
+              "lng": -73.8726603197085
+            },
+            "southwest": {
+              "lat": 40.7394908197085,
+              "lng": -73.87535828029151
+            }
+          }
+        },
+        "place_id": "ChIJ8ZT137JfwokRPzi2YINY62w",
+        "plus_code": {
+          "compound_code": "P4RG+89 New York, NY, USA",
+          "global_code": "87G8P4RG+89"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "43-31 39th Street,\nQueens, NY 11104": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "43-31",
+            "short_name": "43-31",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "39th Street",
+            "short_name": "39th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Sunnyside",
+            "short_name": "Sunnyside",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11104",
+            "short_name": "11104",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "43-31 39th St, Sunnyside, NY 11104, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.745307,
+              "lng": -73.92540509999999
+            },
+            "southwest": {
+              "lat": 40.7449012,
+              "lng": -73.9258292
+            }
+          },
+          "location": {
+            "lat": 40.7451662,
+            "lng": -73.92560809999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7464530802915,
+              "lng": -73.9242681697085
+            },
+            "southwest": {
+              "lat": 40.7437551197085,
+              "lng": -73.9269661302915
+            }
+          }
+        },
+        "place_id": "ChIJ7TWNl9dewokR3dOkNYPaH5g",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }

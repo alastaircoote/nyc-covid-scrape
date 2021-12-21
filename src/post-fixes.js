@@ -1,7 +1,7 @@
 /** @typedef {((site: import("./parse-site").ParsedSite[], doc: Document) => boolean)} PostFixer */
 
 /** @type PostFixer */
-export function coney_island_no_rapid(sites, doc) {
+export function coney_island_fixes(sites, doc) {
 	const coney = sites.find((s) => s.name === 'NYC Health + Hospitals/Coney Island');
 
 	if (!coney) {
@@ -9,7 +9,21 @@ export function coney_island_no_rapid(sites, doc) {
 	}
 
 	let found = false;
+
+	const forNotes = [
+		'Please schedule an appointment',
+		'Limited walk ins availability',
+		'No walk-ins after 5 pm Mon – Fri and no walk-ins after 2pm on Saturdays'
+	];
+
 	coney.errors = coney.errors.filter((error) => {
+		if (error.type === 'hours-already-exist') {
+			return false;
+		}
+		if (error.type === 'could-not-parse' && forNotes.indexOf(error.value) > -1) {
+			coney.notes.push(error.value);
+			return false;
+		}
 		if (
 			error.type === 'could-not-parse' &&
 			error.value === '*Coney Island Hospital does not offer rapid testing.'

@@ -22,6 +22,7 @@ import { parseTime } from './parse-times.js';
  * @property {string} wait_time
  * @property {string[]} open
  * @property {string[]} closed
+ * @property {string[]} notes
  *
  */
 
@@ -57,7 +58,8 @@ export function parseSite(pTag, window, borough, siteType) {
 		location: undefined,
 		wait_time: 'unknown',
 		open: [],
-		closed: []
+		closed: [],
+		notes: []
 	};
 
 	const firstElement = elements.shift();
@@ -167,23 +169,24 @@ function parseMetadata(text, data) {
 		return true;
 	}
 	if (text === '4 years old and above') {
-		data.ages = data.ages || [];
 		data.ages.push('4+');
 		return true;
 	}
 	if (text === 'COVID-19 Testing and Antibody Testing Offered Here') {
-		data.offers = data.offers || [];
 		data.offers.push('pcr', 'antibody');
 		return true;
 	}
 	if (text === 'Rapid Molecular Testing Available Here') {
-		data.offers = data.offers || [];
 		data.offers.push('rapid-molecular');
 		return true;
 	}
 	if (text === 'Rapid Antigen Testing Available Here') {
-		data.offers = data.offers || [];
 		data.offers.push('rapid-antigen');
+		return true;
+	}
+
+	if (text === 'PCR Testing Available Here') {
+		data.offers.push('pcr');
 		return true;
 	}
 
