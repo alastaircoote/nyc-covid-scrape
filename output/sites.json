@@ -57,7 +57,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -117,7 +119,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Soundview Park",
@@ -177,7 +181,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "St. James Park",
@@ -237,7 +243,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "CO-OP City",
@@ -272,7 +280,9 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "CO-OP City",
@@ -307,7 +317,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "CO-OP City",
@@ -347,7 +359,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "CEC FOOD DISTRO",
@@ -377,7 +391,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "New Covenant Dominion Cathedral",
@@ -407,7 +423,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYPL Wakefield Library",
@@ -452,7 +470,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Reinzi Park",
@@ -492,7 +512,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Children’s Aid College Prep Charter School – Pediatric",
@@ -552,7 +574,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Children’s Aid College Prep Charter School – Whitney Young Jr. Campus",
@@ -612,7 +636,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Chefs Warehouse",
@@ -647,7 +673,60 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Corner of 147th & Willis Ave,",
+    "address": "Corner of 147th & Willis Ave,\nBronx NY 10455",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ],
+      "friday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8147915,
+      "lng": -73.91879879999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Belvis",
@@ -660,29 +739,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -700,7 +763,18 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {
+      "2021-12-24": [
+        700,
+        1300
+      ],
+      "2021-12-31": [
+        700,
+        1300
+      ]
+    }
   },
   {
     "name": "NYC Health + Hospitals/Jacobi",
@@ -749,7 +823,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Lincoln",
@@ -794,7 +870,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Morrisania",
@@ -807,29 +885,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -847,7 +909,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/North Central Bronx",
@@ -896,7 +960,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Tremont",
@@ -909,29 +975,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -948,7 +998,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Walton Educational School",
@@ -992,7 +1044,9 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Riverdale Neighborhood House",
@@ -1021,7 +1075,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Clay Avenue Tenant Association",
@@ -1050,7 +1106,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "New Covenant Christian Ministries (Morrisania)",
@@ -1080,7 +1138,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Bathgate",
@@ -1109,7 +1169,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Red Hook Park",
@@ -1152,7 +1214,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Red Hook Initiative",
@@ -1182,7 +1246,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "St John’s Park",
@@ -1242,7 +1308,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "100% Playground",
@@ -1302,7 +1370,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Marcy Plaza",
@@ -1362,7 +1432,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Marion Hopkinson Playground",
@@ -1422,7 +1494,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Sunset Park",
@@ -1482,7 +1556,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "City Point Vaccine Hub",
@@ -1518,7 +1594,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Diana Jones Innovative Senior Center",
@@ -1554,7 +1632,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Diana Jones Innovative Senior Center",
@@ -1584,7 +1664,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Marine Park",
@@ -1620,7 +1702,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "El Gran Mar de Plata",
@@ -1680,7 +1764,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "2nd Annual NBK Food Relief Coalition Holiday Giveback",
@@ -1710,7 +1796,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "New Hope Family Worship Center",
@@ -1755,7 +1843,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Brooklyn Neighborhood Health Action Center",
@@ -1795,7 +1885,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Vandalia Neighborhood Senior Center (closed  12/24-25)",
@@ -1840,7 +1932,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Jewish Community House of Bensonhurst",
@@ -1870,7 +1964,9 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Coney Island",
@@ -1920,10 +2016,11 @@
     "open": [],
     "closed": [],
     "notes": [
-      "Please schedule an appointment",
       "Limited walk ins availability",
       "No walk-ins after 5 pm Mon – Fri and no walk-ins after 2pm on Saturdays"
-    ]
+    ],
+    "appointments_required": true,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
@@ -1936,29 +2033,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -1976,7 +2057,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, East New York",
@@ -1989,29 +2072,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -2029,7 +2096,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Kings County",
@@ -2078,7 +2147,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Woodhull",
@@ -2127,7 +2198,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "4002 Fort Hamilton",
@@ -2178,7 +2251,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Bay Ridge",
@@ -2229,7 +2304,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Bensonhurst",
@@ -2280,7 +2357,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Midwood Pre-K",
@@ -2292,29 +2371,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -2332,7 +2395,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Starrett City",
@@ -2383,7 +2448,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Bushwick Educational Campus",
@@ -2427,7 +2494,9 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Modell’s (across from Barclays Center)",
@@ -2453,6 +2522,7 @@
       "4+"
     ],
     "offers": [
+      "rapid-antigen",
       "pcr"
     ],
     "location": {
@@ -2466,41 +2536,27 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
-    "name": "Brooklyn Navy Yard",
-    "address": "63 Flushing Ave, building 92,\nBrooklyn, NY 11205",
+    "name": "Modell’s (across from Barclays Center)",
+    "address": "620 Atlantic Avenue\nBrooklyn NY 11217",
     "borough": "brooklyn",
-    "site_type": "micro",
+    "site_type": "mortar",
     "hours": {
-      "monday": [
-        830,
-        1630
-      ],
       "tuesday": [
-        830,
-        1630
+        1100,
+        1900
       ],
       "wednesday": [
-        830,
-        1630
+        1100,
+        1900
       ],
       "thursday": [
-        830,
-        1630
-      ],
-      "saturday": [
-        830,
-        1630
-      ],
-      "sunday": [
-        830,
-        1630
-      ],
-      "friday": [
-        830,
-        1330
+        1100,
+        1900
       ]
     },
     "errors": [],
@@ -2508,24 +2564,72 @@
       "4+"
     ],
     "offers": [
-      "saliva-pcr"
+      "rapid-antigen",
+      "pcr"
     ],
     "location": {
-      "lat": 40.6976371,
-      "lng": -73.97457709999999
+      "lat": 40.682658,
+      "lng": -73.9752846
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-20",
       "2021-12-21",
       "2021-12-22",
-      "2021-12-23",
-      "2021-12-24",
-      "2021-12-25",
-      "2021-12-26"
+      "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Brooklyn Public Library – Central Branch",
+    "address": "10 Grand Army Plaza (Testing entrance on Eastern parkway side between Grand Army Plaza and Mount Prospect Park)\nBrooklyn, NY 11238",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "monday": [
+        1100,
+        1900
+      ],
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid-antigen",
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6740248,
+      "lng": -73.9701254
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Ida G. Israel Health Center",
@@ -2569,7 +2673,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Diaspora Community Center",
@@ -2598,7 +2704,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Family Services Network of New York (Harm Reduction Program – Broadway)",
@@ -2627,7 +2735,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Family Services Network of New York Access Center",
@@ -2682,7 +2792,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Amalgamated Warbasse Houses",
@@ -2716,7 +2828,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "BCA Sunset Park Senior Center",
@@ -2745,7 +2859,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "RiseBoro Community Office (Williamsburg)",
@@ -2774,7 +2890,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "RiseBoro Community Office (Brownsville)",
@@ -2803,7 +2921,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "RiseBoro Youth Center",
@@ -2832,7 +2952,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "BCA Bensonhurst Senior Center",
@@ -2861,7 +2983,9 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Mt. Pisgah Baptist Church",
@@ -2890,7 +3014,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "HAUP Brooklyn (Haitian Americans United For Progress)",
@@ -2919,7 +3045,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Brooklyn Army Terminal (BAT)",
@@ -2953,7 +3081,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Quisqueya Playground",
@@ -3013,7 +3143,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Masaryk Towers",
@@ -3047,7 +3179,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYCHA Manhattanville",
@@ -3107,7 +3241,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Times Square Testing Site",
@@ -3159,7 +3295,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Gotham Health – Sydenham",
@@ -3220,7 +3358,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "The New School",
@@ -3255,7 +3395,9 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "RIOC",
@@ -3305,7 +3447,213 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Corner of 8th Avenue & 35th/36th Street,",
+    "address": "Corner of 8th Avenue & 35th/36th Street,\nNew York NY 10018",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ],
+      "friday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.75285700000001,
+      "lng": -73.9929789
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Corner of 42nd St & 8th/9th Avenue,",
+    "address": "Corner of 42nd St & 8th/9th Avenue,\nNew York NY 10036",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ],
+      "friday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7572517,
+      "lng": -73.9897885
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Corner of 125th & Lexington Ave/Park Ave,",
+    "address": "Corner of 125th & Lexington Ave/Park Ave,\nNew York NY 10035",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ],
+      "friday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8043833,
+      "lng": -73.9374304
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Corner of W 180th & Amsterdam Avenue,",
+    "address": "Corner of W 180th & Amsterdam Avenue,\nNew York NY 10033",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ],
+      "friday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8474255,
+      "lng": -73.93140350000002
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Times Square Testing Site",
@@ -3356,7 +3704,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Bellevue",
@@ -3403,7 +3753,9 @@
     "closed": [
       "2021-12-25"
     ],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
@@ -3416,29 +3768,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -3456,7 +3792,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Harlem",
@@ -3505,7 +3843,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Metropolitan",
@@ -3554,7 +3894,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Highbridge Park Rec Center",
@@ -3594,7 +3936,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Harlem Congregations for Community Improvement, Inc. (Petioni)",
@@ -3624,7 +3968,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Harlem Congregations for Community Improvement, Inc. (Dinkins)",
@@ -3653,7 +3999,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "AM De La Rosa’s District Office",
@@ -3692,7 +4040,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Compton Eye Associates",
@@ -3721,7 +4071,9 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Telephone Playground",
@@ -3781,7 +4133,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Our Lady of Sorrows Church",
@@ -3841,7 +4195,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Phil “Scooter” Rizzuto Park",
@@ -3901,7 +4257,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Life Camp INC",
@@ -3961,7 +4319,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Park of the Americas",
@@ -4021,7 +4381,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "The Episcopal Church of St. Alban the Martyr",
@@ -4081,7 +4443,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYCHA Woodside Streetside Parking",
@@ -4141,7 +4505,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "LaGuardia Airport",
@@ -4193,7 +4559,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "John F. Kennedy Airport",
@@ -4245,7 +4613,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Beach 39th Vaccine Hub",
@@ -4300,7 +4670,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "ELMCOR",
@@ -4336,7 +4708,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "El Dorado",
@@ -4396,7 +4770,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Growing Up Green Charter I Elementary School",
@@ -4426,7 +4802,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Growing Up Green Charter II Elementary School",
@@ -4456,7 +4834,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Growing Up Green Charter I Middle School",
@@ -4486,7 +4866,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Growing Up Green Charter II Middle School",
@@ -4516,7 +4898,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Hollis Ave Congregational Church",
@@ -4546,7 +4930,9 @@
       "2021-12-21"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Sts. Joachim & Anne Parish",
@@ -4576,7 +4962,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Sts. Joachim & Anne Parish",
@@ -4606,7 +4994,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "100 Suits",
@@ -4646,7 +5036,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "First Church of God in Christ",
@@ -4676,7 +5068,60 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Corner of Archer Av/Jamaica Av & Sutphin Blvd,",
+    "address": "Corner of Archer Av/Jamaica Av & Sutphin Blvd,\nQueens NY 11435",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ],
+      "friday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.700822,
+      "lng": -73.8079243
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-21",
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Elmhurst",
@@ -4725,7 +5170,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": true,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Queens",
@@ -4774,7 +5221,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Sorrentino Rec Center",
@@ -4825,7 +5274,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "455 Jefferson Street",
@@ -4872,11 +5323,13 @@
       "2021-12-30"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Elmhurst/Newton High School",
-    "address": "48-01 90th Street,\nQueens, NY 11373",
+    "address": "48-01 90th Street,\n(Testing is at 90-20 56th Avenue)\nQueens, NY 11373",
     "borough": "queens",
     "site_type": "mortar",
     "hours": {
@@ -4905,8 +5358,8 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.7408398,
-      "lng": -73.8740093
+      "lat": 40.736076,
+      "lng": -73.8720816
     },
     "wait_time": "unknown",
     "open": [
@@ -4916,7 +5369,9 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Greater Allen Cathedral of NY",
@@ -4965,7 +5420,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Queens Museum New York City Building",
@@ -4995,7 +5452,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Community Church of Christ Events",
@@ -5034,7 +5493,9 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Promise Church",
@@ -5063,7 +5524,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Youth Referral & Placement Unit (YRPU)",
@@ -5092,7 +5555,9 @@
       "2021-12-20"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "New Life United Methodist Church",
@@ -5141,7 +5606,9 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Mt. Moriah AME Church (Linden Blvd Buisness Corridor)",
@@ -5170,7 +5637,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Queens College Student Union",
@@ -5214,7 +5683,9 @@
       "2021-12-24"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Sunnyside Community Services",
@@ -5248,7 +5719,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Wolfe’s Pond Park (Parking Lot)",
@@ -5308,7 +5781,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Greenbelt Recreation Center",
@@ -5368,7 +5843,9 @@
       "2021-12-26"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
@@ -5381,29 +5858,13 @@
         700,
         1900
       ],
-      "tuesday": [
-        700,
-        1900
-      ],
-      "wednesday": [
-        700,
-        1900
-      ],
-      "thursday": [
-        700,
-        1900
-      ],
       "friday": [
         700,
-        1900
+        1300
       ],
       "saturday": [
-        700,
-        1900
-      ],
-      "sunday": [
-        700,
-        1900
+        1300,
+        1700
       ]
     },
     "errors": [],
@@ -5421,7 +5882,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Former St John Villa HS",
@@ -5471,7 +5934,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Greenbelt Recreation Center",
@@ -5522,7 +5987,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Staten Island Ferry",
@@ -5573,7 +6040,9 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/SeaView",
@@ -5622,7 +6091,9 @@
       "2021-12-30"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "MetroPlus Community Office (Staten Island)",
@@ -5656,7 +6127,9 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Community Health Action of Staten Island (CHASI) Harm Reduction Center",
@@ -5691,7 +6164,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "Next Step Resources and Recovery Center",
@@ -5721,7 +6196,9 @@
       "2021-12-23"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   },
   {
     "name": "CHASI Food Pantry",
@@ -5750,6 +6227,8 @@
       "2021-12-22"
     ],
     "closed": [],
-    "notes": []
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
   }
 ]

@@ -16,6 +16,7 @@ import { parseTime } from './parse-times.js';
  * @property {string[]} ages
  * @property {string[]} offers
  * @property {Record<string,number[]>} hours
+ * @property {Record<string,number[]>} date_specific_hours
  * @property {ParseError[]} errors
  * @property {string | undefined} pre_register_link
  * @property {{lat:number, lng:number} | undefined} location
@@ -23,7 +24,7 @@ import { parseTime } from './parse-times.js';
  * @property {string[]} open
  * @property {string[]} closed
  * @property {string[]} notes
- *
+ * @property {boolean} appointments_required;
  */
 
 /**
@@ -59,7 +60,9 @@ export function parseSite(pTag, window, borough, siteType) {
 		wait_time: 'unknown',
 		open: [],
 		closed: [],
-		notes: []
+		notes: [],
+		appointments_required: false,
+		date_specific_hours: {}
 	};
 
 	const firstElement = elements.shift();
@@ -262,6 +265,13 @@ function parseAddress(elements, { Text }, data) {
 	}
 
 	data.address = addressLines.join('\n');
+
+	if (addressLines.length === 1) {
+		// there are some places where the name is actually an important part of the
+		// address, otherwise we're just trying to geocode "New York NY [zip]". So let's
+		// add the name.
+		data.address = data.name + '\n' + data.address;
+	}
 
 	return true;
 }

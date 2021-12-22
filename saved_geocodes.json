@@ -21409,5 +21409,1364 @@
       }
     ],
     "status": "OK"
+  },
+  "Bronx NY 10455": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "10455",
+            "short_name": "10455",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "West Bronx",
+            "short_name": "West Bronx",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Bronx, NY 10455, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8211921,
+              "lng": -73.895158
+            },
+            "southwest": {
+              "lat": 40.8059291,
+              "lng": -73.921211
+            }
+          },
+          "location": {
+            "lat": 40.8147803,
+            "lng": -73.90805809999999
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8211921,
+              "lng": -73.895158
+            },
+            "southwest": {
+              "lat": 40.8059291,
+              "lng": -73.921211
+            }
+          }
+        },
+        "place_id": "ChIJ07P22Lb1wokRXWUuxgjHaxQ",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "10 Grand Army Plaza (Testing entrance on Eastern parkway side between Grand Army Plaza and Mount Prospect Park)\nBrooklyn, NY 11238": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Grand Army Plaza",
+            "short_name": "Grand Army Plaza",
+            "types": [
+              "establishment",
+              "park",
+              "point_of_interest"
+            ]
+          },
+          {
+            "long_name": "Flatbush Avenue",
+            "short_name": "Flatbush Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Prospect Heights",
+            "short_name": "Prospect Heights",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11238",
+            "short_name": "11238",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Grand Army Plaza, Flatbush Ave, Brooklyn, NY 11238, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.6740248,
+            "lng": -73.9701254
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6753737802915,
+              "lng": -73.9687764197085
+            },
+            "southwest": {
+              "lat": 40.6726758197085,
+              "lng": -73.97147438029151
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJXQKUHghbwokRKsMvhT3SPCQ",
+        "plus_code": {
+          "compound_code": "M2FH+JW Brooklyn, NY, USA",
+          "global_code": "87G8M2FH+JW"
+        },
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Mount Prospect Park",
+            "short_name": "Mount Prospect Park",
+            "types": [
+              "establishment",
+              "park",
+              "point_of_interest",
+              "tourist_attraction"
+            ]
+          },
+          {
+            "long_name": "Eastern Parkway",
+            "short_name": "Eastern Pkwy",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11238",
+            "short_name": "11238",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Mount Prospect Park, Eastern Pkwy, Brooklyn, NY 11238, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.6707677,
+            "lng": -73.96717020000001
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6721166802915,
+              "lng": -73.96582121970852
+            },
+            "southwest": {
+              "lat": 40.6694187197085,
+              "lng": -73.96851918029152
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJAYbjmwlbwokReniI6h1d49E",
+        "plus_code": {
+          "compound_code": "M2CM+84 Brooklyn, NY, USA",
+          "global_code": "87G8M2CM+84"
+        },
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest",
+          "tourist_attraction"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "New York NY 10018": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "New York, NY 10018, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.7648468,
+              "lng": -73.980888
+            },
+            "southwest": {
+              "lat": 40.749102,
+              "lng": -74.0124001
+            }
+          },
+          "location": {
+            "lat": 40.755322,
+            "lng": -73.9932872
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7648468,
+              "lng": -73.980888
+            },
+            "southwest": {
+              "lat": 40.749102,
+              "lng": -74.0124001
+            }
+          }
+        },
+        "place_id": "ChIJq_e9GK1ZwokRKgCpnuOYxXQ",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "New York NY 10036": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "10036",
+            "short_name": "10036",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "New York, NY 10036, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.768738,
+              "lng": -73.9781161
+            },
+            "southwest": {
+              "lat": 40.7236249,
+              "lng": -74.004786
+            }
+          },
+          "location": {
+            "lat": 40.7602619,
+            "lng": -73.9932872
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 40.768738,
+              "lng": -73.9781161
+            },
+            "southwest": {
+              "lat": 40.7236249,
+              "lng": -74.004786
+            }
+          }
+        },
+        "place_id": "ChIJByP4k1NYwokR7WYV3pZo1fc",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "New York NY 10035": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "10035",
+            "short_name": "10035",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "New York, NY 10035, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.809582,
+              "lng": -73.9142281
+            },
+            "southwest": {
+              "lat": 40.781075,
+              "lng": -73.9493689
+            }
+          },
+          "location": {
+            "lat": 40.794065,
+            "lng": -73.9271644
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 40.809582,
+              "lng": -73.9142281
+            },
+            "southwest": {
+              "lat": 40.781075,
+              "lng": -73.9493689
+            }
+          }
+        },
+        "place_id": "ChIJuWn08vn1wokRIvLCNXbpopM",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "New York NY 10033": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "10033",
+            "short_name": "10033",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "New York, NY 10033, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.862545,
+              "lng": -73.92708
+            },
+            "southwest": {
+              "lat": 40.8303829,
+              "lng": -73.95204389999999
+            }
+          },
+          "location": {
+            "lat": 40.8557765,
+            "lng": -73.9447994
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 40.862545,
+              "lng": -73.92708
+            },
+            "southwest": {
+              "lat": 40.8303829,
+              "lng": -73.95204389999999
+            }
+          }
+        },
+        "place_id": "ChIJ55cYgqD2wokRYDSOwvOtK5o",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Queens NY 11435": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "11435",
+            "short_name": "11435",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Briarwood",
+            "short_name": "Briarwood",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Briarwood, NY 11435, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.719062,
+              "lng": -73.792107
+            },
+            "southwest": {
+              "lat": 40.68293200000001,
+              "lng": -73.8266769
+            }
+          },
+          "location": {
+            "lat": 40.7031635,
+            "lng": -73.8095574
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 40.719062,
+              "lng": -73.792107
+            },
+            "southwest": {
+              "lat": 40.68293200000001,
+              "lng": -73.8266769
+            }
+          }
+        },
+        "place_id": "ChIJx-CfgcVgwokRCsK52hTCnig",
+        "postcode_localities": [
+          "Briarwood",
+          "Jamaica"
+        ],
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "48-01 90th Street,\n(Testing is at 90-20 56th Avenue)\nQueens, NY 11373": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "90th",
+            "short_name": "90th",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "90-20",
+            "short_name": "90-20",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "56th Avenue",
+            "short_name": "56th Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Elmhurst",
+            "short_name": "Elmhurst",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11373",
+            "short_name": "11373",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "90-20 56th Ave #90th, Elmhurst, NY 11373, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.736076,
+            "lng": -73.8720816
+          },
+          "location_type": "RANGE_INTERPOLATED",
+          "viewport": {
+            "northeast": {
+              "lat": 40.73742498029149,
+              "lng": -73.8707326197085
+            },
+            "southwest": {
+              "lat": 40.7347270197085,
+              "lng": -73.87343058029151
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "Ei05MC0yMCA1NnRoIEF2ZSAjOTB0aCwgRWxtaHVyc3QsIE5ZIDExMzczLCBVU0EiJBoiChoSGAoUChIJKVz9bkxewokRSzGORIIi6GIQFBIEOTB0aA",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Corner of 147th & Willis Ave,\nBronx NY 10455": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Willis Avenue & East 147th Street",
+            "short_name": "Willis Ave & E 147th St",
+            "types": [
+              "intersection"
+            ]
+          },
+          {
+            "long_name": "Mott Haven",
+            "short_name": "Mott Haven",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10455",
+            "short_name": "10455",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Willis Ave & E 147th St, Bronx, NY 10455, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8147915,
+            "lng": -73.91879879999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8161404802915,
+              "lng": -73.9174498197085
+            },
+            "southwest": {
+              "lat": 40.8134425197085,
+              "lng": -73.9201477802915
+            }
+          }
+        },
+        "place_id": "Ei1XaWxsaXMgQXZlICYgRSAxNDd0aCBTdCwgQnJvbngsIE5ZIDEwNDU1LCBVU0EiZiJkChQKEgm5o0T5xfXCiREojhesN8R0hhIUChIJuaNE-cX1wokRKI4XrDfEdIYaFAoSCZXINjPD9cKJETVY_qfov6ghGhQKEgmR6YBtuPXCiRGhHDIxQb15qSIKDcvXUxgV7OLw0w",
+        "types": [
+          "intersection"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Corner of 8th Avenue & 35th/36th Street,\nNew York NY 10018": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "West 35th Street & 8th Avenue",
+            "short_name": "W 35th St & 8th Ave",
+            "types": [
+              "intersection"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "W 35th St & 8th Ave, New York, NY 10018, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.75285700000001,
+            "lng": -73.9929789
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.75420598029151,
+              "lng": -73.9916299197085
+            },
+            "southwest": {
+              "lat": 40.75150801970851,
+              "lng": -73.99432788029151
+            }
+          }
+        },
+        "place_id": "EixXIDM1dGggU3QgJiA4dGggQXZlLCBOZXcgWW9yaywgTlkgMTAwMTgsIFVTQSJmImQKFAoSCbPkRL-tWcKJEco8C2eUmVkgEhQKEgmz5ES_rVnCiRHKPAtnlJlZIBoUChIJd56duK1ZwokRPKTDvkJYx24aFAoSCZl-feWtWcKJEYTaKozUEW84IgoNemRKGBVDkeXT",
+        "types": [
+          "intersection"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Corner of 42nd St & 8th/9th Avenue,\nNew York NY 10036": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "West 42nd Street & 8th Avenue",
+            "short_name": "W 42nd St & 8th Ave",
+            "types": [
+              "intersection"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10036",
+            "short_name": "10036",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "W 42nd St & 8th Ave, New York, NY 10036, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.7572517,
+            "lng": -73.9897885
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.75860068029149,
+              "lng": -73.9884395197085
+            },
+            "southwest": {
+              "lat": 40.75590271970849,
+              "lng": -73.99113748029151
+            }
+          }
+        },
+        "place_id": "EixXIDQybmQgU3QgJiA4dGggQXZlLCBOZXcgWW9yaywgTlkgMTAwMzYsIFVTQSJmImQKFAoSCS-HikJTWMKJETK4bxDIObvPEhQKEgkvh4pCU1jCiREyuG8QyDm7zxoUChIJ41VNF1NYwokRrLOQ3ELZzpkaFAoSCZl-feWtWcKJEYTaKozUEW84IgoNJRBLGBXjDebT",
+        "types": [
+          "intersection"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Corner of 125th & Lexington Ave/Park Ave,\nNew York NY 10035": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Lexington Avenue & East 125th Street",
+            "short_name": "Lexington Ave & E 125th St",
+            "types": [
+              "intersection"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10035",
+            "short_name": "10035",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Lexington Ave & E 125th St, New York, NY 10035, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8043833,
+            "lng": -73.9374304
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.80573228029149,
+              "lng": -73.9360814197085
+            },
+            "southwest": {
+              "lat": 40.80303431970849,
+              "lng": -73.9387793802915
+            }
+          }
+        },
+        "place_id": "EjNMZXhpbmd0b24gQXZlICYgRSAxMjV0aCBTdCwgTmV3IFlvcmssIE5ZIDEwMDM1LCBVU0EiZiJkChQKEgnRmnNqCvbCiREsa-CqN8L1HhIUChIJ0Zpzagr2wokRLGvgqjfC9R4aFAoSCXuXQMi9WMKJESCPPXLTFjXqGhQKEgmfuVVtCvbCiRFqozXSAD11SiIKDTlBUhgVIAvu0w",
+        "types": [
+          "intersection"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Corner of W 180th & Amsterdam Avenue,\nNew York NY 10033": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Amsterdam Avenue & West 180th Street",
+            "short_name": "Amsterdam Ave & W 180th St",
+            "types": [
+              "intersection"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10033",
+            "short_name": "10033",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Amsterdam Ave & W 180th St, New York, NY 10033, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8474255,
+            "lng": -73.93140350000002
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8487744802915,
+              "lng": -73.93005451970852
+            },
+            "southwest": {
+              "lat": 40.8460765197085,
+              "lng": -73.93275248029153
+            }
+          }
+        },
+        "place_id": "EjNBbXN0ZXJkYW0gQXZlICYgVyAxODB0aCBTdCwgTmV3IFlvcmssIE5ZIDEwMDMzLCBVU0EiZiJkChQKEgkXSp1BH_TCiRGmEc-V0F8l1RIUChIJF0qdQR_0wokRphHPldBfJdUaFAoSCat7c65r9sKJEcgffj8MW9JRGhQKEglxCd53oPbCiRGxZWulJOYHTiIKDY_SWBgVjfbu0w",
+        "types": [
+          "intersection"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Corner of Archer Av/Jamaica Av & Sutphin Blvd,\nQueens NY 11435": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Sutphin Blvd - Archer Av - JFK Airport",
+            "short_name": "Sutphin Blvd - Archer Av - JFK Airport",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "subway_station",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Jamaica",
+            "short_name": "Jamaica",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11435",
+            "short_name": "11435",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Sutphin Blvd - Archer Av - JFK Airport, Queens, NY 11435, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.700822,
+            "lng": -73.8079243
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.70217098029149,
+              "lng": -73.80657531970849
+            },
+            "southwest": {
+              "lat": 40.69947301970849,
+              "lng": -73.80927328029149
+            }
+          }
+        },
+        "partial_match": true,
+        "place_id": "ChIJI7COX8VgwokR2_ep5tTapLY",
+        "plus_code": {
+          "compound_code": "P52R+8R New York, NY, USA",
+          "global_code": "87G8P52R+8R"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "subway_station",
+          "transit_station"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }

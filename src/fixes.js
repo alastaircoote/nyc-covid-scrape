@@ -30,45 +30,6 @@ export function remove_top_button(doc) {
 }
 
 /** @type Fixer */
-export function bronx_micro_header(doc) {
-	const h3 = doc.querySelector('h3#bronx-micro');
-	const element = h3?.nextElementSibling;
-	if (!element || !element.parentNode) {
-		return false;
-	}
-
-	if (element.className !== '') {
-		return false;
-	}
-
-	if (element.innerHTML.trim() !== 'Micro-Sites: Saliva-based PCR') {
-		return false;
-	}
-	element.parentNode.removeChild(element);
-	h3.innerHTML = 'Micro-Sites: Saliva-based PCR';
-	return true;
-}
-
-/** @type Fixer */
-export function coney_island_merge(doc) {
-	const link = doc.querySelector("a[href='/coneyisland']");
-	if (!link) {
-		return false;
-	}
-
-	const p = link.parentElement;
-	const secondP = p?.nextElementSibling;
-	if (!secondP || secondP.className !== '' || !secondP.parentNode) {
-		return false;
-	}
-	p.innerHTML += secondP.innerHTML;
-	// there's a duplication
-	p.innerHTML = p.innerHTML.replace('Monday – Saturday, 8 a.m. – 4 p.m.', '');
-	secondP.parentNode.removeChild(secondP);
-	return true;
-}
-
-/** @type Fixer */
 export function co_op_city_date_typo(doc) {
 	const bronxHeader = doc.querySelector('#bronx-mobile');
 	if (!bronxHeader) {
@@ -126,28 +87,5 @@ export function remove_rotating_metadata(doc) {
 		html?.nextSibling.parentNode?.removeChild(html?.nextSibling);
 	}
 
-	return true;
-}
-
-/** @type Fixer */
-export function fix_brooklyn_navy_yard(doc) {
-	const h3 = doc.querySelector('#brooklyn-micro');
-	let p = h3?.nextElementSibling;
-	while (p && p.tagName === 'P' && p.innerHTML.indexOf('Navy Yard') === -1) {
-		p = p.nextElementSibling;
-	}
-	if (!p) {
-		return false;
-	}
-	if (
-		p.innerHTML.indexOf('Monday – Sunday, 8:30 a.m. – 4:30 p.m.') === -1 ||
-		p.innerHTML.indexOf('Friday, 8:30 a.m. – 1:30 p.m.') === -1
-	) {
-		return false;
-	}
-	p.innerHTML = p.innerHTML.replace(
-		'Monday – Sunday, 8:30 a.m. – 4:30 p.m.',
-		'Monday – Thursday: 8:30 a.m. – 4:30 p.m.<br/>Saturday – Sunday: 8:30 a.m. – 4:30 p.m.'
-	);
 	return true;
 }

@@ -4,7 +4,7 @@ const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
 const MONTHS_MATCH = MONTHS.join('|');
 
 const MULTILINE_SPLIT = new RegExp(
-	`(${MONTHS_MATCH})((?:.+)[0-9]{1,2}) *, *(${MONTHS_MATCH})?(.+)`
+	`(${MONTHS_MATCH})((?:.+)[0-9]{1,2}) *[,;] *(${MONTHS_MATCH})?(.+)`
 );
 
 const EXTRACT_DATE_TEXT = new RegExp('Dates: *(.+)');

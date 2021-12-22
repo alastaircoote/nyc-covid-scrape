@@ -11,13 +11,16 @@ export function coney_island_fixes(sites, doc) {
 	let found = false;
 
 	const forNotes = [
-		'Please schedule an appointment',
 		'Limited walk ins availability',
 		'No walk-ins after 5 pm Mon – Fri and no walk-ins after 2pm on Saturdays'
 	];
 
 	coney.errors = coney.errors.filter((error) => {
 		if (error.type === 'hours-already-exist') {
+			return false;
+		}
+		if (error.type === 'could-not-parse' && error.value === 'Please schedule an appointment') {
+			coney.appointments_required = true;
 			return false;
 		}
 		if (error.type === 'could-not-parse' && forNotes.indexOf(error.value) > -1) {
@@ -160,5 +163,59 @@ export function bellevue_christmas_message(sites) {
 		}
 		return true;
 	});
+	return found;
+}
+
+/** @type PostFixer */
+export function elmhurst_appts_required(sites) {
+	const elmhurst = sites.find((s) => s.name === 'NYC Health + Hospitals/Elmhurst');
+	if (!elmhurst) {
+		return false;
+	}
+	let found = false;
+	elmhurst.errors = elmhurst.errors.filter((error) => {
+		if (
+			error.type === 'could-not-parse' &&
+			error.value === 'Appointments are REQUIRED.  NO walk-ins at this time.'
+		) {
+			found = true;
+			elmhurst.appointments_required = true;
+			return false;
+		}
+		return true;
+	});
+
+	return found;
+}
+
+/** @type PostFixer */
+export function belvis_nye_christmas_eve(sites) {
+	const belvis = sites.find((s) => s.name === 'NYC Health + Hospitals/Gotham Health, Belvis');
+
+	if (!belvis) {
+		return false;
+	}
+	let found = false;
+
+	belvis.errors = belvis.errors.filter((error) => {
+		if (
+			error.type === 'could-not-parse' &&
+			error.value === 'Closed at 1:00 PM for Christmas Eve and New Year Eve'
+		) {
+			found = true;
+			return false;
+		}
+		return true;
+	});
+
+	if (found) {
+		const normalFridayHours = belvis.hours['friday'];
+		if (!normalFridayHours) {
+			throw new Error('Could not get Friday hours');
+		}
+
+		belvis.date_specific_hours['2021-12-24'] = [normalFridayHours[0], 1300];
+		belvis.date_specific_hours['2021-12-31'] = [normalFridayHours[0], 1300];
+	}
 	return found;
 }
