@@ -22768,5 +22768,507 @@
       }
     ],
     "status": "OK"
+  },
+  "105 Dreiser Loop\nBronx, NY 10475": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "105",
+            "short_name": "105",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Dreiser Loop",
+            "short_name": "Dreiser Loop",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "East Bronx",
+            "short_name": "East Bronx",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10475",
+            "short_name": "10475",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "105 Dreiser Loop, Bronx, NY 10475, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8782553,
+            "lng": -73.8284493
+          },
+          "location_type": "RANGE_INTERPOLATED",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8796042802915,
+              "lng": -73.8271003197085
+            },
+            "southwest": {
+              "lat": 40.8769063197085,
+              "lng": -73.82979828029151
+            }
+          }
+        },
+        "place_id": "EiYxMDUgRHJlaXNlciBMb29wLCBCcm9ueCwgTlkgMTA0NzUsIFVTQSIaEhgKFAoSCTVNK7vFjMKJEZtyNpWxzKFoEGk",
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Travers Park\n76-9 34th St.\nQueens, NY 11372": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Travers Park",
+            "short_name": "Travers Park",
+            "types": [
+              "establishment",
+              "park",
+              "point_of_interest",
+              "tourist_attraction"
+            ]
+          },
+          {
+            "long_name": "76-9",
+            "short_name": "76-9",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "34th Avenue",
+            "short_name": "34th Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Jackson Heights",
+            "short_name": "Jackson Heights",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11372",
+            "short_name": "11372",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Travers Park, 76-9 34th Ave, Queens, NY 11372, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.7539534,
+            "lng": -73.88936199999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7553023802915,
+              "lng": -73.88801301970848
+            },
+            "southwest": {
+              "lat": 40.7526044197085,
+              "lng": -73.8907109802915
+            }
+          }
+        },
+        "place_id": "ChIJyd4xKQhfwokRmfxnlpCNLpg",
+        "plus_code": {
+          "compound_code": "Q436+H7 New York, NY, USA",
+          "global_code": "87G8Q436+H7"
+        },
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest",
+          "tourist_attraction"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Queens Valley Playground\nCorner of 137 Street & 77 Ave.\nFlushing NY 11367": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Queens Valley Playground",
+            "short_name": "Queens Valley Playground",
+            "types": [
+              "establishment",
+              "park",
+              "point_of_interest",
+              "tourist_attraction"
+            ]
+          },
+          {
+            "long_name": "137-32",
+            "short_name": "137-32",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "76th Avenue",
+            "short_name": "76th Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Flushing",
+            "short_name": "Flushing",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11367",
+            "short_name": "11367",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Queens Valley Playground, 137-32 76th Ave, Flushing, NY 11367, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.721806,
+            "lng": -73.8238026
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7231549802915,
+              "lng": -73.8224536197085
+            },
+            "southwest": {
+              "lat": 40.7204570197085,
+              "lng": -73.8251515802915
+            }
+          }
+        },
+        "place_id": "ChIJ2UwtG5JgwokRRsUxvOc_DPQ",
+        "plus_code": {
+          "compound_code": "P5CG+PF Flushing, Queens, NY, USA",
+          "global_code": "87G8P5CG+PF"
+        },
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest",
+          "tourist_attraction"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "Helen Marshall Playground\n100 St & 24th Ave.\nEast Elmhurst, NY 11369": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "East Elmhurst",
+            "short_name": "East Elmhurst",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11369",
+            "short_name": "11369",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "100 St & 24th Ave, East Elmhurst, NY 11369, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.7657488,
+            "lng": -73.8707687
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.76709778029149,
+              "lng": -73.8694197197085
+            },
+            "southwest": {
+              "lat": 40.7643998197085,
+              "lng": -73.87211768029151
+            }
+          }
+        },
+        "place_id": "ChIJQcrQ25NfwokR2-r98gcqkIo",
+        "plus_code": {
+          "compound_code": "Q48H+7M East Elmhurst, Queens, NY, USA",
+          "global_code": "87G8Q48H+7M"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "280 Mill Rd,\nStaten Island, NY 10306": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "280",
+            "short_name": "280",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Mill Road",
+            "short_name": "Mill Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Oakwood",
+            "short_name": "Oakwood",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Staten Island",
+            "short_name": "Staten Island",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Richmond County",
+            "short_name": "Richmond County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10306",
+            "short_name": "10306",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "280 Mill Rd, Staten Island, NY 10306, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.5618405,
+              "lng": -74.1098906
+            },
+            "southwest": {
+              "lat": 40.5608574,
+              "lng": -74.1114271
+            }
+          },
+          "location": {
+            "lat": 40.5613939,
+            "lng": -74.11059879999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.5626979302915,
+              "lng": -74.1093098697085
+            },
+            "southwest": {
+              "lat": 40.5599999697085,
+              "lng": -74.11200783029152
+            }
+          }
+        },
+        "place_id": "ChIJEci7lURJwokRCqIyRbuPtf8",
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }

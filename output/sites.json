@@ -1049,6 +1049,55 @@
     "date_specific_hours": {}
   },
   {
+    "name": "Dreiser Loop Co-op City",
+    "address": "105 Dreiser Loop\nBronx, NY 10475",
+    "borough": "bronx",
+    "site_type": "mortar",
+    "hours": {
+      "monday": [
+        1100,
+        1900
+      ],
+      "tuesday": [
+        1100,
+        1900
+      ],
+      "wednesday": [
+        1100,
+        1900
+      ],
+      "thursday": [
+        1100,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid-antigen",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8782553,
+      "lng": -73.8284493
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22",
+      "2021-12-23",
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
     "name": "Riverdale Neighborhood House",
     "address": "5521 Mosholu Avenue,\nBronx, NY 10471",
     "borough": "bronx",
@@ -2541,52 +2590,10 @@
     "date_specific_hours": {}
   },
   {
-    "name": "Modell’s (across from Barclays Center)",
-    "address": "620 Atlantic Avenue\nBrooklyn NY 11217",
-    "borough": "brooklyn",
-    "site_type": "mortar",
-    "hours": {
-      "tuesday": [
-        1100,
-        1900
-      ],
-      "wednesday": [
-        1100,
-        1900
-      ],
-      "thursday": [
-        1100,
-        1900
-      ]
-    },
-    "errors": [],
-    "ages": [
-      "4+"
-    ],
-    "offers": [
-      "rapid-antigen",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.682658,
-      "lng": -73.9752846
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-21",
-      "2021-12-22",
-      "2021-12-23"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
     "name": "Brooklyn Public Library – Central Branch",
     "address": "10 Grand Army Plaza (Testing entrance on Eastern parkway side between Grand Army Plaza and Mount Prospect Park)\nBrooklyn, NY 11238",
     "borough": "brooklyn",
-    "site_type": "micro",
+    "site_type": "mortar",
     "hours": {
       "monday": [
         1100,
@@ -2611,7 +2618,7 @@
     ],
     "offers": [
       "rapid-antigen",
-      "saliva-pcr"
+      "pcr"
     ],
     "location": {
       "lat": 40.6740248,
@@ -5124,6 +5131,104 @@
     "date_specific_hours": {}
   },
   {
+    "name": "CDC Mobile Testing",
+    "address": "Travers Park\n76-9 34th St.\nQueens, NY 11372",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
+        900,
+        1700
+      ],
+      "thursday": [
+        900,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [],
+    "offers": [
+      "pcr",
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7539534,
+      "lng": -73.88936199999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-22",
+      "2021-12-23"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "CDC Mobile Testing",
+    "address": "Queens Valley Playground\nCorner of 137 Street & 77 Ave.\nFlushing NY 11367",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [],
+    "offers": [
+      "pcr",
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.721806,
+      "lng": -73.8238026
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-23"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "CDC Mobile Testing",
+    "address": "Helen Marshall Playground\n100 St & 24th Ave.\nEast Elmhurst, NY 11369",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        1700
+      ]
+    },
+    "errors": [],
+    "ages": [],
+    "offers": [
+      "pcr",
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7657488,
+      "lng": -73.8707687
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-23"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
     "name": "NYC Health + Hospitals/Elmhurst",
     "link": "https://www.nychealthandhospitals.org/elmhurst",
     "address": "77-04 41st Avenue\nElmhurst, New York 11373",
@@ -5448,8 +5553,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-22",
-      "2021-12-26"
+      "2021-12-22"
     ],
     "closed": [],
     "notes": [],
@@ -5786,38 +5890,14 @@
     "date_specific_hours": {}
   },
   {
-    "name": "Greenbelt Recreation Center",
-    "address": "Upper Parking Lot (Adjacent to Test Site) – 501 Brielle Avenue\nStaten Island, NY 10314",
+    "name": "NYPL – New Dorp Library",
+    "address": "309 New Dorp Ln,\nStaten Island, NY 10306",
     "borough": "staten-island",
     "site_type": "mobile",
     "hours": {
-      "monday": [
-        800,
-        1800
-      ],
-      "tuesday": [
-        800,
-        1800
-      ],
       "wednesday": [
         800,
-        1800
-      ],
-      "thursday": [
-        800,
-        1800
-      ],
-      "friday": [
-        800,
-        1800
-      ],
-      "saturday": [
-        800,
-        1800
-      ],
-      "sunday": [
-        800,
-        1800
+        1900
       ]
     },
     "errors": [],
@@ -5829,14 +5909,55 @@
       "pcr"
     ],
     "location": {
-      "lat": 40.5918312,
-      "lng": -74.1391991
+      "lat": 40.5718907,
+      "lng": -74.111975
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-20",
-      "2021-12-21",
-      "2021-12-22",
+      "2021-12-22"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Gerard P. Dugan Playground",
+    "address": "280 Mill Rd,\nStaten Island, NY 10306",
+    "borough": "staten-island",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        800,
+        1900
+      ],
+      "friday": [
+        800,
+        1900
+      ],
+      "saturday": [
+        800,
+        1900
+      ],
+      "sunday": [
+        800,
+        1900
+      ]
+    },
+    "errors": [],
+    "ages": [
+      "4+"
+    ],
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.5613939,
+      "lng": -74.11059879999999
+    },
+    "wait_time": "unknown",
+    "open": [
       "2021-12-23",
       "2021-12-24",
       "2021-12-25",
