@@ -990,7 +990,6 @@
       "pcr",
       "antibody"
     ],
-    "pre_register_link": "https://epicscheduling.nychhc.org/MyChart/SignupAndSchedule/EmbeddedSchedule?id=RES,11703906&dept=1021009938&vt=11790637",
     "location": {
       "lat": 40.8477768,
       "lng": -73.9005135
@@ -2359,7 +2358,7 @@
   },
   {
     "name": "Bensonhurst",
-    "address": "14th Ave 6315 14th Avenue\nBrooklyn, NY 11219",
+    "address": "6315 14th Avenue\nBrooklyn, NY 11219",
     "borough": "brooklyn",
     "site_type": "mortar",
     "hours": {
@@ -2381,15 +2380,7 @@
       ],
       "friday": [
         900,
-        1900
-      ],
-      "saturday": [
-        900,
-        1900
-      ],
-      "sunday": [
-        900,
-        1900
+        1400
       ]
     },
     "errors": [],
@@ -2404,7 +2395,19 @@
       "lng": -73.9979369
     },
     "wait_time": "unknown",
-    "open": [],
+    "open": [
+      "2021-12-23",
+      "2021-12-24",
+      "2021-12-25",
+      "2021-12-26",
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-1",
+      "2022-1-2"
+    ],
     "closed": [],
     "notes": [],
     "appointments_required": false,

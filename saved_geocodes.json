@@ -23270,5 +23270,102 @@
       }
     ],
     "status": "OK"
+  },
+  "6315 14th Avenue\nBrooklyn, NY 11219": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "6315",
+            "short_name": "6315",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "14th Avenue",
+            "short_name": "14th Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Bensonhurst",
+            "short_name": "Bensonhurst",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11219",
+            "short_name": "11219",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "6315 14th Ave, Brooklyn, NY 11219, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.625407,
+            "lng": -73.9979369
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6267559802915,
+              "lng": -73.9965879197085
+            },
+            "southwest": {
+              "lat": 40.6240580197085,
+              "lng": -73.99928588029151
+            }
+          }
+        },
+        "place_id": "ChIJ5c1bpjtFwokRyMuTIqBBGKk",
+        "plus_code": {
+          "compound_code": "J2G2+5R Brooklyn, NY, USA",
+          "global_code": "87G8J2G2+5R"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }
