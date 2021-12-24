@@ -5278,7 +5278,7 @@
       "pcr",
       "antibody"
     ],
-    "pre_register_link": "https://epicscheduling.nychhc.org/MyChart/SignupAndSchedule/EmbeddedSchedule?id=RES,11703907&dept=1024009932&vt=11790637",
+    "pre_register_link": "https://epicscheduling.nychhc.org/MyChart/SignupAndSchedule/EmbeddedSchedule?id=RES,11703897&dept=1011009925&vt=11790637",
     "location": {
       "lat": 40.74553179999999,
       "lng": -73.8882282
@@ -5329,7 +5329,7 @@
       "pcr",
       "antibody"
     ],
-    "pre_register_link": "https://epicscheduling.nychhc.org/MyChart/SignupAndSchedule/EmbeddedSchedule?id=RES,11703293&dept=1024001170&vt=11790637",
+    "pre_register_link": "https://epicscheduling.nychhc.org/MyChart/SignupAndSchedule/EmbeddedSchedule?id=RES,1024009932&dept=1024001170&vt=11703907",
     "location": {
       "lat": 40.7186426,
       "lng": -73.8041807
