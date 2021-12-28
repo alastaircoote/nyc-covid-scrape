@@ -227,11 +227,36 @@ function parseName(nameTag, { Node, location, Text, Element, document }, data) {
 			return true;
 		}
 		data.link = new URL(href, location.href).href;
-		if (
-			document.body.innerText.indexOf(
-				'Children younger than 2 years of age can be tested at any of the sites listed in blue below'
-			) === -1
-		) {
+
+		function checkForBlueInstruction() {
+			// This is all very dumb but we're changing the minimum age of a site if it has a link because
+			// the page says any site listed in "blue text" (i.e. is a link) can test children under 2.
+			// but before we do that we should make sure the page still describes this logic otherwise
+			// we're going to mislead people. If that logic has changed then it's significant enough that
+			// we should stop parsing and wait for a code change.
+
+			const inBlueSpan = document.querySelector("span[style='color: #337ab7;']");
+			if (inBlueSpan?.innerHTML !== 'in blue') {
+				return false;
+			}
+			const parentParagraph = inBlueSpan?.parentElement;
+			const firstChild = parentParagraph?.firstChild;
+			if (!firstChild) {
+				return false;
+			}
+			if (!(firstChild instanceof Text)) {
+				return false;
+			}
+			if (
+				firstChild.textContent !==
+				'Children who are 2 years of age or older can be tested at any of the sites listed below. Children younger than 2 years of age can be tested at any of the sites listed '
+			) {
+				return false;
+			}
+			return true;
+		}
+
+		if (checkForBlueInstruction() === false) {
 			// let's just make sure the page still outlines the logic we're using in code
 			data.errors?.push({
 				type: 'age-info-missing',
