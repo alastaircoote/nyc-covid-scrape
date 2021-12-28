@@ -13,7 +13,7 @@ import { parseTime } from './parse-times.js';
  * @property {string} borough
  * @property {string} site_type
  * @property {string | undefined} phone
- * @property {string[]} ages
+ * @property {number} minimum_age
  * @property {string[]} offers
  * @property {Record<string,number[]>} hours
  * @property {Record<string,number[]>} date_specific_hours
@@ -52,7 +52,7 @@ export function parseSite(pTag, window, borough, siteType) {
 		site_type: siteType,
 		hours: {},
 		errors: [],
-		ages: [],
+		minimum_age: 2,
 		phone: undefined,
 		offers: [],
 		pre_register_link: undefined,
@@ -172,7 +172,7 @@ function parseMetadata(text, data) {
 		return true;
 	}
 	if (text === '4 years old and above') {
-		data.ages.push('4+');
+		data.minimum_age = 4;
 		return true;
 	}
 	if (text === 'COVID-19 Testing and Antibody Testing Offered Here') {
@@ -209,7 +209,7 @@ function parseMetadata(text, data) {
  * @param {Partial<ParsedSite>} data
  * @returns {boolean}
  */
-function parseName(nameTag, { Node, location, Text, Element }, data) {
+function parseName(nameTag, { Node, location, Text, Element, document }, data) {
 	if (data.name) {
 		return false;
 	}
@@ -227,6 +227,19 @@ function parseName(nameTag, { Node, location, Text, Element }, data) {
 			return true;
 		}
 		data.link = new URL(href, location.href).href;
+		if (
+			document.body.innerText.indexOf(
+				'Children younger than 2 years of age can be tested at any of the sites listed in blue below'
+			) === -1
+		) {
+			// let's just make sure the page still outlines the logic we're using in code
+			data.errors?.push({
+				type: 'age-info-missing',
+				value: ''
+			});
+		} else {
+			data.minimum_age = 0;
+		}
 		return true;
 	}
 	return false;
