@@ -219,3 +219,118 @@ export function belvis_nye_christmas_eve(sites) {
 	}
 	return found;
 }
+
+/** @type PostFixer */
+export function new_years_day_closings(sites) {
+	let found = false;
+	for (const site of sites) {
+		site.errors = site.errors.filter((error) => {
+			if (error.type !== 'could-not-parse') {
+				return true;
+			}
+			if (
+				error.value === 'We will be CLOSED on December 31st and January 1st' ||
+				error.value === 'Closed Sundays. Closed December 31st and January 1st'
+			) {
+				site.closed.push('2021-12-31', '2022-01-01');
+				found = true;
+				return false;
+			}
+			if (
+				error.value === 'We will be CLOSED on New Year’s Day' ||
+				error.value === 'Closed January 1st'
+			) {
+				site.closed.push('2022-01-01');
+				found = true;
+				return false;
+			}
+
+			if (
+				(error.value === 'Closed on Saturday' || error.value === 'Closed Saturday') &&
+				new Date().getFullYear() === 2021
+			) {
+				site.closed.push('2022-01-01');
+				found = true;
+				return false;
+			}
+
+			if (error.value === 'Closed at 1:00 PM for and New Year Eve') {
+				const friday = site.hours['friday'];
+				site.date_specific_hours['2021-12-31'] = [friday[0], 1300];
+				found = true;
+				return false;
+			}
+			return true;
+		});
+	}
+	return found;
+}
+
+/** @type PostFixer */
+export function high_school_dates(sites) {
+	return filterAndReplaceErrors(sites, {
+		'could-not-parse': {
+			'December 27th – December 30th: 7:30 a.m. – 7 p.m.': function (site) {
+				const hours = [730, 1900];
+				site.date_specific_hours['2021-12-27'] = hours;
+				site.date_specific_hours['2021-12-28'] = hours;
+				site.date_specific_hours['2021-12-29'] = hours;
+				site.date_specific_hours['2021-12-30'] = hours;
+			},
+			'December 31st: 7:30 a.m. – 4 p.m.': function (site) {
+				site.date_specific_hours['2021-12-31'] = [730, 1600];
+			}
+		}
+	});
+}
+
+/**
+ *
+ * @param {import("./parse-site").ParsedSite[]} sites
+ * @param {Record<string,Record<string,(site: import("./parse-site").ParsedSite) => void>>} filters
+ * @returns {boolean}
+ */
+function filterAndReplaceErrors(sites, filters) {
+	let found = false;
+	for (const site of sites) {
+		site.errors = site.errors.filter((error) => {
+			const category = filters[error.type];
+			if (!category) {
+				return true;
+			}
+			for (const value in category) {
+				if (error.value === value) {
+					found = true;
+					category[value](site);
+					return false;
+				}
+			}
+			return true;
+		});
+	}
+	return found;
+}
+
+/** @type PostFixer */
+export function pcr_offered_here(sites) {
+	return filterAndReplaceErrors(sites, {
+		'could-not-parse': {
+			'PCR Testing Offered Here': function (site) {
+				if (site.offers.indexOf('pcr') === -1) {
+					site.offers.push('pcr');
+				}
+			}
+		}
+	});
+}
+
+/** @type PostFixer */
+export function walkins_only(sites) {
+	return filterAndReplaceErrors(sites, {
+		'could-not-parse': {
+			'Walk-ins only at this time.': function (site) {
+				site.notes.push('Walk-ins only at this time.');
+			}
+		}
+	});
+}

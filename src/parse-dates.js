@@ -2,6 +2,7 @@ import { addDays } from 'date-fns';
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 const MONTHS_MATCH = MONTHS.join('|');
+const DATE_SUFFIX = '(?:th|st|nd)?';
 
 const MULTILINE_SPLIT = new RegExp(
 	`(${MONTHS_MATCH})((?:.+)[0-9]{1,2}) *[,;] *(${MONTHS_MATCH})?(.+)`
@@ -14,6 +15,35 @@ const EXTRACT_DATE_VALUES = new RegExp(
 );
 
 const EXTRACT_COMMA_SEPARATED_DATES = new RegExp(`^(${MONTHS_MATCH}) ((?:(?:[0-9]{1,2}),? *)+)$`);
+
+/**
+ *
+ * @param {string} input
+ * @returns {string}
+ */
+function normalizeMonthNames(input) {
+	/** @type Record<string,string> */
+	const months = {
+		January: 'Jan',
+		February: 'Feb',
+		March: 'Mar',
+		April: 'Apr',
+		June: 'Jun',
+		July: 'Jul',
+		August: 'Aug',
+		September: 'Sep',
+		October: 'Oct',
+		November: 'Nov',
+		December: 'Dec'
+	};
+
+	return input.replace(new RegExp(Object.keys(months).join('|'), 'g'), function (longName) {
+		if (!months[longName]) {
+			throw new Error('Regex error');
+		}
+		return months[longName];
+	});
+}
 
 /**
  *

@@ -1,13 +1,13 @@
 const WEEKDAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
 const WEEKDAY_MATCH = WEEKDAYS.join('|');
-const TIME = '[0-9]{1,2}(?::[0-9]{2})? ?[ap].m.?';
+const TIME = '[0-9]{1,2}(?::[0-9]{2})? ?[ap]\\.?m\\.?';
 
 const MULTILINE_SPLIT = new RegExp(`^(.+?(?:${TIME})) *?((?:${WEEKDAY_MATCH})(?:.+?))$`);
 
 const DAYS = new RegExp(`^(${WEEKDAY_MATCH})(?: – (${WEEKDAY_MATCH}))?`, 'g');
 const TIME_MATCH = new RegExp(
-	`([0-9]{1,2}(?::[0-9]{2})?) ?(a|p).m.? *– *([0-9]{1,2}(?::[0-9]{2})?) ?(a|p).m.?`,
+	`([0-9]{1,2}(?::[0-9]{2})?) ?(a|p)\\.?m\\.? *(–|-) *([0-9]{1,2}(?::[0-9]{2})?) ?(a|p)\\.?m\\.?`,
 	'g'
 );
 
@@ -52,6 +52,7 @@ export function parseTime(timeString, data) {
 		// this isn't a time string, presumably
 		return false;
 	}
+
 	while (dayMatch) {
 		let currentDayIndex = WEEKDAYS.indexOf(dayMatch[1]);
 		days.push(WEEKDAYS[currentDayIndex]);
@@ -71,9 +72,11 @@ export function parseTime(timeString, data) {
 	}
 
 	const time = TIME_MATCH.exec(timeString);
+
 	if (!time && timeString.toLowerCase().indexOf('closed') > -1) {
 		return true;
 	}
+
 	if (!time) {
 		return false;
 	}

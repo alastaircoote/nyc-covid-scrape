@@ -240,7 +240,7 @@ function parseName(nameTag, { Node, location, Text, Element }, data) {
  * @returns {boolean}
  */
 function parseAddress(elements, { Text }, data) {
-	const zipRegex = /(NY|New York),? [0-9]{5}/;
+	const zipRegex = /(NY|New York|Bronx|Brooklyn|Manhattan|Queens),? [0-9]{5}/;
 
 	const addressLines = [];
 	while (elements.length > 0) {
