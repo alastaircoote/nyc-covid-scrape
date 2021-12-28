@@ -30720,5 +30720,206 @@
       }
     ],
     "status": "OK"
+  },
+  "455 Jefferson Street,\nBrooklyn, NY 11237": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "455",
+            "short_name": "455",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Jefferson Street",
+            "short_name": "Jefferson St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "East Williamsburg",
+            "short_name": "East Williamsburg",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11237",
+            "short_name": "11237",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "455 Jefferson St, Brooklyn, NY 11237, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.7088952,
+            "lng": -73.9218519
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7102441802915,
+              "lng": -73.92050291970848
+            },
+            "southwest": {
+              "lat": 40.7075462197085,
+              "lng": -73.9232008802915
+            }
+          }
+        },
+        "place_id": "ChIJ80sUr6dewokR4PbpsdBHIPM",
+        "plus_code": {
+          "compound_code": "P35H+H7 New York, NY, USA",
+          "global_code": "87G8P35H+H7"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "165 Vanderbilt Avenue\nStaten Island, NY 10304": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "165",
+            "short_name": "165",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Vanderbilt Avenue",
+            "short_name": "Vanderbilt Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Clifton",
+            "short_name": "Clifton",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Staten Island",
+            "short_name": "Staten Island",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Richmond County",
+            "short_name": "Richmond County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10304",
+            "short_name": "10304",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "2521",
+            "short_name": "2521",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "165 Vanderbilt Ave, Staten Island, NY 10304, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.6203745,
+            "lng": -74.0768895
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.62172348029149,
+              "lng": -74.07554051970848
+            },
+            "southwest": {
+              "lat": 40.6190255197085,
+              "lng": -74.07823848029149
+            }
+          }
+        },
+        "place_id": "ChIJecrsrLJPwokRcvm-YssEzcM",
+        "plus_code": {
+          "compound_code": "JWCF+46 Staten Island, NY, USA",
+          "global_code": "87G7JWCF+46"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }

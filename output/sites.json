@@ -2079,46 +2079,6 @@
     "date_specific_hours": {}
   },
   {
-    "name": "Sorrentino Rec Center",
-    "address": "18-48 Cornaga Avenue,\nQueens, NY 11691",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "wednesday": [
-        900,
-        null
-      ],
-      "thursday": [
-        900,
-        null
-      ],
-      "friday": [
-        900,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "rapid",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.60248929999999,
-      "lng": -73.7513252
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
     "name": "Sephardic Community Center",
     "address": "1901 Ocean Pkwy,\nBrooklyn, NY 11223",
     "borough": "brooklyn",
@@ -3220,6 +3180,51 @@
       "2021-12-31",
       "2022-01-01"
     ],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "455 Jefferson",
+    "address": "455 Jefferson Street,\nBrooklyn, NY 11237",
+    "borough": "brooklyn",
+    "site_type": "mortar",
+    "hours": {
+      "monday": [
+        1200,
+        null
+      ],
+      "tuesday": [
+        1200,
+        null
+      ],
+      "wednesday": [
+        1200,
+        null
+      ],
+      "thursday": [
+        1200,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 2,
+    "offers": [
+      "rapid-antigen",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7088952,
+      "lng": -73.9218519
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30"
+    ],
+    "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6014,51 +6019,6 @@
     "date_specific_hours": {}
   },
   {
-    "name": "455 Jefferson Street",
-    "address": "Corner of Flushing and Cypress\nQueens, NY 11237",
-    "borough": "queens",
-    "site_type": "mortar",
-    "hours": {
-      "monday": [
-        1200,
-        null
-      ],
-      "tuesday": [
-        1200,
-        null
-      ],
-      "wednesday": [
-        1200,
-        null
-      ],
-      "thursday": [
-        1200,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 2,
-    "offers": [
-      "rapid-antigen",
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.7094051,
-      "lng": -73.9219044
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
     "name": "Elmhurst/Newton High School",
     "address": "48-01 90th Street,\nQueens, NY 11373",
     "borough": "queens",
@@ -6790,7 +6750,7 @@
   {
     "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
     "link": "https://www.nychealthandhospitals.org/vanderbilt",
-    "address": "165 Vanderbilt Avenue\nStaten Island, New York 10304",
+    "address": "165 Vanderbilt Avenue\nStaten Island, NY 10304",
     "borough": "staten-island",
     "site_type": "mortar",
     "hours": {
