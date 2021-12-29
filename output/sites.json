@@ -1046,7 +1046,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1189,7 +1191,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1283,7 +1287,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -3002,7 +3008,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -3049,7 +3057,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -3361,7 +3371,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4866,7 +4878,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4897,10 +4911,6 @@
       "friday": [
         800,
         null
-      ],
-      "saturday": [
-        800,
-        null
       ]
     },
     "errors": [],
@@ -4917,7 +4927,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -7425,7 +7437,9 @@
     },
     "wait_time": "unknown",
     "open": [],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
