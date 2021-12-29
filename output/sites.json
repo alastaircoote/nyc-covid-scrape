@@ -710,6 +710,301 @@
     "date_specific_hours": {}
   },
   {
+    "name": "Bathgate Contract Postal Station",
+    "address": "4006 3rd Ave,\nBronx, NY 10457",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "monday": [
+        900,
+        null
+      ],
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8420144,
+      "lng": -73.8982913
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-27",
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Iglesia Casa de la Fe",
+    "address": "1810 Randall Ave,\nBronx, NY 10473",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ],
+      "saturday": [
+        900,
+        null
+      ],
+      "sunday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8169364,
+      "lng": -73.8625454
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-1",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "68 East 161st Street",
+    "address": "68 East 161st Street\nBronx, NY 10451",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8273407,
+      "lng": -73.9253507
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "338 East Fordham Rd",
+    "address": "338 East Fordham Rd\nBronx, NY 10458",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8617699,
+      "lng": -73.8935229
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "1613 Westchester Avenue",
+    "address": "1613 Westchester Avenue\nBronx, NY 10472",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8296964,
+      "lng": -73.8750419
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "1640 Grand Concourse",
+    "address": "1640 Grand Concourse\nBronx, NY 10457",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8429703,
+      "lng": -73.9118186
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "CDC – St. James Park",
+    "address": "2550 Jerome Ave,\nBronx, NY 10468",
+    "borough": "bronx",
+    "site_type": "mobile",
+    "hours": {
+      "sunday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8653474,
+      "lng": -73.8974018
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
     "name": "NYC Health + Hospitals/Gotham Health, Belvis",
     "link": "https://www.nychealthandhospitals.org/belvis",
     "address": "545 East 142nd Street\nBronx, New York 10454",
@@ -1216,58 +1511,7 @@
     "date_specific_hours": {}
   },
   {
-    "name": "Bathgate",
-    "address": "4006 3rd Ave,\nBronx, NY 10457",
-    "borough": "bronx",
-    "site_type": "micro",
-    "hours": {
-      "monday": [
-        1000,
-        null
-      ],
-      "tuesday": [
-        1000,
-        null
-      ],
-      "wednesday": [
-        1000,
-        null
-      ],
-      "thursday": [
-        1000,
-        null
-      ],
-      "friday": [
-        1000,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.8420144,
-      "lng": -73.8982913
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-26",
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-2"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "Edenwald YMCA",
+    "name": "Northeast Bronx YMCA",
     "address": "1250 East 229th Street,\nBronx, NY 10466",
     "borough": "bronx",
     "site_type": "micro",
@@ -2479,6 +2723,205 @@
     "date_specific_hours": {}
   },
   {
+    "name": "Brooklyn Army Terminal",
+    "address": "140 58th St,\nBrooklyn, NY 11220",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "friday": [
+        900,
+        null
+      ],
+      "sunday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6455001,
+      "lng": -74.0239072
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "890 Flatbush Ave",
+    "address": "890 Flatbush Ave\nBrooklyn, NY 11226",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6501369,
+      "lng": -73.9589888
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "6502 18th Avenue",
+    "address": "6502 18th Avenue\nBrooklyn, NY 11204",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6191286,
+      "lng": -73.9905727
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "228-230 Court Street",
+    "address": "228-230 Court Street\nBrooklyn, NY 11201",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.686293,
+      "lng": -73.994238
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "1329 Linden Blvd",
+    "address": "1329 Linden Blvd\nBrooklyn, NY 11212",
+    "borough": "brooklyn",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6542351,
+      "lng": -73.91071509999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
     "name": "NYC Health + Hospitals/Coney Island",
     "link": "https://www.nychealthandhospitals.org/coneyisland",
     "address": "2601 Ocean Parkway\nBrooklyn, New York 11235",
@@ -3311,102 +3754,6 @@
     "date_specific_hours": {}
   },
   {
-    "name": "Family Services Network of New York Access Center",
-    "address": "1721 Pitkin Ave,\nBrooklyn, NY 11212",
-    "borough": "brooklyn",
-    "site_type": "micro",
-    "hours": {
-      "monday": [
-        1130,
-        null
-      ],
-      "tuesday": [
-        1130,
-        null
-      ],
-      "friday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6699749,
-      "lng": -73.90963980000001
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "Brooklyn Army Terminal (BAT)",
-    "address": "140 58th Street,\nBrooklyn, NY 11220",
-    "borough": "brooklyn",
-    "site_type": "micro",
-    "hours": {
-      "monday": [
-        1000,
-        null
-      ],
-      "tuesday": [
-        1000,
-        null
-      ],
-      "wednesday": [
-        1000,
-        null
-      ],
-      "thursday": [
-        1000,
-        null
-      ],
-      "friday": [
-        1000,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6455001,
-      "lng": -74.0239072
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-2"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
     "name": "Cort Club",
     "address": "2648 Gerritsen,\nBrooklyn, NY 11229",
     "borough": "brooklyn",
@@ -3589,35 +3936,6 @@
     "date_specific_hours": {}
   },
   {
-    "name": "Family Services Network of New York (Harm Reduction Program – Broadway)",
-    "address": "1751 Broadway ,\nBrooklyn, NY 11207",
-    "borough": "brooklyn",
-    "site_type": "micro",
-    "hours": {
-      "wednesday": [
-        830,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6829835,
-      "lng": -73.91037759999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-29"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
     "name": "Clarendon Road Church",
     "address": "3304 Clarendon Road\nBrooklyn, NY 11203",
     "borough": "brooklyn",
@@ -3639,6 +3957,40 @@
     },
     "wait_time": "unknown",
     "open": [
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Antioch Baptist Church",
+    "address": "826 Greene Ave,\nBrooklyn, NY 11221",
+    "borough": "brooklyn",
+    "site_type": "micro",
+    "hours": {
+      "friday": [
+        900,
+        null
+      ],
+      "sunday": [
+        1030,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6900041,
+      "lng": -73.9349285
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -4163,6 +4515,230 @@
       "2021-12-28",
       "2021-12-29",
       "2021-12-30"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "St. Catherine of Genoa Church",
+    "address": "506 W 153 St\nNew York, NY 10031",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ],
+      "saturday": [
+        900,
+        null
+      ],
+      "sunday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.8304169,
+      "lng": -73.9447105
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-1",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "216 East 14th Street",
+    "address": "216 East 14th Street\nNew York, NY 10003",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7327835,
+      "lng": -73.9866134
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "80 West 125th Street",
+    "address": "80 West 125th Street\nNew York, NY 10027",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.807379,
+      "lng": -73.9451897
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "952 2nd Ave",
+    "address": "952 2nd Ave\nNew York, NY 10022",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.755051,
+      "lng": -73.96804999999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "1412 Broadway",
+    "address": "1412 Broadway\nNew York, NY 10018",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.753615,
+      "lng": -73.9865612
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
     ],
     "closed": [],
     "notes": [],
@@ -5863,6 +6439,129 @@
     "date_specific_hours": {}
   },
   {
+    "name": "22-48 31st Street",
+    "address": "22-48 31st Street\nQueens, NY 11105",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "tuesday": [
+        900,
+        null
+      ],
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.775315,
+      "lng": -73.9122378
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-28",
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "37-26 Junction Blvd",
+    "address": "37-26 Junction Blvd\nQueens, NY 11368",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "wednesday": [
+        900,
+        null
+      ],
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.75073829999999,
+      "lng": -73.8707154
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-29",
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "91-07 Jamaica Avenue",
+    "address": "91-07 Jamaica Avenue\nQueens, NY 11421",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.6933878,
+      "lng": -73.85350799999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
     "name": "NYC Health + Hospitals/Elmhurst",
     "link": "https://www.nychealthandhospitals.org/elmhurst",
     "address": "77-04 41st Avenue\nElmhurst, New York 11373",
@@ -6459,40 +7158,6 @@
     "wait_time": "unknown",
     "open": [
       "2021-12-28"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "Gurdwara Sikh Cultural Society",
-    "address": "95-30 118th St,\nQueens, NY 11419",
-    "borough": "queens",
-    "site_type": "micro",
-    "hours": {
-      "friday": [
-        930,
-        null
-      ],
-      "sunday": [
-        930,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6910728,
-      "lng": -73.8280304
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-31",
-      "2022-1-2"
     ],
     "closed": [],
     "notes": [],

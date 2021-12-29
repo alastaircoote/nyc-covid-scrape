@@ -30921,5 +30921,1952 @@
       }
     ],
     "status": "OK"
+  },
+  "1810 Randall Ave,\nBronx, NY 10473": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "1810",
+            "short_name": "1810",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Randall Avenue",
+            "short_name": "Randall Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Clason Point",
+            "short_name": "Clason Point",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10473",
+            "short_name": "10473",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "3618",
+            "short_name": "3618",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "1810 Randall Ave, Bronx, NY 10473, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8169364,
+            "lng": -73.8625454
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.81828538029151,
+              "lng": -73.86119641970849
+            },
+            "southwest": {
+              "lat": 40.81558741970851,
+              "lng": -73.86389438029151
+            }
+          }
+        },
+        "place_id": "ChIJ8QMPgN_0wokRBNGWz4yBqXE",
+        "plus_code": {
+          "compound_code": "R48P+QX Bronx, NY, USA",
+          "global_code": "87G8R48P+QX"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "68 East 161st Street\nBronx, NY 10451": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "68",
+            "short_name": "68",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "East 161 Street",
+            "short_name": "E 161 St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Concourse",
+            "short_name": "Concourse",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10451",
+            "short_name": "10451",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "68 E 161 St, Bronx, NY 10451, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8273407,
+            "lng": -73.9253507
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8286896802915,
+              "lng": -73.9240017197085
+            },
+            "southwest": {
+              "lat": 40.8259917197085,
+              "lng": -73.9266996802915
+            }
+          }
+        },
+        "place_id": "ChIJCYXday30wokRTHOBeFpRYYQ",
+        "plus_code": {
+          "compound_code": "R3GF+WV Bronx, NY, USA",
+          "global_code": "87G8R3GF+WV"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "338 East Fordham Rd\nBronx, NY 10458": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "338",
+            "short_name": "338",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "East Fordham Road",
+            "short_name": "E Fordham Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Fordham Heights",
+            "short_name": "Fordham Heights",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10458",
+            "short_name": "10458",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "338 E Fordham Rd, Bronx, NY 10458, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8617979,
+              "lng": -73.8934882
+            },
+            "southwest": {
+              "lat": 40.861538,
+              "lng": -73.89359329999999
+            }
+          },
+          "location": {
+            "lat": 40.8617699,
+            "lng": -73.8935229
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.86301693029149,
+              "lng": -73.89219176970849
+            },
+            "southwest": {
+              "lat": 40.86031896970849,
+              "lng": -73.8948897302915
+            }
+          }
+        },
+        "place_id": "ChIJfRXNvYDzwokRzRghs0qt4qA",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "1613 Westchester Avenue\nBronx, NY 10472": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "1613",
+            "short_name": "1613",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Westchester Avenue",
+            "short_name": "Westchester Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "East Bronx",
+            "short_name": "East Bronx",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10472",
+            "short_name": "10472",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "2914",
+            "short_name": "2914",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "1613 Westchester Ave, Bronx, NY 10472, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8298492,
+              "lng": -73.87498029999999
+            },
+            "southwest": {
+              "lat": 40.8295267,
+              "lng": -73.87509419999999
+            }
+          },
+          "location": {
+            "lat": 40.8296964,
+            "lng": -73.8750419
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8310369302915,
+              "lng": -73.8736882697085
+            },
+            "southwest": {
+              "lat": 40.8283389697085,
+              "lng": -73.8763862302915
+            }
+          }
+        },
+        "place_id": "ChIJQXSQl-_0wokRKNZ4xjpE0v8",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "1640 Grand Concourse\nBronx, NY 10457": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "1640",
+            "short_name": "1640",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Grand Concourse",
+            "short_name": "Grand Concourse",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Claremont",
+            "short_name": "Claremont",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Bronx",
+            "short_name": "Bronx",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Bronx County",
+            "short_name": "Bronx County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10457",
+            "short_name": "10457",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "1640 Grand Concourse, Bronx, NY 10457, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.8429703,
+            "lng": -73.9118186
+          },
+          "location_type": "RANGE_INTERPOLATED",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8443192802915,
+              "lng": -73.91046961970851
+            },
+            "southwest": {
+              "lat": 40.8416213197085,
+              "lng": -73.91316758029151
+            }
+          }
+        },
+        "place_id": "EioxNjQwIEdyYW5kIENvbmNvdXJzZSwgQnJvbngsIE5ZIDEwNDU3LCBVU0EiGxIZChQKEgndI4IOQPTCiREFudYzA1V_TRDoDA",
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "140 58th St,\nBrooklyn, NY 11220": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "140",
+            "short_name": "140",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "58th Street",
+            "short_name": "58th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Sunset Park",
+            "short_name": "Sunset Park",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11220",
+            "short_name": "11220",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "140 58th St, Brooklyn, NY 11220, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.645633,
+              "lng": -74.0237387
+            },
+            "southwest": {
+              "lat": 40.6453807,
+              "lng": -74.0240525
+            }
+          },
+          "location": {
+            "lat": 40.6455001,
+            "lng": -74.0239072
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6468558302915,
+              "lng": -74.02254661970849
+            },
+            "southwest": {
+              "lat": 40.6441578697085,
+              "lng": -74.0252445802915
+            }
+          }
+        },
+        "place_id": "ChIJP5_ldqxawokRmmOy9KzKmA4",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "890 Flatbush Ave\nBrooklyn, NY 11226": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "890",
+            "short_name": "890",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Flatbush Avenue",
+            "short_name": "Flatbush Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Flatbush",
+            "short_name": "Flatbush",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11226",
+            "short_name": "11226",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "4018",
+            "short_name": "4018",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "890 Flatbush Ave, Brooklyn, NY 11226, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.6502288,
+              "lng": -73.9588089
+            },
+            "southwest": {
+              "lat": 40.650034,
+              "lng": -73.9591988
+            }
+          },
+          "location": {
+            "lat": 40.6501369,
+            "lng": -73.9589888
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6514803802915,
+              "lng": -73.95765486970848
+            },
+            "southwest": {
+              "lat": 40.6487824197085,
+              "lng": -73.9603528302915
+            }
+          }
+        },
+        "place_id": "ChIJEcVFhkBbwokRHog1Xc7QeTI",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "6502 18th Avenue\nBrooklyn, NY 11204": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "6502",
+            "short_name": "6502",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "18th Avenue",
+            "short_name": "18th Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Bensonhurst",
+            "short_name": "Bensonhurst",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11204",
+            "short_name": "11204",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "3702",
+            "short_name": "3702",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "6502 18th Ave, Brooklyn, NY 11204, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.6191286,
+            "lng": -73.9905727
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6204775802915,
+              "lng": -73.98922371970849
+            },
+            "southwest": {
+              "lat": 40.6177796197085,
+              "lng": -73.9919216802915
+            }
+          }
+        },
+        "place_id": "ChIJtY8-QSJFwokROHjkASVisp0",
+        "plus_code": {
+          "compound_code": "J295+MQ Brooklyn, NY, USA",
+          "global_code": "87G8J295+MQ"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "228-230 Court Street\nBrooklyn, NY 11201": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "228-230",
+            "short_name": "228-230",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Court Street",
+            "short_name": "Court St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Cobble Hill",
+            "short_name": "Cobble Hill",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11201",
+            "short_name": "11201",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "228-230 Court St, Brooklyn, NY 11201, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.686293,
+            "lng": -73.994238
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6876419802915,
+              "lng": -73.99288901970849
+            },
+            "southwest": {
+              "lat": 40.6849440197085,
+              "lng": -73.99558698029149
+            }
+          }
+        },
+        "place_id": "ChIJmXjaDFBawokR6pgzFpK8vrM",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "1329 Linden Blvd\nBrooklyn, NY 11212": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "1329",
+            "short_name": "1329",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Linden Boulevard",
+            "short_name": "Linden Blvd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Brownsville",
+            "short_name": "Brownsville",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11212",
+            "short_name": "11212",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "1329 Linden Blvd, Brooklyn, NY 11212, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.6542351,
+            "lng": -73.91071509999999
+          },
+          "location_type": "RANGE_INTERPOLATED",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6555840802915,
+              "lng": -73.9093661197085
+            },
+            "southwest": {
+              "lat": 40.6528861197085,
+              "lng": -73.9120640802915
+            }
+          }
+        },
+        "place_id": "EikxMzI5IExpbmRlbiBCbHZkLCBCcm9va2x5biwgTlkgMTEyMTIsIFVTQSIbEhkKFAoSCZnTVjztXMKJEahrwK5oivFUELEK",
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "826 Greene Ave,\nBrooklyn, NY 11221": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "826",
+            "short_name": "826",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Greene Avenue",
+            "short_name": "Greene Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Bedford-Stuyvesant",
+            "short_name": "Bedford-Stuyvesant",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brooklyn",
+            "short_name": "Brooklyn",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Kings County",
+            "short_name": "Kings County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11221",
+            "short_name": "11221",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "1916",
+            "short_name": "1916",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "826 Greene Ave, Brooklyn, NY 11221, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.6901967,
+              "lng": -73.9347516
+            },
+            "southwest": {
+              "lat": 40.689873,
+              "lng": -73.93515359999999
+            }
+          },
+          "location": {
+            "lat": 40.6900041,
+            "lng": -73.9349285
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6913838302915,
+              "lng": -73.93360361970849
+            },
+            "southwest": {
+              "lat": 40.6886858697085,
+              "lng": -73.9363015802915
+            }
+          }
+        },
+        "place_id": "ChIJSwY3vApcwokR8Jf7bOstxdg",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "506 W 153 St\nNew York, NY 10031": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "St. Catherine of Genoa's Church",
+            "short_name": "St. Catherine of Genoa's Church",
+            "types": [
+              "premise"
+            ]
+          },
+          {
+            "long_name": "506",
+            "short_name": "506",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "West 153 Street",
+            "short_name": "W 153 St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10031",
+            "short_name": "10031",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "1001",
+            "short_name": "1001",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "St. Catherine of Genoa's Church, 506 W 153 St, New York, NY 10031, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.8305091,
+              "lng": -73.9446172
+            },
+            "southwest": {
+              "lat": 40.8302471,
+              "lng": -73.9448432
+            }
+          },
+          "location": {
+            "lat": 40.8304169,
+            "lng": -73.9447105
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.83172708029149,
+              "lng": -73.9433812197085
+            },
+            "southwest": {
+              "lat": 40.82902911970849,
+              "lng": -73.9460791802915
+            }
+          }
+        },
+        "place_id": "ChIJNWQ5CIf2wokRlZ1b4PVaao4",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "216 East 14th Street\nNew York, NY 10003": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "216",
+            "short_name": "216",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "East 14th Street",
+            "short_name": "E 14th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10003",
+            "short_name": "10003",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "216 E 14th St, New York, NY 10003, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.7329045,
+              "lng": -73.9864693
+            },
+            "southwest": {
+              "lat": 40.7326712,
+              "lng": -73.98674129999999
+            }
+          },
+          "location": {
+            "lat": 40.7327835,
+            "lng": -73.9866134
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7341368302915,
+              "lng": -73.98525631970848
+            },
+            "southwest": {
+              "lat": 40.7314388697085,
+              "lng": -73.9879542802915
+            }
+          }
+        },
+        "place_id": "ChIJ0bij-p5ZwokR69AIM83XyWs",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "80 West 125th Street\nNew York, NY 10027": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "80",
+            "short_name": "80",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "West 125th Street",
+            "short_name": "W 125th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10027",
+            "short_name": "10027",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "4502",
+            "short_name": "4502",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "80 W 125th St, New York, NY 10027, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.807379,
+            "lng": -73.9451897
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.8087279802915,
+              "lng": -73.94384071970849
+            },
+            "southwest": {
+              "lat": 40.8060300197085,
+              "lng": -73.94653868029151
+            }
+          }
+        },
+        "place_id": "ChIJKY_bGw32wokRnXL65yqyY5w",
+        "plus_code": {
+          "compound_code": "R343+XW New York, NY, USA",
+          "global_code": "87G8R343+XW"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "952 2nd Ave\nNew York, NY 10022": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "952",
+            "short_name": "952",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "2nd Avenue",
+            "short_name": "2nd Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10022",
+            "short_name": "10022",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "7857",
+            "short_name": "7857",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "952 2nd Ave, New York, NY 10022, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.755051,
+            "lng": -73.96804999999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7563999802915,
+              "lng": -73.96670101970848
+            },
+            "southwest": {
+              "lat": 40.75370201970851,
+              "lng": -73.9693989802915
+            }
+          }
+        },
+        "place_id": "ChIJvRHrVuJYwokRiCmB9LX605U",
+        "plus_code": {
+          "compound_code": "Q24J+2Q New York, NY, USA",
+          "global_code": "87G8Q24J+2Q"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "1412 Broadway\nNew York, NY 10018": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "1412",
+            "short_name": "1412",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10018",
+            "short_name": "10018",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "1412 Broadway, New York, NY 10018, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.753826,
+              "lng": -73.98620799999999
+            },
+            "southwest": {
+              "lat": 40.7534185,
+              "lng": -73.9868905
+            }
+          },
+          "location": {
+            "lat": 40.753615,
+            "lng": -73.9865612
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7549712302915,
+              "lng": -73.98520026970849
+            },
+            "southwest": {
+              "lat": 40.7522732697085,
+              "lng": -73.98789823029149
+            }
+          }
+        },
+        "place_id": "ChIJAbLFAqtZwokRHaEw25gqw6E",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "22-48 31st Street\nQueens, NY 11105": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "22-48",
+            "short_name": "22-48",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "31st Street",
+            "short_name": "31st St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Ditmars Steinway",
+            "short_name": "Ditmars Steinway",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11105",
+            "short_name": "11105",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "22-48 31st St, Queens, NY 11105, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.7754333,
+              "lng": -73.9120507
+            },
+            "southwest": {
+              "lat": 40.7751612,
+              "lng": -73.9124173
+            }
+          },
+          "location": {
+            "lat": 40.775315,
+            "lng": -73.9122378
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.77664623029149,
+              "lng": -73.91088501970849
+            },
+            "southwest": {
+              "lat": 40.7739482697085,
+              "lng": -73.91358298029151
+            }
+          }
+        },
+        "place_id": "ChIJJ7w1-GdfwokRVIUeKbeC_J0",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "37-26 Junction Blvd\nQueens, NY 11368": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "37-26",
+            "short_name": "37-26",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Junction Boulevard",
+            "short_name": "Junction Blvd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Corona",
+            "short_name": "Corona",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11368",
+            "short_name": "11368",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "37-26 Junction Blvd, Corona, NY 11368, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.75073829999999,
+            "lng": -73.8707154
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.75208728029149,
+              "lng": -73.86936641970848
+            },
+            "southwest": {
+              "lat": 40.7493893197085,
+              "lng": -73.87206438029149
+            }
+          }
+        },
+        "place_id": "ChIJKUe-j7lfwokRcrhfBzF6uuw",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "91-07 Jamaica Avenue\nQueens, NY 11421": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "917",
+            "short_name": "917",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Jamaica Avenue",
+            "short_name": "Jamaica Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Woodhaven",
+            "short_name": "Woodhaven",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11421",
+            "short_name": "11421",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "2106",
+            "short_name": "2106",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "917 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.6933878,
+            "lng": -73.85350799999999
+          },
+          "location_type": "RANGE_INTERPOLATED",
+          "viewport": {
+            "northeast": {
+              "lat": 40.6947367802915,
+              "lng": -73.85215901970848
+            },
+            "southwest": {
+              "lat": 40.6920388197085,
+              "lng": -73.8548569802915
+            }
+          }
+        },
+        "place_id": "Eik5MTcgSmFtYWljYSBBdmUsIFdvb2RoYXZlbiwgTlkgMTE0MjEsIFVTQSIaEhgKFAoSCXkplLT8XcKJEX_4dYmlTQCkEAc",
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }
