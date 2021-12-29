@@ -1030,10 +1030,6 @@
       "friday": [
         700,
         null
-      ],
-      "saturday": [
-        1300,
-        null
       ]
     },
     "errors": [],
@@ -1053,12 +1049,7 @@
     "closed": [],
     "notes": [],
     "appointments_required": false,
-    "date_specific_hours": {
-      "2021-12-31": [
-        700,
-        1300
-      ]
-    }
+    "date_specific_hours": {}
   },
   {
     "name": "NYC Health + Hospitals/Jacobi",
@@ -1181,10 +1172,6 @@
       ],
       "friday": [
         700,
-        null
-      ],
-      "saturday": [
-        1300,
         null
       ]
     },
@@ -2999,10 +2986,6 @@
       "friday": [
         700,
         null
-      ],
-      "saturday": [
-        1300,
-        null
       ]
     },
     "errors": [],
@@ -3049,10 +3032,6 @@
       ],
       "friday": [
         700,
-        null
-      ],
-      "saturday": [
-        1300,
         null
       ]
     },
@@ -3365,10 +3344,6 @@
       ],
       "friday": [
         700,
-        null
-      ],
-      "saturday": [
-        1300,
         null
       ]
     },
@@ -4874,10 +4849,6 @@
       ],
       "friday": [
         700,
-        null
-      ],
-      "saturday": [
-        1300,
         null
       ]
     },
@@ -7437,10 +7408,6 @@
       ],
       "friday": [
         700,
-        null
-      ],
-      "saturday": [
-        1300,
         null
       ]
     },
