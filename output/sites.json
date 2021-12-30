@@ -378,6 +378,10 @@
       "saturday": [
         800,
         null
+      ],
+      "sunday": [
+        800,
+        null
       ]
     },
     "errors": [],
@@ -569,14 +573,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -596,10 +592,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -629,14 +626,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -656,10 +645,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -754,7 +744,9 @@
       "2021-12-30",
       "2021-12-31"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -780,14 +772,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -806,10 +790,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2380,14 +2365,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -2407,10 +2384,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2436,6 +2414,10 @@
       "thursday": [
         1000,
         null
+      ],
+      "friday": [
+        1000,
+        null
       ]
     },
     "errors": [],
@@ -2453,7 +2435,8 @@
       "2021-12-27",
       "2021-12-28",
       "2021-12-29",
-      "2021-12-30"
+      "2021-12-30",
+      "2021-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -2481,6 +2464,10 @@
       "thursday": [
         1000,
         null
+      ],
+      "friday": [
+        1000,
+        null
       ]
     },
     "errors": [],
@@ -2498,7 +2485,8 @@
       "2021-12-27",
       "2021-12-28",
       "2021-12-29",
-      "2021-12-30"
+      "2021-12-30",
+      "2021-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -4130,14 +4118,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -4158,7 +4138,6 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
     "closed": [
@@ -4253,14 +4232,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -4280,10 +4251,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4313,14 +4285,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -4340,10 +4304,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4373,14 +4338,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -4400,10 +4357,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4433,14 +4391,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -4460,10 +4410,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4485,6 +4436,10 @@
       "thursday": [
         1000,
         null
+      ],
+      "friday": [
+        1000,
+        null
       ]
     },
     "errors": [],
@@ -4501,7 +4456,8 @@
     "open": [
       "2021-12-28",
       "2021-12-29",
-      "2021-12-30"
+      "2021-12-30",
+      "2021-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -4529,14 +4485,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -4555,10 +4503,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4691,7 +4640,9 @@
       "2021-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4726,6 +4677,114 @@
       "2021-12-30",
       "2021-12-31",
       "2022-1-2"
+    ],
+    "closed": [
+      "2022-01-01"
+    ],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "400 East 23rd Street",
+    "address": "400 East 23rd Street\nNew York, NY 10016",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7364959,
+      "lng": -73.97837129999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [
+      "2022-01-01"
+    ],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "45 Beekman Street",
+    "address": "45 Beekman Street\nNew York, NY 10038",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7101561,
+      "lng": -74.00549579999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [
+      "2022-01-01"
+    ],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Masaryk Towers",
+    "address": "75 Columbia Street,\nNew York, NY 10002",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "saturday": [
+        800,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.717828,
+      "lng": -73.9801928
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2022-1-1"
     ],
     "closed": [],
     "notes": [],
@@ -6047,14 +6106,6 @@
       "friday": [
         900,
         null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
       ]
     },
     "errors": [],
@@ -6074,10 +6125,11 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31",
-      "2022-1-1",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6503,7 +6555,9 @@
       "2021-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6539,7 +6593,47 @@
       "2021-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "78-08 Broadway",
+    "address": "79-01 Broadway\nQueens, NY 11373",
+    "borough": "queens",
+    "site_type": "mobile",
+    "hours": {
+      "thursday": [
+        900,
+        null
+      ],
+      "friday": [
+        900,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.7450814,
+      "lng": -73.8857797
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2021-12-30",
+      "2021-12-31",
+      "2022-1-2"
+    ],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -7389,6 +7483,36 @@
       "2021-12-29",
       "2021-12-30",
       "2021-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Conference House Park",
+    "address": "298 Satterlee St,\nStaten Island, NY 10307",
+    "borough": "staten-island",
+    "site_type": "mobile",
+    "hours": {
+      "saturday": [
+        800,
+        null
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.4994176,
+      "lng": -74.2516794
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2022-1-1"
     ],
     "closed": [],
     "notes": [],

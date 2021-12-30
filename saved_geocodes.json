@@ -32868,5 +32868,445 @@
       }
     ],
     "status": "OK"
+  },
+  "400 East 23rd Street\nNew York, NY 10016": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "400",
+            "short_name": "400",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "East 23rd Street",
+            "short_name": "E 23rd St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10010",
+            "short_name": "10010",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "5032",
+            "short_name": "5032",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "400 E 23rd St, New York, NY 10010, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.7365809,
+              "lng": -73.9781179
+            },
+            "southwest": {
+              "lat": 40.7363651,
+              "lng": -73.9785107
+            }
+          },
+          "location": {
+            "lat": 40.7364959,
+            "lng": -73.97837129999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.73782198029149,
+              "lng": -73.9769653197085
+            },
+            "southwest": {
+              "lat": 40.73512401970849,
+              "lng": -73.9796632802915
+            }
+          }
+        },
+        "place_id": "ChIJh_91bQtZwokRJgInxxdzRao",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "45 Beekman Street\nNew York, NY 10038": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "45",
+            "short_name": "45",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Beekman Street",
+            "short_name": "Beekman St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10038",
+            "short_name": "10038",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "1515",
+            "short_name": "1515",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "45 Beekman St, New York, NY 10038, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.7102004,
+              "lng": -74.0054538
+            },
+            "southwest": {
+              "lat": 40.71011790000001,
+              "lng": -74.0055474
+            }
+          },
+          "location": {
+            "lat": 40.7101561,
+            "lng": -74.00549579999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7115081302915,
+              "lng": -74.0041516197085
+            },
+            "southwest": {
+              "lat": 40.7088101697085,
+              "lng": -74.0068495802915
+            }
+          }
+        },
+        "place_id": "ChIJh0sWliJawokRPFwJ7L5PktA",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "79-01 Broadway\nQueens, NY 11373": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "79-01",
+            "short_name": "79-01",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Broadway",
+            "short_name": "Broadway",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Elmhurst",
+            "short_name": "Elmhurst",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11373",
+            "short_name": "11373",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "1329",
+            "short_name": "1329",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "79-01 Broadway, Queens, NY 11373, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.7457172,
+              "lng": -73.88422969999999
+            },
+            "southwest": {
+              "lat": 40.74418,
+              "lng": -73.8871161
+            }
+          },
+          "location": {
+            "lat": 40.7450814,
+            "lng": -73.8857797
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7462975802915,
+              "lng": -73.88422969999999
+            },
+            "southwest": {
+              "lat": 40.7435996197085,
+              "lng": -73.8871161
+            }
+          }
+        },
+        "place_id": "ChIJsWw8sKtfwokRPDXaqZcYdMg",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "298 Satterlee St,\nStaten Island, NY 10307": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "298",
+            "short_name": "298",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Satterlee Street",
+            "short_name": "Satterlee St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Tottenville",
+            "short_name": "Tottenville",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Staten Island",
+            "short_name": "Staten Island",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Richmond County",
+            "short_name": "Richmond County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10307",
+            "short_name": "10307",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "2102",
+            "short_name": "2102",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "298 Satterlee St, Staten Island, NY 10307, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 40.5071823,
+              "lng": -74.2362508
+            },
+            "southwest": {
+              "lat": 40.4963307,
+              "lng": -74.2553719
+            }
+          },
+          "location": {
+            "lat": 40.4994176,
+            "lng": -74.2516794
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 40.5071823,
+              "lng": -74.2362508
+            },
+            "southwest": {
+              "lat": 40.4963307,
+              "lng": -74.2553719
+            }
+          }
+        },
+        "place_id": "ChIJqVNqlb3Kw4kR05HTW72EuXY",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }
