@@ -238,7 +238,8 @@ export function new_years_day_closings(sites) {
 			}
 			if (
 				error.value === 'We will be CLOSED on New Year’s Day' ||
-				error.value === 'Closed January 1st'
+				error.value === 'Closed January 1st' ||
+				error.value === 'We will be CLOSED on January 1st'
 			) {
 				site.closed.push('2022-01-01');
 				found = true;
@@ -247,7 +248,7 @@ export function new_years_day_closings(sites) {
 
 			if (
 				(error.value === 'Closed on Saturday' || error.value === 'Closed Saturday') &&
-				new Date().getFullYear() === 2021
+				new Date().valueOf() < new Date('2022/01/02').valueOf()
 			) {
 				site.closed.push('2022-01-01');
 				found = true;

@@ -33308,5 +33308,303 @@
       }
     ],
     "status": "OK"
+  },
+  "On Dyckman St. across from 175 Nagle Ave.\nNew York, NY 10034": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "175",
+            "short_name": "175",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Nagle Avenue",
+            "short_name": "Nagle Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Manhattan",
+            "short_name": "Manhattan",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "New York",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York County",
+            "short_name": "New York County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "10034",
+            "short_name": "10034",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "175 Nagle Ave, Manhattan, NY 10034, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.86140109999999,
+            "lng": -73.9242916
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.86275008029149,
+              "lng": -73.9229426197085
+            },
+            "southwest": {
+              "lat": 40.86005211970849,
+              "lng": -73.92564058029151
+            }
+          }
+        },
+        "place_id": "ChIJ8XFIxwj0wokRFEsSUJ_wMTo",
+        "plus_code": {
+          "compound_code": "V36G+H7 Manhattan, New York, NY, USA",
+          "global_code": "87G8V36G+H7"
+        },
+        "types": [
+          "doctor",
+          "establishment",
+          "health",
+          "hospital",
+          "point_of_interest"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "64-69 Dry Harbor Road,\nQueens, NY 11379": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "64-69",
+            "short_name": "64-69",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Dry Harbor Road",
+            "short_name": "Dry Harbor Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Flushing",
+            "short_name": "Flushing",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11379",
+            "short_name": "11379",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "2392",
+            "short_name": "2392",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "64-69 Dry Harbor Rd, Flushing, NY 11379, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.718115,
+            "lng": -73.87214999999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7194639802915,
+              "lng": -73.87080101970848
+            },
+            "southwest": {
+              "lat": 40.7167660197085,
+              "lng": -73.87349898029149
+            }
+          }
+        },
+        "place_id": "ChIJldNckmlewokRtkBOdkZRSSQ",
+        "plus_code": {
+          "compound_code": "P49H+64 Flushing, Queens, NY, USA",
+          "global_code": "87G8P49H+64"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "status": "OK"
+  },
+  "55-19 69th St,\nQueens, NY 11378": {
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "55-19",
+            "short_name": "55-19",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "69th Street",
+            "short_name": "69th St",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Flushing",
+            "short_name": "Flushing",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Queens",
+            "short_name": "Queens",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Queens County",
+            "short_name": "Queens County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "New York",
+            "short_name": "NY",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "11378",
+            "short_name": "11378",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "55-19 69th St, Flushing, NY 11378, USA",
+        "geometry": {
+          "location": {
+            "lat": 40.727262,
+            "lng": -73.89513099999999
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 40.7286109802915,
+              "lng": -73.89378201970848
+            },
+            "southwest": {
+              "lat": 40.7259130197085,
+              "lng": -73.8964799802915
+            }
+          }
+        },
+        "place_id": "ChIJg7qQ-fNewokRZMiRnO1F7II",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "status": "OK"
   }
 }

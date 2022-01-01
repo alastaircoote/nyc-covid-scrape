@@ -7,7 +7,7 @@ const MULTILINE_SPLIT = new RegExp(`^(.+?(?:${TIME})) *?((?:${WEEKDAY_MATCH})(?:
 
 const DAYS = new RegExp(`^(${WEEKDAY_MATCH})(?: – (${WEEKDAY_MATCH}))?`, 'g');
 const TIME_MATCH = new RegExp(
-	`([0-9]{1,2}(?::[0-9]{2})?) ?(a|p)\\.?m\\.? *(–|-) *([0-9]{1,2}(?::[0-9]{2})?) ?(a|p)\\.?m\\.?`,
+	`([0-9]{1,2}(?::[0-9]{2})?) ?(a|p)\\.?m\\.? *(?:–|-) *([0-9]{1,2}(?::[0-9]{2})?) ?(a|p)\\.?m\\.?`,
 	'g'
 );
 
@@ -90,11 +90,33 @@ export function parseTime(timeString, data) {
 				type: 'hours-already-exist',
 				value: 'Hours already exist for ' + day
 			});
+		} else if (!time[1] || !time[2] || !time[3] || !time[4]) {
+			data.errors.push({
+				type: 'could-not-parse',
+				value: 'Could not extract time values from ' + timeString
+			});
 		} else {
-			data.hours[day.toLowerCase()] = [
-				timeSegmentsToNumber(time[1], time[2]),
-				timeSegmentsToNumber(time[3], time[4])
-			];
+			const startTime = timeSegmentsToNumber(time[1], time[2]);
+			const endTime = timeSegmentsToNumber(time[3], time[4]);
+
+			if (!startTime) {
+				data.errors.push({
+					type: 'could-not-parse',
+					value: 'Could not extract start time from ' + timeString
+				});
+			}
+			if (!endTime) {
+				data.errors.push({
+					type: 'could-not-parse',
+					value: 'Could not extract end time from ' + timeString
+				});
+			}
+			if (startTime && endTime) {
+				data.hours[day.toLowerCase()] = [
+					timeSegmentsToNumber(time[1], time[2]),
+					timeSegmentsToNumber(time[3], time[4])
+				];
+			}
 		}
 	}
 

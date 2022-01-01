@@ -7,31 +7,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -46,15 +38,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -67,31 +60,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -106,15 +91,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -127,31 +113,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -166,75 +144,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "St. James Park",
-    "address": "2550 Jerome Ave,\nBronx, NY 10468",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        null
-      ],
-      "tuesday": [
-        800,
-        null
-      ],
-      "wednesday": [
-        800,
-        null
-      ],
-      "thursday": [
-        800,
-        null
-      ],
-      "friday": [
-        800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "rapid",
-      "pcr"
+    "closed": [
+      "2022-01-01"
     ],
-    "location": {
-      "lat": 40.8653474,
-      "lng": -73.8974018
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2"
-    ],
-    "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -247,11 +166,11 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -266,8 +185,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28"
+      "2022-12-27",
+      "2022-12-28"
     ],
     "closed": [],
     "notes": [],
@@ -282,11 +201,11 @@
     "hours": {
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -301,8 +220,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -317,15 +236,11 @@
     "hours": {
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
+        1400
       ],
       "sunday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -340,71 +255,12 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "Soundview Park",
-    "address": "Corner of Lafayette Avenue and Morrison Avenue\nBronx, NY 10473",
-    "borough": "bronx",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        null
-      ],
-      "tuesday": [
-        800,
-        null
-      ],
-      "wednesday": [
-        800,
-        null
-      ],
-      "thursday": [
-        800,
-        null
-      ],
-      "friday": [
-        800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "rapid",
-      "pcr"
+    "closed": [
+      "2022-01-01"
     ],
-    "location": {
-      "lat": 40.8201324,
-      "lng": -73.87248079999999
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2"
-    ],
-    "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -417,7 +273,7 @@
     "hours": {
       "monday": [
         800,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -432,7 +288,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27"
+      "2022-12-27"
     ],
     "closed": [],
     "notes": [],
@@ -447,19 +303,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
+      ],
+      "friday": [
+        800,
+        1400
       ]
     },
     "errors": [],
@@ -474,12 +334,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -492,7 +356,7 @@
     "hours": {
       "wednesday": [
         1100,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -507,7 +371,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29"
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -522,11 +386,11 @@
     "hours": {
       "friday": [
         1100,
-        null
+        1800
       ],
       "saturday": [
         1100,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -541,7 +405,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29"
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -556,23 +420,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -587,11 +451,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -609,23 +473,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -640,11 +504,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -662,19 +526,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -689,12 +553,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -707,23 +574,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1800
       ],
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -738,11 +605,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [
       "2022-01-01"
@@ -759,19 +626,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -786,10 +653,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -807,19 +674,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -834,10 +701,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -853,15 +720,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -876,10 +743,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -895,11 +762,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -914,8 +781,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -931,11 +798,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -950,8 +817,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -965,9 +832,25 @@
     "borough": "bronx",
     "site_type": "mobile",
     "hours": {
-      "sunday": [
-        900,
-        null
+      "monday": [
+        800,
+        1900
+      ],
+      "tuesday": [
+        800,
+        1900
+      ],
+      "wednesday": [
+        800,
+        1900
+      ],
+      "thursday": [
+        800,
+        1900
+      ],
+      "friday": [
+        800,
+        1400
       ]
     },
     "errors": [],
@@ -982,9 +865,16 @@
     },
     "wait_time": "unknown",
     "open": [
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -998,23 +888,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -1047,23 +937,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -1096,23 +986,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1700
       ],
       "tuesday": [
         900,
-        null
+        1700
       ],
       "wednesday": [
         900,
-        null
+        1700
       ],
       "thursday": [
         900,
-        null
+        1700
       ],
       "friday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -1143,23 +1033,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -1192,23 +1082,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1500
       ]
     },
     "errors": [],
@@ -1241,23 +1131,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -1287,11 +1177,11 @@
     "hours": {
       "sunday": [
         730,
-        null
+        1900
       ],
       "friday": [
         730,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -1305,13 +1195,13 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-24",
-      "2021-12-26",
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-24",
+      "2022-12-26",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [
       "2022-01-01"
@@ -1328,19 +1218,19 @@
     "hours": {
       "monday": [
         1100,
-        null
+        1900
       ],
       "tuesday": [
         1100,
-        null
+        1900
       ],
       "wednesday": [
         1100,
-        null
+        1900
       ],
       "thursday": [
         1100,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -1355,10 +1245,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -1373,27 +1263,27 @@
     "hours": {
       "monday": [
         830,
-        null
+        2030
       ],
       "tuesday": [
         830,
-        null
+        2030
       ],
       "wednesday": [
         830,
-        null
+        2030
       ],
       "thursday": [
         830,
-        null
+        2030
       ],
       "friday": [
         830,
-        null
+        2030
       ],
       "saturday": [
         830,
-        null
+        1530
       ]
     },
     "errors": [],
@@ -1423,11 +1313,11 @@
     "hours": {
       "monday": [
         1000,
-        null
+        1600
       ],
       "friday": [
         930,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -1441,8 +1331,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-31"
+      "2022-12-27",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -1457,15 +1347,15 @@
     "hours": {
       "tuesday": [
         1030,
-        null
+        1730
       ],
       "wednesday": [
         1030,
-        null
+        1730
       ],
       "thursday": [
         1030,
-        null
+        1730
       ]
     },
     "errors": [],
@@ -1479,9 +1369,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -1496,7 +1386,7 @@
     "hours": {
       "wednesday": [
         1000,
-        null
+        1730
       ]
     },
     "errors": [],
@@ -1510,7 +1400,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29"
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -1525,31 +1415,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1564,15 +1446,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1585,31 +1468,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1624,15 +1499,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1645,31 +1521,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1684,15 +1552,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1705,31 +1574,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1744,15 +1605,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1765,31 +1627,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1804,15 +1658,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1825,15 +1680,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
+      ],
+      "thursday": [
+        800,
+        1900
+      ],
+      "friday": [
+        800,
+        1400
       ]
     },
     "errors": [],
@@ -1848,14 +1711,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1868,7 +1733,7 @@
     "hours": {
       "thursday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -1883,7 +1748,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30"
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -1898,31 +1763,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1937,15 +1794,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -1958,31 +1816,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -1997,15 +1847,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2018,11 +1869,11 @@
     "hours": {
       "monday": [
         900,
-        null
+        1700
       ],
       "tuesday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -2037,8 +1888,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28"
+      "2022-12-27",
+      "2022-12-28"
     ],
     "closed": [],
     "notes": [],
@@ -2053,11 +1904,11 @@
     "hours": {
       "monday": [
         900,
-        null
+        1700
       ],
       "tuesday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -2072,8 +1923,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28"
+      "2022-12-27",
+      "2022-12-28"
     ],
     "closed": [],
     "notes": [],
@@ -2088,19 +1939,19 @@
     "hours": {
       "monday": [
         830,
-        null
+        1800
       ],
       "tuesday": [
         830,
-        null
+        1800
       ],
       "wednesday": [
         830,
-        null
+        1800
       ],
       "thursday": [
         830,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -2115,10 +1966,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -2133,31 +1984,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2172,15 +2015,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2193,27 +2037,19 @@
     "hours": {
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2228,74 +2064,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "New Hope Family Worship Center",
-    "address": "817 Livonia Avenue\nBrooklyn, NY 11207",
-    "borough": "brooklyn",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        null
-      ],
-      "tuesday": [
-        800,
-        null
-      ],
-      "wednesday": [
-        800,
-        null
-      ],
-      "thursday": [
-        800,
-        null
-      ],
-      "friday": [
-        800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "rapid",
-      "pcr"
+    "closed": [
+      "2022-01-01"
     ],
-    "location": {
-      "lat": 40.6661463,
-      "lng": -73.8863315
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2"
-    ],
-    "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2308,15 +2085,15 @@
     "hours": {
       "tuesday": [
         830,
-        null
+        1630
       ],
       "wednesday": [
         830,
-        null
+        1630
       ],
       "thursday": [
         830,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -2331,9 +2108,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -2348,23 +2125,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2379,11 +2156,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -2401,23 +2178,23 @@
     "hours": {
       "monday": [
         1000,
-        null
+        1900
       ],
       "tuesday": [
         1000,
-        null
+        1900
       ],
       "wednesday": [
         1000,
-        null
+        1900
       ],
       "thursday": [
         1000,
-        null
+        1900
       ],
       "friday": [
         1000,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -2432,11 +2209,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -2451,23 +2228,23 @@
     "hours": {
       "monday": [
         1000,
-        null
+        1900
       ],
       "tuesday": [
         1000,
-        null
+        1900
       ],
       "wednesday": [
         1000,
-        null
+        1900
       ],
       "thursday": [
         1000,
-        null
+        1900
       ],
       "friday": [
         1000,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -2482,11 +2259,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -2501,19 +2278,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2528,12 +2305,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2546,15 +2326,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2569,11 +2349,14 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2586,15 +2369,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2609,11 +2392,14 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2626,19 +2412,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2653,12 +2439,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -2671,15 +2460,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -2694,9 +2483,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
     "closed": [],
     "notes": [],
@@ -2711,11 +2501,11 @@
     "hours": {
       "friday": [
         900,
-        null
+        1400
       ],
       "sunday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -2730,7 +2520,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -2746,19 +2536,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -2773,10 +2563,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -2792,15 +2582,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -2815,9 +2605,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -2833,15 +2623,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -2856,9 +2646,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -2874,11 +2664,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -2893,8 +2683,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -2911,23 +2701,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1600
       ],
       "tuesday": [
         800,
-        null
+        1600
       ],
       "wednesday": [
         800,
-        null
+        1600
       ],
       "thursday": [
         800,
-        null
+        1600
       ],
       "friday": [
         800,
-        null
+        1200
       ]
     },
     "errors": [],
@@ -2963,23 +2753,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -3012,23 +2802,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -3061,23 +2851,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
+        1500
       ]
     },
     "errors": [],
@@ -3110,23 +2900,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -3158,31 +2948,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -3214,31 +3004,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -3270,31 +3060,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -3326,23 +3116,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -3374,31 +3164,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -3430,11 +3220,11 @@
     "hours": {
       "sunday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -3448,12 +3238,12 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-26",
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-26",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [
       "2022-01-01"
@@ -3470,19 +3260,19 @@
     "hours": {
       "monday": [
         1100,
-        null
+        1900
       ],
       "tuesday": [
         1100,
-        null
+        1900
       ],
       "wednesday": [
         1100,
-        null
+        1900
       ],
       "thursday": [
         1100,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -3497,10 +3287,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -3560,27 +3350,27 @@
     "hours": {
       "monday": [
         830,
-        null
+        2030
       ],
       "tuesday": [
         830,
-        null
+        2030
       ],
       "wednesday": [
         830,
-        null
+        2030
       ],
       "thursday": [
         830,
-        null
+        2030
       ],
       "friday": [
         830,
-        null
+        2030
       ],
       "saturday": [
         830,
-        null
+        1530
       ]
     },
     "errors": [],
@@ -3610,19 +3400,19 @@
     "hours": {
       "monday": [
         1200,
-        null
+        2000
       ],
       "tuesday": [
         1200,
-        null
+        2000
       ],
       "wednesday": [
         1200,
-        null
+        2000
       ],
       "thursday": [
         1200,
-        null
+        2000
       ]
     },
     "errors": [],
@@ -3637,10 +3427,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -3655,11 +3445,11 @@
     "hours": {
       "monday": [
         800,
-        null
+        1600
       ],
       "friday": [
         800,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -3673,10 +3463,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -3692,19 +3482,19 @@
     "hours": {
       "monday": [
         800,
-        null
+        1600
       ],
       "tuesday": [
         800,
-        null
+        1600
       ],
       "wednesday": [
         800,
-        null
+        1600
       ],
       "thursday": [
         800,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -3718,10 +3508,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -3736,7 +3526,7 @@
     "hours": {
       "monday": [
         930,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -3750,8 +3540,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -3766,7 +3556,7 @@
     "hours": {
       "monday": [
         930,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -3780,8 +3570,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -3796,7 +3586,7 @@
     "hours": {
       "monday": [
         930,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -3810,8 +3600,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -3826,11 +3616,11 @@
     "hours": {
       "tuesday": [
         1100,
-        null
+        1800
       ],
       "wednesday": [
         1100,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -3844,8 +3634,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29"
+      "2022-12-28",
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -3860,7 +3650,7 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -3874,7 +3664,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29"
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -3889,7 +3679,7 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -3903,7 +3693,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29"
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -3918,7 +3708,7 @@
     "hours": {
       "sunday": [
         830,
-        null
+        1530
       ]
     },
     "errors": [],
@@ -3947,11 +3737,11 @@
     "hours": {
       "friday": [
         900,
-        null
+        1330
       ],
       "sunday": [
         1030,
-        null
+        1730
       ]
     },
     "errors": [],
@@ -3965,7 +3755,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -3981,31 +3771,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4020,15 +3802,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4041,31 +3824,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4080,15 +3855,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4101,23 +3877,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -4133,11 +3909,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4155,7 +3931,7 @@
     "hours": {
       "sunday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -4185,7 +3961,7 @@
     "hours": {
       "sunday": [
         800,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4215,23 +3991,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4246,11 +4022,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4268,23 +4044,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4299,11 +4075,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4321,23 +4097,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4352,11 +4128,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4374,23 +4150,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4405,11 +4181,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4427,19 +4203,19 @@
     "hours": {
       "tuesday": [
         1000,
-        null
+        1900
       ],
       "wednesday": [
         1000,
-        null
+        1900
       ],
       "thursday": [
         1000,
-        null
+        1900
       ],
       "friday": [
         1000,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -4454,10 +4230,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -4472,19 +4248,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -4499,10 +4275,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4520,19 +4296,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4547,10 +4323,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -4566,19 +4342,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4593,10 +4369,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -4612,15 +4388,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4635,9 +4411,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4655,11 +4431,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4674,8 +4450,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4693,11 +4469,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4712,8 +4488,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -4731,11 +4507,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -4750,13 +4526,48 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
       "2022-01-01"
     ],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "Highbridge Park – North End",
+    "address": "On Dyckman St. across from 175 Nagle Ave.\nNew York, NY 10034",
+    "borough": "manhattan",
+    "site_type": "mobile",
+    "hours": {
+      "friday": [
+        900,
+        1400
+      ],
+      "sunday": [
+        900,
+        1800
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "rapid",
+      "pcr"
+    ],
+    "location": {
+      "lat": 40.86140109999999,
+      "lng": -73.9242916
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2022-12-31",
+      "2022-1-2"
+    ],
+    "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -4769,7 +4580,7 @@
     "hours": {
       "saturday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -4799,31 +4610,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -4856,23 +4667,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1200
       ]
     },
     "errors": [],
@@ -4904,23 +4715,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -4953,23 +4764,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1600
       ],
       "tuesday": [
         800,
-        null
+        1600
       ],
       "wednesday": [
         800,
-        null
+        1600
       ],
       "thursday": [
         800,
-        null
+        1600
       ],
       "friday": [
         800,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -5002,23 +4813,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5095,7 +4906,7 @@
     "hours": {
       "monday": [
         1000,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -5109,7 +4920,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27"
+      "2022-12-27"
     ],
     "closed": [],
     "notes": [],
@@ -5124,7 +4935,7 @@
     "hours": {
       "thursday": [
         1000,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -5138,7 +4949,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30"
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -5153,7 +4964,7 @@
     "hours": {
       "friday": [
         830,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -5167,7 +4978,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31"
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -5182,31 +4993,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5221,15 +5024,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5242,31 +5046,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5281,15 +5077,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5302,31 +5099,31 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
+        1900
       ],
       "saturday": [
         800,
-        null
+        1900
       ],
       "sunday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -5340,15 +5137,7 @@
       "lng": -73.8173901
     },
     "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2"
-    ],
+    "open": [],
     "closed": [],
     "notes": [],
     "appointments_required": false,
@@ -5362,31 +5151,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5401,15 +5182,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5422,31 +5204,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5461,15 +5235,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5482,31 +5257,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5521,15 +5288,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5542,31 +5310,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5581,15 +5341,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5602,31 +5363,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5641,75 +5394,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "John F. Kennedy Airport",
-    "address": "Located next to Terminal 5 Airtrain Station,\nQueens, NY 11430",
-    "borough": "queens",
-    "site_type": "mobile",
-    "hours": {
-      "monday": [
-        800,
-        null
-      ],
-      "tuesday": [
-        800,
-        null
-      ],
-      "wednesday": [
-        800,
-        null
-      ],
-      "thursday": [
-        800,
-        null
-      ],
-      "friday": [
-        800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "rapid",
-      "pcr"
+    "closed": [
+      "2022-01-01"
     ],
-    "location": {
-      "lat": 40.6474925,
-      "lng": -73.7799744
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2"
-    ],
-    "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5722,31 +5416,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5761,15 +5447,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5782,7 +5469,7 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -5797,7 +5484,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27"
+      "2022-12-27"
     ],
     "closed": [],
     "notes": [],
@@ -5812,31 +5499,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -5851,15 +5530,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5872,11 +5552,11 @@
     "hours": {
       "wednesday": [
         800,
-        null
+        1800
       ],
       "thursday": [
         800,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -5891,8 +5571,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -5907,15 +5587,11 @@
     "hours": {
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
+        1400
       ],
       "sunday": [
         800,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -5930,11 +5606,12 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -5947,7 +5624,7 @@
     "hours": {
       "sunday": [
         800,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -5977,23 +5654,23 @@
     "hours": {
       "monday": [
         830,
-        null
+        1600
       ],
       "tuesday": [
         830,
-        null
+        1600
       ],
       "wednesday": [
         830,
-        null
+        1600
       ],
       "thursday": [
         830,
-        null
+        1600
       ],
       "friday": [
         830,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -6007,17 +5684,7 @@
       "lng": -73.7713777
     },
     "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2",
-      "2022-1-3",
-      "2022-1-4"
-    ],
+    "open": [],
     "closed": [
       "2022-01-01"
     ],
@@ -6033,23 +5700,23 @@
     "hours": {
       "monday": [
         830,
-        null
+        1600
       ],
       "tuesday": [
         830,
-        null
+        1600
       ],
       "wednesday": [
         830,
-        null
+        1600
       ],
       "thursday": [
         830,
-        null
+        1600
       ],
       "friday": [
         830,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -6063,17 +5730,7 @@
       "lng": -73.74504720000002
     },
     "wait_time": "unknown",
-    "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
-      "2022-1-2",
-      "2022-1-3",
-      "2022-1-4"
-    ],
+    "open": [],
     "closed": [
       "2022-01-01"
     ],
@@ -6089,23 +5746,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1400
       ],
       "tuesday": [
         900,
-        null
+        1400
       ],
       "wednesday": [
         900,
-        null
+        1400
       ],
       "thursday": [
         900,
-        null
+        1400
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -6120,11 +5777,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -6142,15 +5799,15 @@
     "hours": {
       "tuesday": [
         700,
-        null
+        1700
       ],
       "wednesday": [
         700,
-        null
+        1700
       ],
       "thursday": [
         700,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -6165,9 +5822,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
       "2022-1-2"
     ],
     "closed": [],
@@ -6183,15 +5840,15 @@
     "hours": {
       "tuesday": [
         700,
-        null
+        1700
       ],
       "wednesday": [
         700,
-        null
+        1700
       ],
       "thursday": [
         700,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -6206,9 +5863,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
       "2022-1-2"
     ],
     "closed": [],
@@ -6224,15 +5881,15 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1700
       ],
       "wednesday": [
         900,
-        null
+        1700
       ],
       "thursday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -6247,9 +5904,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
       "2022-1-2"
     ],
     "closed": [],
@@ -6265,15 +5922,15 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1700
       ],
       "wednesday": [
         900,
-        null
+        1700
       ],
       "thursday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -6288,9 +5945,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
       "2022-1-2"
     ],
     "closed": [],
@@ -6306,19 +5963,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -6333,12 +5990,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6351,19 +6011,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -6378,12 +6038,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6396,19 +6059,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -6423,12 +6086,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6441,15 +6107,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -6464,11 +6130,14 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
+      "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -6481,19 +6150,19 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1800
       ],
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -6508,10 +6177,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -6527,15 +6196,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -6550,9 +6219,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -6570,11 +6239,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -6589,8 +6258,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -6608,11 +6277,11 @@
     "hours": {
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -6627,8 +6296,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-30",
-      "2021-12-31",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [
@@ -6647,23 +6316,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
+        1200
       ]
     },
     "errors": [],
@@ -6698,23 +6367,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -6746,31 +6415,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -6802,11 +6471,11 @@
     "hours": {
       "sunday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -6820,13 +6489,13 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-24",
-      "2021-12-26",
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-24",
+      "2022-12-26",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [
       "2022-01-01"
@@ -6888,31 +6557,31 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1600
       ],
       "friday": [
         800,
-        null
+        1600
       ],
       "saturday": [
         800,
-        null
+        1600
       ],
       "sunday": [
         800,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -6941,23 +6610,23 @@
     "hours": {
       "monday": [
         900,
-        null
+        1700
       ],
       "tuesday": [
         900,
-        null
+        1700
       ],
       "wednesday": [
         900,
-        null
+        1700
       ],
       "thursday": [
         1100,
-        null
+        1900
       ],
       "sunday": [
         800,
-        null
+        1600
       ]
     },
     "errors": [],
@@ -6971,10 +6640,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
       "2022-1-2"
     ],
     "closed": [],
@@ -6990,15 +6659,15 @@
     "hours": {
       "tuesday": [
         930,
-        null
+        1630
       ],
       "wednesday": [
         930,
-        null
+        1630
       ],
       "friday": [
         930,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -7012,9 +6681,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-31"
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -7029,7 +6698,7 @@
     "hours": {
       "monday": [
         1000,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -7043,7 +6712,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27"
+      "2022-12-27"
     ],
     "closed": [],
     "notes": [],
@@ -7058,23 +6727,23 @@
     "hours": {
       "monday": [
         1130,
-        null
+        1830
       ],
       "tuesday": [
         1030,
-        null
+        1730
       ],
       "wednesday": [
         1030,
-        null
+        1730
       ],
       "thursday": [
         1030,
-        null
+        1730
       ],
       "friday": [
         1030,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -7088,11 +6757,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -7107,11 +6776,11 @@
     "hours": {
       "friday": [
         830,
-        null
+        1330
       ],
       "sunday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -7125,7 +6794,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31",
+      "2022-12-31",
       "2022-1-2"
     ],
     "closed": [],
@@ -7141,23 +6810,23 @@
     "hours": {
       "monday": [
         930,
-        null
+        1730
       ],
       "tuesday": [
         930,
-        null
+        1730
       ],
       "wednesday": [
         930,
-        null
+        1730
       ],
       "thursday": [
         930,
-        null
+        1730
       ],
       "friday": [
         1000,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -7171,11 +6840,11 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -7190,7 +6859,7 @@
     "hours": {
       "monday": [
         830,
-        null
+        1530
       ]
     },
     "errors": [],
@@ -7204,8 +6873,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -7220,7 +6889,7 @@
     "hours": {
       "tuesday": [
         1030,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -7234,41 +6903,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28"
-    ],
-    "closed": [],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {}
-  },
-  {
-    "name": "Woodhaven BID",
-    "address": "89-07 Jamaica Ave,\nQueens, NY 11421",
-    "borough": "queens",
-    "site_type": "micro",
-    "hours": {
-      "friday": [
-        830,
-        null
-      ],
-      "sunday": [
-        1130,
-        null
-      ]
-    },
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "saliva-pcr"
-    ],
-    "location": {
-      "lat": 40.6929253,
-      "lng": -73.8554099
-    },
-    "wait_time": "unknown",
-    "open": [
-      "2021-12-31",
-      "2022-1-2"
+      "2022-12-28"
     ],
     "closed": [],
     "notes": [],
@@ -7283,7 +6918,7 @@
     "hours": {
       "sunday": [
         930,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -7305,6 +6940,99 @@
     "date_specific_hours": {}
   },
   {
+    "name": "Gurdwara Sikh Cultural Society",
+    "address": "95-30 118th St,\nQueens, NY 11419",
+    "borough": "queens",
+    "site_type": "micro",
+    "hours": {
+      "friday": [
+        930,
+        1630
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.6910728,
+      "lng": -73.8280304
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2022-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "CM Holden Office",
+    "address": "64-69 Dry Harbor Road,\nQueens, NY 11379",
+    "borough": "queens",
+    "site_type": "micro",
+    "hours": {
+      "friday": [
+        1030,
+        1730
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.718115,
+      "lng": -73.87214999999999
+    },
+    "wait_time": "unknown",
+    "open": [
+      "2022-12-31"
+    ],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
+    "name": "NYS Assembly- Brian Barnwell",
+    "address": "55-19 69th St,\nQueens, NY 11378",
+    "borough": "queens",
+    "site_type": "micro",
+    "hours": {
+      "friday": [
+        1030,
+        1730
+      ],
+      "saturday": [
+        1030,
+        1730
+      ],
+      "sunday": [
+        1030,
+        1730
+      ]
+    },
+    "errors": [],
+    "minimum_age": 4,
+    "offers": [
+      "saliva-pcr"
+    ],
+    "location": {
+      "lat": 40.727262,
+      "lng": -73.89513099999999
+    },
+    "wait_time": "unknown",
+    "open": [],
+    "closed": [],
+    "notes": [],
+    "appointments_required": false,
+    "date_specific_hours": {}
+  },
+  {
     "name": "Wolfe’s Pond Park (Parking Lot)",
     "address": "Wolfe’s Pond Park Chester St,\nStaten Island, NY 10312",
     "borough": "staten-island",
@@ -7312,31 +7040,23 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ],
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
-      ],
-      "sunday": [
-        800,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -7351,15 +7071,16 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -7372,19 +7093,19 @@
     "hours": {
       "monday": [
         800,
-        null
+        1900
       ],
       "tuesday": [
         800,
-        null
+        1900
       ],
       "wednesday": [
         800,
-        null
+        1900
       ],
       "thursday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -7399,10 +7120,10 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -7417,15 +7138,11 @@
     "hours": {
       "friday": [
         800,
-        null
-      ],
-      "saturday": [
-        800,
-        null
+        1400
       ],
       "sunday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -7440,11 +7157,12 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-31",
-      "2022-1-1",
+      "2022-12-31",
       "2022-1-2"
     ],
-    "closed": [],
+    "closed": [
+      "2022-01-01"
+    ],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
@@ -7457,15 +7175,15 @@
     "hours": {
       "wednesday": [
         900,
-        null
+        1800
       ],
       "thursday": [
         900,
-        null
+        1800
       ],
       "friday": [
         900,
-        null
+        1400
       ]
     },
     "errors": [],
@@ -7480,9 +7198,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29",
-      "2021-12-30",
-      "2021-12-31"
+      "2022-12-29",
+      "2022-12-30",
+      "2022-12-31"
     ],
     "closed": [],
     "notes": [],
@@ -7497,7 +7215,7 @@
     "hours": {
       "saturday": [
         800,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -7528,23 +7246,23 @@
     "hours": {
       "monday": [
         700,
-        null
+        1900
       ],
       "tuesday": [
         700,
-        null
+        1900
       ],
       "wednesday": [
         700,
-        null
+        1900
       ],
       "thursday": [
         700,
-        null
+        1900
       ],
       "friday": [
         700,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -7576,31 +7294,27 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
-      ],
-      "saturday": [
-        900,
-        null
+        1400
       ],
       "sunday": [
         900,
-        null
+        1800
       ]
     },
     "errors": [],
@@ -7616,7 +7330,6 @@
     "wait_time": "unknown",
     "open": [],
     "closed": [
-      "2021-12-31",
       "2022-01-01"
     ],
     "notes": [],
@@ -7631,31 +7344,31 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
+        1900
       ],
       "friday": [
         900,
-        null
+        1900
       ],
       "saturday": [
         900,
-        null
+        1900
       ],
       "sunday": [
         900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -7687,31 +7400,19 @@
     "hours": {
       "monday": [
         900,
-        null
+        1900
       ],
       "tuesday": [
         900,
-        null
+        1900
       ],
       "wednesday": [
         900,
-        null
+        1900
       ],
       "thursday": [
         900,
-        null
-      ],
-      "friday": [
-        900,
-        null
-      ],
-      "saturday": [
-        900,
-        null
-      ],
-      "sunday": [
-        900,
-        null
+        1900
       ]
     },
     "errors": [],
@@ -7743,19 +7444,19 @@
     "hours": {
       "monday": [
         2030,
-        null
+        1630
       ],
       "tuesday": [
         2030,
-        null
+        1630
       ],
       "wednesday": [
         2030,
-        null
+        1630
       ],
       "thursday": [
         2030,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -7770,60 +7471,15 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-29",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-29",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
     "appointments_required": false,
     "date_specific_hours": {}
-  },
-  {
-    "name": "Port Richmond High School",
-    "address": "85 St. Joseph’s Ave.\nStaten Island, NY 10302",
-    "borough": "staten-island",
-    "site_type": "mortar",
-    "hours": {},
-    "errors": [],
-    "minimum_age": 4,
-    "offers": [
-      "pcr"
-    ],
-    "location": {
-      "lat": 40.634843,
-      "lng": -74.142015
-    },
-    "wait_time": "unknown",
-    "open": [],
-    "closed": [
-      "2022-01-01"
-    ],
-    "notes": [],
-    "appointments_required": false,
-    "date_specific_hours": {
-      "2021-12-27": [
-        730,
-        1900
-      ],
-      "2021-12-28": [
-        730,
-        1900
-      ],
-      "2021-12-29": [
-        730,
-        1900
-      ],
-      "2021-12-30": [
-        730,
-        1900
-      ],
-      "2021-12-31": [
-        730,
-        1600
-      ]
-    }
   },
   {
     "name": "MetroPlus Community Office (Staten Island)",
@@ -7833,11 +7489,11 @@
     "hours": {
       "tuesday": [
         900,
-        null
+        1700
       ],
       "wednesday": [
         900,
-        null
+        1700
       ]
     },
     "errors": [],
@@ -7851,8 +7507,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-29"
+      "2022-12-28",
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
@@ -7867,15 +7523,15 @@
     "hours": {
       "monday": [
         900,
-        null
+        1700
       ],
       "tuesday": [
         930,
-        null
+        1630
       ],
       "thursday": [
         930,
-        null
+        1300
       ]
     },
     "errors": [],
@@ -7889,9 +7545,9 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-27",
-      "2021-12-28",
-      "2021-12-30"
+      "2022-12-27",
+      "2022-12-28",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -7906,11 +7562,11 @@
     "hours": {
       "tuesday": [
         930,
-        null
+        1530
       ],
       "thursday": [
         930,
-        null
+        1330
       ]
     },
     "errors": [],
@@ -7924,8 +7580,8 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-28",
-      "2021-12-30"
+      "2022-12-28",
+      "2022-12-30"
     ],
     "closed": [],
     "notes": [],
@@ -7940,7 +7596,7 @@
     "hours": {
       "wednesday": [
         930,
-        null
+        1630
       ]
     },
     "errors": [],
@@ -7954,7 +7610,7 @@
     },
     "wait_time": "unknown",
     "open": [
-      "2021-12-29"
+      "2022-12-29"
     ],
     "closed": [],
     "notes": [],
